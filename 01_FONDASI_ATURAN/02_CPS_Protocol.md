@@ -1,62 +1,30 @@
-# CPS PROTOCOL & ATURAN BAHASA
+# CPS V5 — DEKAT DENGAN TUBUH, TETAP MEMILIKI BATIN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN FONDASI – GAYA PENULISAN & PROSA (FINAL)**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
-> **HIERARKI:** File ini tunduk pada `PROMPT_MASTER_3.0_XU_QING_STYLE.md`. Jika terjadi pertentangan, **Prompt Master 3.0 yang menang.**
+CPS di sini berarti **Concrete, Personal, Situated**: sesuatu yang spesifik, punya hubungan pribadi, dan terjadi di tempat/waktu yang dapat dikenali. Ini panduan keputusan prosa, bukan kuota kata per kalimat.
 
----
+## Sudut pandang
 
-## 1. ATURAN BAHASA SERAGAM (AKU/KAMU) — WAJIB
+Orang ketiga terbatas dekat Yazha. Narator boleh masuk ke salah tafsir dan pikiran Yazha, tetapi tidak boleh memastikan maksud tokoh lain tanpa bukti. “Veyla menahan senyum” boleh jika tampak; “Veyla sebenarnya tahu seluruh rencana Varin” perlu adegan/bukti. POV lain memakai judul nama, bukan deretan simbol yang tidak menjelaskan siapa melihat.
 
-| Aturan | Contoh SALAH | Contoh BENAR |
-|--------|--------------|--------------|
-| **Semua karakter pakai "aku/kamu"** | *"Gue baik-baik aja, Bhaskara."* | *"Aku baik-baik aja, Bhaskara."* |
-| **Monolog internal Yazha juga "aku"** | *"Gue masih hidup."* | *"Aku masih hidup."* |
-| **Dialog ke orang tua/guru pakai "aku/kamu"** | *"Saya tidak tahu, Bu."* | *"Aku tidak tahu, Bu."* |
+**Batin bukan label kosong.** “Ia takut” tidak otomatis salah; yang lemah adalah mengulangnya tanpa objek, pilihan, atau akibat. “Jika tangannya berhenti gemetar, ia harus menyerahkan kertas itu. Ia berharap gemetarnya tidak berhenti” memberikan konflik yang tidak bisa ditangkap kamera.
 
----
+## Bahasa dan ritme
 
-## 2. 8 ATURAN CPS PROTOCOL
+- Narasi Indonesia jernih dan modern; dialog menyesuaikan kelas, usia, hubungan. Yazha memakai aku/kamu kepada teman, Ayah/Ibu di rumah, dan dapat memakai saya kepada petugas.
+- Kalimat pendek ketika perhatian menyempit; kalimat lebih panjang ketika pikiran menunda keputusan. Tidak ada kewajiban kalimat majemuk setiap paragraf.
+- Sensorik dipilih karena memicu tindakan/ingatan. Jangan mengisi tiga indera dan dua metafora secara mekanis.
+- Humor boleh hangat. Kebodohan ringan, lapar, dan obrolan tidak relevan membuat tokoh dapat dicintai sebelum menjadi simbol duka.
+- Gunakan paragraf panjang atau pendek sesuai gerak; jangan semua adegan menjadi fragmen dingin.
 
-| # | Aturan | Contoh SALAH | Contoh BENAR |
-|---|--------|--------------|--------------|
-| 1 | **Kalimat Pendek di Momen Tegang** (3-7 kata) | *"Yazha merasakan hawa dingin yang menusuk."* | *"Dingin. Gelap. Jantungku berdegup."* |
-| 2 | **Kalimat Panjang di Momen Reflektif** (10-20 kata) | *"Ia memikirkan masa lalu."* | *"Aku mengedarkan pandangan ke sekeliling, mencari sudut kosong buat duduk, membiarkan pikiranku mengalir tanpa arah."* |
-| 3 | **Paragraf Mikro Dominan** (1-3 kalimat) | Satu paragraf 5-7 kalimat. | *"Dingin. Gelap. Darah mengalir dari hidungku. Aku menyekanya—kasar, cepat."* |
-| 4 | **Buka Langsung dengan Aksi/Atmosfer** | *"Pada suatu hari di bulan Juni..."* | *"Desa Ciyasa 2084. Gerah."* |
-| 5 | **Dialog Padat & Terpotong** | *"Apa kabar, Bhaskara? Sudah lama kita tidak bertemu."* | *"Bhaskara. Kamu."* |
-| 6 | **Show-Don't-Tell Ekstrem** (90%) | *"Yazha sedih."* | *"Tenggorokanku tercekat. Jemariku menggaruk retakan di ubin tanpa suara."* |
-| 7 | **Harga Fisik Berkepanjangan** | *"Yazha pulih keesokan harinya."* | *"Mimisan. Kepalaku pusing. Efeknya masih kerasa tiga hari kemudian."* |
-| 8 | **Metafora Membumi (Wajib)** (2-3 per bab) | *"Hatinya hancur seperti kaca."* | *"Setrika arang. Air kaporit. Suara radio tetangga."* |
+## Konsekuensi
 
----
+Sakit harus membuat keputusan berbeda: tangan kebas membuat ia meminta Bhas mengancingkan baju; memori rusak membuat ia menunda janji; kurang tidur membuat ia salah meracik. Kemajuan pulih mempunyai durasi dan bantuan. Penyembuhan bukan alasan menghapus bekas konsekuensi moral.
 
-## 3. STANDAR NARASI (TUNDUK PADA PROMPT MASTER 3.0)
+Adegan emosional bergerak **keinginan → penundaan → benda/tindakan → pemahaman yang terlambat → pekerjaan kecil sesudahnya**. Setelah kematian, sisakan tempat bagi jasad, urusan pemakaman, hutang, dan kebiasaan yang tidak menemukan pemilik. Jangan langsung memotong ke angka level baru.
 
-**Narasi HARUS mengikuti aturan Prompt Master 3.0:**
-- Sastrawi, presisi, dingin.
-- **Narator adalah Kamera.** Tidak boleh menginterpretasikan perasaan.
-- Kata informal (`nggak`, `udah`, `banget`, `kayak`, `gini`, `gitu`) **HARAM TOTAL di narasi.**
+## Yang tidak wajib
 
-**Yang BOLEH di narasi:**
-- ✅ Kalimat majemuk dan variasi sintaksis.
-- ✅ Detail sensorik yang tajam dan spesifik.
-- ✅ Human Noise (distraksi dingin dan ganjil).
-
-**Contoh Narasi yang BENAR (Xu Qing Style):**
-> *"Desa Ciyasa 2084. Gerah. Udara di desa membawa bau tanah dan asap dapur. Yazha duduk di tepi ranjang kayu, merasakan lantai semen dingin di telapak kakinya. Kepalanya pusing. Tadi malam ia bermimpi buruk lagi—tentang Halimun, tentang suara-suara yang tidak bisa ia jelaskan. Ia bangun dengan keringat dingin. Seperti biasa. Di luar, suara ayam berkokok. Di kejauhan, di atas bukit, lampu-lampu perumahan elit masih menyala."*
-
----
-
-## 4. KONTEKS KATA INFORMAL (DIPERJELAS)
-
-| Konteks | `nggak`, `udah`, `banget`, `kayak`, `gini`, `gitu` |
-|---------|------------------------------------------------------|
-| **Narasi** | ❌ HARAM TOTAL |
-| **Dialog** | ✅ BOLEH |
-| **Monolog Internal** | ✅ BOLEH |
-
----
-
-**— END OF FILE —**
+Cliffhanger tiap bab, pikiran acak dingin tiap adegan, filosofi tiap duel, dan larangan seluruh kata penunjuk persepsi. Penutup bab boleh tenang jika keadaan emosional sudah berubah. Kata yang sama bukan dosa; struktur emosi yang sama terus-menerus membuat prosa mekanis.

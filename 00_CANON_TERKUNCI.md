@@ -1,355 +1,259 @@
-# CANON MUTLAK — KECUALIAN KEKOSONGAN (THE VOID'S EXCEPTION)
+# KONTRAK KANON V5 — THE VOID’S EXCEPTION
 
-**Versi:** 4.0 — 9 Oktober 2026
-**Status:** SATU-SATUNYA SUMBER KEBENARAN. Kalau file lain bilang beda, file ini yang menang.
-**Menggantikan:** `00_CANON_TERKUNCI.md` v3 (26 Juli 2026)
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](00_CANON_TERKUNCI.md).
 
----
+## 0. Yang ditulis di sini
 
-## 0. CARA PAKAI
+Ini bible cerita, bukan novel 1.530 bab yang sudah selesai. Angka hidup di `00_DATA_KANON.json`; tabel bertanda CANON diturunkan dari sana. Makna aturan hidup di kontrak ini; mekanik dan contoh adegan ada di dokumen turunannya. Jika sebuah adegan hanya dapat berjalan dengan melanggar kontrak, ubah adegannya, bukan menyelundupkan pengecualian.
 
-1. Sebelum nulis bab → cek **§5 Garis Waktu Master**. Tentukan volume, level, usia Yazha, tahun Bumi.
-2. Sebelum nulis kekuatan → cek **§8 Trinitas Harga**. Setiap teknik wajib punya harga.
-3. Sebelum nulis kalimat → cek **§12 Aturan Penulisan Wajib**.
-4. File turunan: `14_Waktu_Dan_Hayat.md`, `15_Mekanika_Hukum.md`, `16_Ekonomi_Essen.md`.
+Urutan kerja: kontrak ini → peta alur → dossier karakter/lokasi → mesin emosi → draf. Audit V1/V3 dan changelog V4 adalah arsip, bukan petunjuk aktif. Prompt penulisan tunduk kepada V5, bukan sebaliknya.
 
----
+Keputusan pengguna yang tetap: **Yazha manusia biasa; ending rumah bahagia adalah penglihatan; Bhas dan Yuna hidup fana lalu mati; dilasi waktu antar-alam.** Kebebasan revisi tidak berarti mengubah empat keputusan itu diam-diam.
 
-## 1. TIGA AKSIOM
+## 1. Janji novel kepada pembaca
 
-Semua aturan turunan dari tiga kalimat ini. Aturan yang nggak bisa dibalik ke sini = aturan salah.
+> Seorang anak ingin pulang. Setiap kali ia menjadi cukup kuat untuk membuka sebuah pintu, orang yang hendak ia temui sudah berubah. Pada akhirnya ia harus memilih: memiliki rumah yang tidak pernah ada, atau menjamin orang lain masih punya rumah tanpa dirinya.
 
-### AKSIOM I — KEHILANGAN ADALAH SATU-SATUNYA MATA UANG
+Tema bukan “yang paling menderita pantas paling kuat”. Tema adalah **apa yang tetap kita rawat ketika merawatnya tidak menjanjikan imbalan**. Kehilangan menyediakan pertanyaan; latihan, pengetahuan, pertolongan, dan keputusan menyediakan jawaban. Orang yang hidup bahagia tetap bisa kuat. Orang terluka bisa gagal. Pembaca tidak diminta memuja penyiksaan diri.
 
-> Kemajuan di Jalan Aseity diukur dari **kedalaman kehilangan**, bukan bakat, bukan umur, bukan latihan.
+Yazha bukan juru selamat seluruh kosmos. Ia salah membaca orang, menginginkan kendali, dan kadang menolong untuk mengurangi rasa bersalahnya sendiri. Perubahannya terukur: awalnya ia menyamakan mencintai dengan menahan; akhirnya ia sanggup membiarkan orang hidup tanpa menunggu perintahnya.
 
-- Orang **berbakat** naik cepat di awal lalu **mentok**. Mereka nggak pernah belajar kehilangan.
-- Yazha **lambat di awal** (3 tahun untuk Level 1) lalu **terus melaju**.
-- Kecepatan Yazha **berakselerasi**. Kecepatan orang lain **melambat**. Berpotongan di Level ~5.
+## 2. Tiga prinsip fisik dan satu batas etis
 
-| Karakter | Usia subjektif | Level | Kenapa |
-|---|---|---|---|
-| Wiadava (jenius) | 2.400 thn | 8 Puncak → jatuh ke 5 | Bakat luar biasa, mentok, lalu Core hancur |
-| Varin Astralis | 9.600 thn | 10 Tengah | **Nggak pernah kehilangan apa pun** — ia mengambil, bukan memberi |
-| Penguasa Hampa | 20+ miliar thn | 16 Puncak | Mencoba **mengosongkan** diri — mengosongkan bukan memberi |
-| The First Exception | 20 miliar thn | 17 | Melepas segalanya dengan rela |
-| **Yazha (zero bakat)** | **~3.650 thn** | **17** | Kehilangan segalanya sejak umur 11 |
+1. **Tidak ada hasil tanpa sumber.** Essen adalah bahan pembawa energi, Core adalah pemroses, Hukum adalah prosedur. Sumber energi, jangkauan, durasi, dan limbah harus dapat disebut. Ingatan yang hilang tidak berubah menjadi energi tak berhingga.
+2. **Perubahan meninggalkan jejak.** Pembengkokan Hukum menghasilkan Utang Niskala: beban fisik/kausal yang melekat pada rangkaian yang melakukan perubahan. Ia bisa diukur dan dilacak; bukan penagihan acak kepada orang tersayang. Membunuh keluarga tidak menghapus beban pelaku.
+3. **Jam mengikuti lingkungan.** Waktu lokal ditentukan geometri dan kepadatan Essen latar yang stabil. Satu kristal, satu ledakan, atau satu emosi tidak mengubah rasio satu planet. Semua perpindahan menambah waktu yang sungguh dialami, termasuk kunjungan ke alam bawah.
+4. **Orang lain bukan bahan bakar perkembangan Yazha.** Kematian tidak otomatis menaikkan level. Orang yang menolak operasi, perintah, atau cinta Yazha tidak dihukum oleh narator karena penolakan itu.
 
-### AKSIOM II — REALITAS SELALU MENAGIH
+Ini sistem fantasi yang konsisten, bukan klaim fisika dunia nyata.
 
-> Setiap Hukum yang dipaksakan ke realitas menimbulkan **Utang Niskala** sebesar yang sama. Utang ditagih pada **sesuatu yang kau cintai, bukan pada dirimu**.
+## 3. Kosmologi yang dapat dihuni
 
-- Kultivator kuat itu **berhati-hati**. Dunia nggak dikuasai dewa karena dewa kebanyakan utang.
-- **Keunggulan mekanis Yazha:** utangnya sudah maksimal sejak Vol 1. Realitas nggak punya lagi yang bisa ditagih.
-- **Tapi ada batasnya:** kalau utang sudah maksimal, pemaksaan berikutnya nggak bikin utang — ia **menghapus dirimu**. Setiap pakai Hukum Kehilangan mengikis ingatan, nama, ikatan.
+Semesta Dalam adalah satu gelembung dengan empat **lapisan topologi**, bukan empat tangga moral. Alam Fana memuat Bumi Fana, Elyra-Thal, Veyra, dan planet sipil lain. Alam Bintang, Kekosongan, dan Keabadian mempunyai permukiman, anak-anak, pertanian, limbah, dan daerah terlindung. Sebutan “Keabadian” adalah nama historis; penghuninya tetap dapat mati.
 
-Ini menjelaskan: kenapa Yazha bisa tembus Unbegotten (sudah kosong) · kenapa jadi "Si Pemuda Tanpa Nama" di Lv 13 · kenapa akhirnya kehilangan memori (bukan paradoks waktu, tapi pengikisan).
+Elyra-Thal disebut Bumi Abadi karena kalender dan distribusinya stabil, bukan karena warganya kebal umur. Diameter sekitar **16.000 km**, gravitasi permukaan sekitar **1,1 g**. Lima zona adalah wilayah administrasi/akses, tidak semuanya benua konsentris. Zona 1 ruang mesin tertutup, Zona 2 kampus, Zona 3 Kota Arus, Zona 4 Hutan Pola, Zona 5 Tepi Lipatan dan pelabuhan gerbang.
 
-→ Detail: `04_SISTEM_KULTIVASI/15_Mekanika_Hukum.md`
+**The Shell punya dua lapis:** batas alami yang menjaga konstanta setempat; dan kisi kunci buatan Sidang Sumber. Membuka kisi tidak menghancurkan batas alami. Membuka satu celah terukur tidak mematikan seluruh peradaban.
 
-### AKSIOM III — WAKTU ADALAH AKIBAT, BUKAN SEBAB
+Bumi Fana tidak menerima jatah impor Essen, tetapi memiliki **jejak alamiah yang sangat rendah**. Ia bukan satu-satunya planet miskin. Mesin listrik, baterai, pertanian, dan perdagangan biasa tetap menopang hidup. Bhas/Yuna mempunyai akses kristal selundupan dari keluarga diaspora; tidak ada pertentangan dengan kebijakan nol impor resmi. Wiadava memakai sisa persediaan pribadinya untuk latihan awal Yazha.
 
-> Waktu bukan fondasi. Ia **muncul** dari kecepatan sebab menjadi akibat. Makin padat Essen, makin cepat kausalitas, makin cepat waktu berlalu.
+## 4. Energi, kekuasaan, dan harga kemiskinan
 
-→ Setiap alam punya **rasio waktu** sendiri. Ini yang menyelesaikan kontradiksi terbesar bible v3.
-→ Detail: `04_SISTEM_KULTIVASI/14_Waktu_Dan_Hayat.md`
+Essen tidak diciptakan Lesh dari ketiadaan. Ia ditambang dari reservoir geologis/topologis, dimurnikan, diedarkan, lalu kehilangan mutu sebagai limbah. **Lesh biasa** adalah kristal penyimpan. **Sebelas Lesh Putih** adalah mesin unik; tidak dapat dibuat oleh Core dan tidak memilih pemilik secara mistis.
 
----
+Jantung Bumi adalah pompa, bukan sumber tak berhingga. Universitas adalah sekolah sekaligus pengelola satu lisensi kuota utama per planet; cabang kampus dan sekolah biasa tetap banyak. Sekte memiliki tambang, keamanan, rumah sakit, dan juga anggota yang tidak sepakat dengan pemimpinnya. Kekaisaran Arus mengurus sipil. Monopoli tidak berarti setiap pekerja institusi itu jahat.
 
-## 2. SISTEM WAKTU (RINGKASAN)
+Grand Tournament adalah kompetisi **beregu**, membagi hak audit dan alokasi tambahan, bukan hadiah seluruh sumber daya planet. Tim Yazha menang karena kerja kolektif; ia tidak menjadi raja semesta. Kemenangan publik merusak kerahasiaan Moxi.
 
-| Lokasi | Rasio thd Bumi Fana | Arti |
-|---|---|---|
-| **Bumi Fana** (Bumi asal) | **1×** | 1 hari = 1 hari |
-| **Bumi Abadi / Elyra-Thal** | **3×** | 1 hari Bumi = 3 hari di sana |
-| **Alam Bintang** | **12×** | 1 hari Bumi = 12 hari |
-| **Alam Kekosongan** | **60×** | 1 hari Bumi = 2 bulan |
-| **Alam Keabadian** | **300×** | 1 hari Bumi = 10 bulan |
-| **Luar The Shell** | — | Kausalitas nggak berlaku. Waktu nggak ada. |
+Yazha bisa hidup dari pekerjaan farmasi, beasiswa, atau pengawalan. Moxi adalah pilihan berbahaya untuk mempercepat pencarian Nala—**bukan satu-satunya pekerjaan yang dimungkinkan cerita**. Pembunuhan Sena Oris berdasarkan bukti palsu tetap salah. Ia harus mengaku dan membantu keluarganya tanpa tuntutan diampuni.
 
-**Angka kunci:**
-- **Total perjalanan Vol 1–14: ~3.650 tahun subjektif Yazha.**
-- **Tetapi cuma ~39 tahun yang lewat di Bumi Fana (2084 → 2123).**
-- Yazha berakhir secara subjektif **~3.660 tahun**, sementara kalender Bumi baru 2123.
+## 5. Jam dan hayat
 
-**Kenapa ini bukan curang:** Yazha beneran berkultivasi 3.650 tahun. Dia beneran tua. Yang terjadi adalah orang-orang yang ia tinggalkan cuma menua 39 tahun. **Itulah novelnya.**
+Epoch cerita **17 Agustus 2084**: Yazha 11, Nala 3. Invasi **17 Agustus 2087**: Yazha 14, Nala 6. Ujung perjalanan **17 Agustus 2123** menurut jam Bumi.
 
----
+<!-- BEGIN CANON:clock_rates -->
+| Tempat | Tahun lokal per tahun Bumi |
+| --- | --- |
+| Bumi Fana | 1 |
+| Bumi Abadi | 3 |
+| Alam Bintang | 12 |
+| Alam Kekosongan | 60 |
+| Alam Keabadian | 300 |
+<!-- END CANON:clock_rates -->
 
-## 3. NAMA KANONIK & ATURAN PANGGILAN
+Jam tubuh dan pikiran mengikuti tempat. Kunjungan tidak gratis. Stasis membuat tubuh **dan pikiran** tidak berproses; tidak memberi pengalaman, latihan, atau pencerahan. Stasis memerlukan Essen, pendinginan, operator, dan catatan bangun. Satu tubuh tidak dapat ada pada dua jam sekaligus.
 
-| Peran | Nama | Panggilan |
-|---|---|---|
-| Protagonis | Yazhaxa Raynawa | Yazha |
-| Adik | Nala Raynawa | Nala / Nal |
-| Ayah | Dhiza Raynawa | Ayah |
-| Ibu | Vaniya Raynawa | Ibu |
-| Sahabat 1 | Bhaskara Dewantara | Bhaskara / Bhas |
-| Sahabat 2 | Ryuna Daniswara | Ryuna / Yuna |
-| Mentor | Aethel Wiadava | Mas Dava, Wiadava |
-| Antagonis 1 | Varek Voth | Varek |
-| Antagonis 2 | Goliath Voth | Goliath |
-| Antagonis 3 | Varin Astralis | Varin |
+<!-- BEGIN CANON:volumes -->
+| Vol | Bab | Lokasi Yazha | Level | Tahun lokal | Δ tahun Bumi | Σ tahun Bumi | Usia Yazha |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1–35 | Bumi Fana | 0→0 | 3 | 3 | 3 | 14 |
+| 2 | 36–120 | Bumi Abadi | 0→2 | 6 | 2 | 5 | 20 |
+| 3 | 121–240 | Bumi Abadi | 2→3 | 6 | 2 | 7 | 26 |
+| 4 | 241–360 | Bumi Abadi | 3→4 | 9 | 3 | 10 | 35 |
+| 5 | 361–480 | Alam Bintang | 4→5 | 12 | 1 | 11 | 47 |
+| 6 | 481–600 | Alam Bintang | 5→6 | 24 | 2 | 13 | 71 |
+| 7 | 601–720 | Alam Bintang | 6→7 | 36 | 3 | 16 | 107 |
+| 8 | 721–840 | Alam Bintang → Alam Kekosongan | 7→8 | 132 | 3 | 19 | 239 |
+| 9 | 841–960 | Alam Kekosongan → Bumi Abadi | 8→9 | 119,05 | 2 | 21 | 358,05 |
+| 10 | 961–1080 | Alam Kekosongan | 9→10 | 180 | 3 | 24 | 538,05 |
+| 11 | 1081–1200 | Alam Kekosongan → Bumi Abadi | 10→11 | 239,05 | 4 | 28 | 777,1 |
+| 12 | 1201–1320 | Alam Keabadian | 11→13 | 450 | 1,5 | 29,5 | 1.227,1 |
+| 13 | 1321–1440 | Alam Keabadian → Bumi Abadi → Alam Keabadian | 13→16 | 1.450,5 | 5 | 34,5 | 2.677,6 |
+| 14 | 1441–1530 | Alam Keabadian; Luar Shell hanya bab 1530 | 16→17 | 1.350 | 4,5 | 39 | 4.027,6 |
+<!-- END CANON:volumes -->
 
-### Aturan Panggilan Xa Veylara (LOCKED)
+**Jumlah terhitung:** 39 tahun Bumi; **4.016,6 tahun lokal Yazha**; usia menjelang lompatan **4.027,6**. Koreksi dari perkiraan V4 bukan bonus tahun di luar waktu. V14 berlangsung di **Ambang Dalam**, masih Alam Keabadian 300×, sampai bab 1529. Baru bab 1530 di luar Shell. Di luar tidak ada jam bersama, bukan tidak ada perubahan atau pengalaman subjektif.
 
-| Siapa | Panggilan |
-|---|---|
-| Yazhaxa Raynawa | **Veyla** |
-| Bhaskara, Ryuna, umum | **Veylara** |
-| Klan Xa, bangsawan Veyra | **Putri Xa** |
-| Dokumen resmi | **Xa Veylara** |
-
-**Alias Yazha** (konteks khusus, lihat `06_Reputasi_Gelar.md`):
-| Alias | Dipakai saat |
-|---|---|
-| **Moxi** | Identitas pembunuh bayaran. Topeng hitam polos. Vol 5–8. |
-| **Ray** / **Nawa** | Nyamar di wilayah asing |
-| **Y.R.** | Dokumen resmi, daftar mahasiswa |
-| **Yaz** | Santai, ingin terlihat biasa |
-
----
-
-## 4. LOKASI & ARTEFAK
-
-**Kalimat baku lokasi:**
-> "Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia. Rumah kontrakan kayu, atap seng berkarat, jalan tanah becek. Jarak ke sekolah 7 km jalan kaki. Di kaki Pegunungan Halimun."
-
-| Artefak | Keterangan |
-|---|---|
-| **Buku Catatan Wiadava** | Buku tulis sekolah biasa. Nol energi. Berisi peta 4 alam + penjelasan Hukum + pesan terakhir. |
-| **Tongkat Safir Aethel** | Kayu Eter hitam, ujung safir. Berat mutlak. Dipinjam, dipakai sampai akhir. |
-| **Kamus Asal** | Prasasti batu hitam. 4 Ukiran Besar tentang Jalan Aseity. |
-| **Bahasa Asal** | Bahasa universal kultivator. Asal Baru (aman) / Asal Kuno (berbahaya). |
-
----
-
-## 5. GARIS WAKTU MASTER (TABEL PALING PENTING)
-
-**Cara baca:** `Thn Subj` = tahun yang Yazha alami. `Thn Bumi` = tahun yang lewat di Bumi Fana.
-
-| Vol | Bab | Lokasi | Rasio | Level (awal→akhir) | Thn Subj | Thn Bumi | Kalender Bumi | Usia Subj Yazha |
-|---|---|---|---|---|---|---|---|---|
-| 1 | 1-35 | Bumi Fana | 1× | 0 → 0 | 3 | 3,0 | 2084–2087 | 11 → 14 |
-| 2 | 36-120 | Bumi Abadi (Zona 5→4) | 3× | 0 → 2 | 5 | 1,7 | 2087–2089 | 19 |
-| 3 | 121-240 | Bumi Abadi (Zona 3→2) | 3× | 2 → 3 | 6 | 2,0 | 2089–2091 | 25 |
-| 4 | 241-360 | Bumi Abadi (Zona 2) | 3× | 3 → 4 | 12 | 4,0 | 2091–2095 | 37 |
-| 5 | 361-480 | Alam Bintang | 12× | 4 → 5 *(Gerbang Api)* | 20 | 1,7 | 2095–2097 | 57 |
-| 6 | 481-600 | Alam Bintang | 12× | 5 → 6 | 35 | 2,9 | 2097–2100 | 92 |
-| 7 | 601-720 | Alam Bintang | 12× | 6 → 7 | 55 | 4,6 | 2100–2104 | 147 |
-| 8 | 721-840 | Bintang → Kekosongan | 12→60× | 7 → 8 | 80 | 2,7 | 2104–2107 | 227 |
-| 9 | 841-960 | Alam Kekosongan | 60× | 8 → 9 *(Gerbang Kesepian)* | 120 | 2,0 | 2107–2109 | 347 |
-| 10 | 961-1080 | Alam Kekosongan | 60× | 9 → 10 | 180 | 3,0 | 2109–2112 | 527 |
-| 11 | 1081-1200 | Alam Kekosongan | 60× | 10 → 11 | 280 | 4,7 | 2112–2117 | 807 |
-| 12 | 1201-1320 | Alam Keabadian | 300× | 11 → 13 *(Gerbang Nameless)* | 450 | 1,5 | 2117–2118 | 1.257 |
-| 13 | 1321-1440 | Alam Keabadian | 300× | 13 → 16 Puncak + Dinding 1-2 | 1.500 | 5,0 | 2118–2123 | 2.757 |
-| 14 | 1441-1530 | Luar The Shell | — | 16 Puncak → 17 *(Dinding 3)* | 900 | 0 | 2123 | 3.657 |
-
-**Total: ~3.650 tahun subjektif · ~39 tahun Bumi (2084–2123)**
-
-### Peta Alam per Volume (FINAL — menggantikan semua versi lama)
-
-| Volume | Alam | Level |
-|---|---|---|
-| 1 | Bumi Fana | 0 |
-| 2–4 | Bumi Abadi (Alam Fana) | 0–4 |
-| 5–8 | **Alam Bintang** | 4–8 |
-| 9–11 | **Alam Kekosongan** | 8–12 |
-| 12–13 | **Alam Keabadian** | 11–16 |
-| 14 | Luar The Shell | 16→17 |
-
-**Catatan penulisan:** Rantai 7 di `07_Peta_Alur_Plot.md` yang bilang *"Yazha masuk Alam Kekosongan"* **harus diubah** jadi *"Yazha menyeberang ke wilayah terluar Alam Bintang"*. Rantai 8 adalah pintu masuk Kekosongan yang sebenarnya.
-
----
-
-## 6. BATAS HAYAT
-
-| Level | Batas Hayat (thn subjektif) | Level | Batas Hayat |
-|---|---|---|---|
-| 0 | 75 | 9 Rune-Willed | 5.000 |
-| 1 Voidskin | 90 | 10 Realmwarp | 10.000 |
-| 2 Bloodboon | 110 | 11 True-World | 20.000 |
-| 3 Starborn | 130 | 12 Truexa | 40.000 |
-| 4 Nexarch | **120** ← turun, lihat catatan | 13 Nameless | 80.000 |
-| 5 Soulsear | 300 | 14 Solus | 160.000 |
-| 6 Planar | 600 | 15 Verity | 320.000 |
-| 7 Astral | 1.200 | 16 Primordial | 640.000 |
-| 8 Nebular | 2.500 | 17 Unbegotten | ∞ |
-
-**Catatan Lv 4:** Batas Hayat Nexarch (120) **lebih rendah** dari Starborn (130). Ini disengaja. Nexarch adalah level terakhir Alam Fana — tubuhnya dirombak untuk menampung transisi, jadi ia "membakar" sisa hayatnya. **Ini alasan kenapa Nexarch Puncak disebut "Level Kutukan".**
-
-**Pengecualian yang diizinkan (dan harus dijelaskan di teks):**
-- **Dewan Tujuh** (590 juta thn, Lv 10–15 asli): ditopang **Lesh #7 (Jantung Bumi)**. Mereka nggak bisa keluar Zona 1 bukan karena dinding — tapi karena **Lesh itu adalah penopang hayat mereka**. Keluar = mati.
-- **Penguasa Hampa** (20+ miliar thn, Lv 16): menambah hayat dengan **memakan hayat orang lain**. Itu sebabnya ia jadi "Hampa". Ini bukan kekuatan, ini penyakit.
-- **Wiadava** (2.400 thn, Lv 8 → hayat 2.500): Core-nya hancur, yang membakar sisa hayatnya ~20× lebih cepat. Ia tahu ia punya hitungan bulan.
-
----
-
-## 7. ANTAGONIS (RESOLVED — menggantikan tabel v3)
-
-| Antagonis | Level | Mati | Level Yazha | Cara menang |
-|---|---|---|---|---|
-| **Varek Voth** | Soulsear Puncak (Lv 5) | **Vol 5**, bab 361-480 | Lv 5 | Eksploitasi Hukum Penyesalan — trauma adiknya sendiri |
-| **Goliath Voth** | Nebular Tengah (Lv 8) | **Vol 7**, bab 601-720 | Lv 7 Puncak | Hukum Kehilangan vs kekuatan fisik murni. **Ini pembayaran motif Wiadava.** |
-| **Varin Astralis** | Realmwarp Tengah (Lv 10) | **Vol 7**, bab 601-720 (klimaks) | Lv 7 Puncak | Varin hampir habis batas hayatnya (9.600/10.000). Yazha nggak mengalahkannya — ia **membiarkannya habis**. |
-
-**Struktur kekuasaan:**
-```
-Varin Astralis (Lv 10 Tengah) — Bos Besar. 9.600 thn. Terdesak waktu.
-    ↓
-Goliath Voth (Lv 8 Tengah) — Tangan Kanan. Pembantai Klan Aethel.
-    ↓
-Varek Voth (Lv 5 Puncak) — Algojo. Murid yang mengkhianati Wiadava.
-```
-
-**Perubahan dari v3:**
-- ❌ Varin mati Vol 9 → ✅ **Vol 7** (sesuai peta alur, arc karakter, dan file level)
-- ✅ **Goliath sekarang punya adegan kematian** di Vol 7, sebelum Varin
-- **Motif Varin diubah:** ia bukan sekadar jahat. Ia **hampir mati**. Batas hayat Lv 10 = 10.000 thn, ia sudah 9.600. Ia butuh Hukum Ruang Veyla untuk memperpanjang hayat. Ini membuat perjodohan politik di `05_Xa_Veylara.md` jadi **motivasi yang masuk akal**, bukan nafsu.
-
----
-
-## 8. TRINITAS HARGA (SINGKAT)
-
-Setiap penggunaan Hukum wajib punya tiga harga. **Nggak ada pengecualian.**
-
-| Harga | Pertanyaan yang harus dijawab di teks |
-|---|---|
-| **1. Harga Pemahaman** | Kehilangan apa yang membuat dia paham ini? |
-| **2. Harga Energi** | Berapa persen dari Lautan Spiritual? |
-| **3. Harga Realitas (Utang Niskala)** | Apa yang akan ditagih realitas, dan dari siapa? |
+Bhas/Yuna tinggal di Bumi Abadi sejak invasi: `14 + 3 × (tahun Bumi setelah invasi)`. Bhas mati sekitar 89 pada V11; Yuna sekitar 106 pada kunjungan V13. Mereka tidak hidup dua puluh generasi. Keluarga baru mereka mencakup anak, cucu, dan beberapa cicit. Nala ditahan dalam stasis dengan total **2 tahun sadar**, keluar lab usia biologis **8**, lalu membangun hidup di Bumi Abadi; usia akhirnya **92**, bukan Primordial mendadak.
 
-**Harga Energi baku (Hukum Kehilangan):**
-| Teknik | Biaya |
-|---|---|
-| Aura (pasif) | 0% |
-| Tatapan Merah | 10% |
-| Tatapan Ungu | 25% |
-| Tatapan Merah-Ungu | 40% |
-| Domain Kehilangan | 50% |
-| Void Transformation Th 1-5 | 30% |
-| Void Transformation Th 6 | 25% |
-| Void Transformation Th 7 | 20% |
-
-→ Detail: `04_SISTEM_KULTIVASI/15_Mekanika_Hukum.md`
-
----
-
-## 9. PROGRESI TANDA FISIK & TEKNIK (RESOLVED)
-
-Konflik antara `08_5_Dimensi_Kehilangan.md` dan `08_Progresi_Kekuatan_Timeline.md` diselesaikan dengan **mengikuti 5 Dimensi** (karena ia punya dasar filosofis), dan memperbaiki file progresi.
-
-| Volume | Dimensi Kehilangan | Rambut | Teknik yang baru bisa |
-|---|---|---|---|
-| 1 | — | Normal | — |
-| 2 | — | Normal | Soul Pressure, Voidstep (Vol 2 akhir) |
-| 3 | **1: Perenggutan** | Normal | Tatapan Merah (tidak stabil) |
-| 4 | 1 | Ujung memutih | Tatapan Merah stabil |
-| 5 | **2: Pengorbanan** | Ujung putih permanen | Tatapan Merah matang |
-| 6-7 | **3: Waktu** | Setengah putih, luka berpendar | Tatapan Ungu |
-| 8-9 | **4: Identitas** | Putih total, luka emas pucat | Tatapan Merah-Ungu, Domain |
-| 10-12 | 4 → 5 | Putih total | Penyempurnaan |
-| 13-14 | **5: Makna** | **Semua tanda lenyap** | Hukum Kehilangan sempurna |
-
-**Yang harus diperbaiki di `08_Progresi_Kekuatan_Timeline.md`:**
-- ❌ "Vol 3: Tatapan Merah" → ✅ **Vol 3: Tatapan Merah mulai, Vol 5 baru matang**
-- ❌ "Vol 4: Tatapan Ungu" → ✅ **Vol 6-7**
-- ❌ "Vol 5: rambut putih total" → ✅ **Vol 8-9**
-- ❌ "Vol 4: rambut setengah putih" → ✅ **Vol 6-7**
-
----
-
-## 10. KEPUTUSAN ENDING
-
-### Epilog = PENGLIHATAN, bukan kejadian
-
-`09_EPILOG/01_Akhir_Cerita.md` **bukan** yang terjadi. Itu adalah yang Yazha **lihat pada detik ia melompat** dari Dinding 3 — proyeksi dari Aseity Anchor-nya sendiri.
-
-| Yang selama ini tertulis | Status baru |
-|---|---|
-| Yazha memutar waktu ke 17 Agustus 2087 | ❌ Tidak terjadi. Itu isi penglihatan. |
-| Dhiza, Vaniya, Nala, Veyla selamat | ❌ Isi penglihatan |
-| Yazha menikah, punya Akasa & Kanavi | ❌ Isi penglihatan |
-| Wiadava tetap mati | ✅ Tetap benar — dan sekarang alasannya lebih sederhana |
-| Yazha jadi Pengamat Multiverse | ❌ Isi penglihatan |
-
-**Yang benar-benar terjadi:** Yazha melompat → menembus The Shell → kehilangan segalanya → **Sekuel (`08_CETAK_BIRU_SEKUEL/`) yang terjadi.**
-
-**Kenapa ini lebih kuat:**
-1. Paradoks "gimana Yazha kenal Veyla di timeline baru" **hilang total** — nggak ada timeline baru.
-2. Paradoks kausalitas **hilang** — nggak ada pemutaran waktu.
-3. Wiadava tetap mati tanpa perlu penjelasan rumit.
-4. Ending jadi **pilihan**, bukan hadiah: Yazha melihat kehidupan yang ia inginkan, tahu itu nggak nyata, dan **tetap melompat**. Itu inti dari Aseity.
-5. Sekuel punya alasan kuat untuk ada.
-
-**Kalimat kunci baru untuk Vol 14:**
-> *"Ia melihat semuanya. Rumah kayu itu. Teh yang diseduh. Anak-anak yang tertawa. Dan ia tahu — ini bukan hadiah. Ini adalah harga yang ia bayar di muka, supaya kakinya tidak gemetar saat melompat."*
-
-### Aturan Unbegotten
-
-❌ Lama: *"Hanya ada SATU Unbegotten di multiverse."*
-✅ Baru: **"Hanya ada satu Unbegotten per alam semesta — dan yang kedua cuma bisa lahir kalau yang pertama membiarkannya lewat."**
-
-Alasan: TFE berdiri di Dinding 3 selama 10.000 tahun **menunggu** seseorang. Itu bukan kebetulan — itu syarat. Nala bisa saja mencapai Lv 16, tapi ia nggak akan pernah jadi Lv 17 **karena ia nggak sanggup membayar harga Dinding 1**: ia masih menyimpan sesuatu.
-
----
-
-## 11. DEWAN TUJUH vs SIDANG SUMBER
-
-Dua nama yang nyaris identik di v3. Diresolve dengan **menjadikan mereka satu sejarah**:
-
-| | **Dewan Tujuh** | **Sidang Sumber** (dulu "Dewan Sumber") |
-|---|---|---|
-| Lokasi | Zona 1, Bumi Abadi | Alam Keabadian |
-| Status | **Tahanan** Lesh #7 | **Penguasa** distribusi Essen |
-| Usia | 590 juta thn | — |
-| Level asli | Lv 10–15, ditekan jadi Lv 4 Puncak | — |
-| Peran | Penjaga yang dipenjara | Administrator yang memanen |
-
-**Sejarah yang menghubungkan mereka:** Dewan Tujuh dulu adalah anggota Sidang Sumber yang **mencoba membuka akses Essen untuk semua alam** — persis seperti yang Yazha lakukan. Mereka kalah, dan dihukum: dijadikan penopang hayat Lesh #7, terjebak di Zona 1 selamanya.
-
-**Implikasi plot (Vol 10):** saat Yazha menghancurkan Aula Takhta Emas, ia nggak sedang melawan orang asing — ia sedang **menyelesaikan pemberontakan yang gagal 590 juta tahun lalu**. Dan Dewan Tujuh, dari dalam Zona 1, tahu persis apa yang ia lakukan.
-
-**Yang HARUS diganti di file lain:** semua sebutan **"Dewan Sumber"** → **"Sidang Sumber"**. Ini mencegah pembaca ketuker.
-
----
-
-## 12. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|---|---|
-| **Kata ganti** | Dialog/monolog pakai **aku/kamu**. Bukan gue/lo/saya. |
-| **Narasi vs Dialog** | `nggak`, `udah`, `banget`, `kayak` — **HARAM di narasi**. **BOLEH di dialog & monolog**. |
-| **Filter words** | "Yazha melihat/mendengar/merasa" — HARAM. Langsung tulis objeknya. |
-| **AI-isms** | `laksana`, `seolah-olah`, `bak`, `bagaikan`, `ibarat`, `mencekam`, `pekat` — HARAM. |
-| **Bakat/Takdir** | `bakat`, `jenius`, `ajaib`, `takdir`, `nasib besar`, `dilahirkan untuk`, `warisan darah`, `pewaris` — HARAM. |
-| **Agama/Arab** | `Tuhan`, `Allah`, `Dewa`, `Kitab`, `Selamat`, `Mustahil`, `Sabar` — HARAM. |
-| **Zero Potential** | Setiap pencapaian = 1000 kegagalan, mimisan, muntah darah. Jangan "langsung mengerti". |
-| **Harga fisik** | Setiap teknik ada harga. Efeknya bertahan sampai bab berikutnya. |
-| **Cara menang** | Yazha menang karena lebih pintar, lebih tahan menderita, atau mengeksploitasi kelemahan. **Bukan karena lebih kuat.** |
-| **Trinitas Harga** | Sebelum menulis adegan kekuatan, jawab 3 pertanyaan di §8. |
-| **Cek waktu** | Sebelum menulis bab, cek §5. Khususnya: **berapa usia Yazha, dan berapa tahun Bumi yang sudah lewat.** |
-| **Jangan hapus "Buku Catatan Wiadava"** | Ini nama diri. Aturan lama di `05_Struktur_Volume_Pacing.md:86` salah dan sudah dibetulkan. |
-
----
-
-## 13. YANG SUDAH DIHAPUS / DIGANTI
-
-Lihat `00_CATATAN_PERUBAHAN_V4.md` untuk daftar lengkap. Ringkasan:
-
-| Yang lama | Yang baru |
-|---|---|
-| Yazha Lv 17 dalam ~50 tahun | ~3.650 tahun subjektif (dilasi waktu) |
-| Varin mati Vol 9 | Vol 7 |
-| Goliath nggak pernah mati | Mati Vol 7 |
-| Epilog = kejadian nyata | Epilog = penglihatan |
-| "Satu Unbegotten di multiverse" | "Satu per alam semesta + syarat" |
-| "Dewan Sumber" | "Sidang Sumber" |
-| Wiadava 10.012 thn | 2.400 thn |
-| Varin 100.000+ thn | 9.600 thn |
-| Klan Aethel dibantai 10.000 thn lalu | 3.000 thn lalu |
-| Bhaskara & Ryuna Lv 1 Puncak, hilang | Mentok Lv 4 Puncak, menua, mati sebelum akhir |
-
----
-
-**— END OF CANON MUTLAK v4.0 —**
+Batas hayat adalah **langit-langit tubuh terawat**, bukan tanggal kematian wajib, bukan tambahan tahun setiap naik level. Cedera, penyakit, dan overclock mengurangi sisa cadangan. Menambah level tidak otomatis memperbaiki kerusakan informasi saraf.
+
+<!-- BEGIN CANON:levels -->
+| Lv | Nama | Batas hayat lokal | Bab Yazha pada level ini |
+| --- | --- | --- | --- |
+| 0 | Manusia biasa | 80 | 1–90 |
+| 1 | Voidskin | 90 | 91–106 |
+| 2 | Bloodboon | 100 | 107–210 |
+| 3 | Starborn | 110 | 211–330 |
+| 4 | Nexarch | 120 | 331–392 |
+| 5 | Soulsear | 300 | 393–540 |
+| 6 | Planar | 600 | 541–662 |
+| 7 | Astral | 1.200 | 663–818 |
+| 8 | Nebular | 2.500 | 819–864 |
+| 9 | Rune-Willed | 5.000 | 865–1000 |
+| 10 | Realmwarp | 10.000 | 1001–1140 |
+| 11 | True-World | 20.000 | 1141–1250 |
+| 12 | Truexa | 40.000 | 1251–1310 |
+| 13 | Nameless | 80.000 | 1311–1350 |
+| 14 | Solus | 160.000 | 1351–1380 |
+| 15 | Verity | 320.000 | 1381–1410 |
+| 16 | Primordial | 640.000 | 1411–1529 |
+| 17 | Unbegotten | Tidak menua; tetap dapat tewas | 1530–1530 |
+<!-- END CANON:levels -->
+
+## 6. Core dan Jalan Aseity
+
+Semua lahir Level 0. Adaptasi biologis dapat membuat Core alami tumbuh lebih mudah; sumber daya, guru, dan kesehatan juga penting. Yazha tidak punya adaptasi itu. **Keracunan, gizi buruk, dan saraf rusak tidak menjadi kekuatan rahasia.** Tidak ada kapasitas otomatis tujuh kali lipat.
+
+Di bab 91, operator yang dikenal sebagai Master Misterius membantu memasang Core buatan. Yazha menyediakan bahan, pekerjaan, pencatatan, dan persetujuan. Core mengubah apa yang mungkin dikerjakan, bukan memberikan penguasaan. Perbaikan dan bantuan orang tidak membatalkan Zero Potential.
+
+Aseity adalah metode memindahkan ketergantungan **operasional** ke mekanisme yang dipahami dan dapat dirawat sendiri. Bukan tidak membutuhkan makanan/energi; bukan tidak pernah dilahirkan dalam sejarah; bukan menjadi mahakuasa. Pengetahuan ini dapat diajarkan kepada orang lain.
+
+Gerbang Api menuntut penataan ulang semua Core, alami maupun buatan. Bhas memiliki kerusakan yang membuat operasi berisiko; Yuna memilih merawat keluarga dan klinik alih-alih mengambil risiko itu. Mereka **bukan gagal karena lahir dicintai**. Keduanya berhenti Lv4 atas sebab kesehatan/pilihan, dan tetap diperlukan oleh plot.
+
+## 7. Hukum tidak boleh menyelesaikan semuanya
+
+Hukum Elemental bekerja pada fenomena yang terukur. Hukum Konseptual bekerja pada **hubungan yang dapat ditunjukkan**, bukan kata apa pun yang penulis inginkan. Satu karakter mempertahankan satu kerangka konseptual aktif; menggantinya membutuhkan penataan ulang, bukan “kegilaan” sebagai istilah medis sembarangan.
+
+Hukum Kehilangan dapat mengganggu perpindahan panas, cengkeraman, kaitan komando, niat aktif, atau alamat akses yang telah dipetakan. **Tidak dapat menghapus “kemenangan”, “kematian”, “kekuatan”, atau semua sifat musuh sekaligus.** Target yang lebih tinggi memiliki ketahanan dan sumber daya yang nyata. Ucapan filosofis tidak melompati tiga level.
+
+Harga: pemahaman yang diuji → Essen dari kapasitas penuh → Utang Niskala dan cedera. Aura pasif hanya tanda sensorik, bukan debuff gratis.
+
+<!-- BEGIN CANON:techniques -->
+| Teknik | Pertama | Energi dari kapasitas penuh | Niskala | Batas paket dasar |
+| --- | --- | --- | --- | --- |
+| Voidstep | Bab 119 | 1.5% | 1 | 5 m pada Level 2; dua detak jantung sebelum ulang; tujuan harus terlihat/ditandai |
+| Soul Pressure | Bab 103 | 5% | 0 | Satu lawan setara, konsentrasi 2 detik; lawan lebih tinggi dapat menahan |
+| Tatapan Merah | Bab 220 | 10% | 4 | Satu sifat terukur, satu sasaran, maksimum 5 detik |
+| Tatapan Ungu | Bab 570 | 25% | 8 | Memutus satu niat aktif sampai 3 detik; tidak menghapus kehendak hidup |
+| Tatapan Merah-Ungu | Bab 808 | 40% | 12 | Dua gangguan berurutan pada sasaran yang telah dipetakan |
+| Domain Kehilangan | Bab 923 | 50% | 20 | Radius 10 m, 10 detik; satu hubungan yang disebut; tidak otomatis meniadakan serangan |
+<!-- END CANON:techniques -->
+
+## 8. Identitas, jiwa, dan ingatan
+
+Tujuh Jalur adalah rute pengaturan, bukan tujuh hadiah unik. Tujuh lapis Jiwa Primordial adalah tujuh **fungsi yang menopang satu kehidupan**, bukan tujuh nyawa cadangan. Putusnya satu fungsi mengurangi kemampuan tertentu; putusnya simpul pusat tetap dapat membunuh sekali. Jejak jiwa orang mati bukan orang hidup yang disimpan untuk dibangkitkan nanti.
+
+Nameless melepaskan **alamat kontrak nama**: lisensi, pangkat, dan pemulihan berbasis registri. Orang masih dapat mengingat dan memanggil Yazha; tulisan tinta tidak terhapus secara ajaib. Memori dapat rusak oleh beban berat; pencatatan mengembalikan fakta, tidak otomatis rasa mengalami. Mengganti pola saraf seseorang dengan salinan bukan menyembuhkan orang yang sama tanpa persetujuan.
+
+## 9. Gerbang dan kemenangan yang sah
+
+<!-- BEGIN CANON:milestones -->
+| Peristiwa | Volume | Bab | Arti |
+| --- | --- | --- | --- |
+| core | 2 | 91 | Core buatan dipasang; pertama kali Level 1 |
+| harmonisasi | 2 | 118 | Harmonisasi awal; hipotesis Kehilangan, bukan Domain |
+| voidstep | 2 | 119 | Voidstep pertama, jarak 5 m |
+| primeval | 5 | 389 | Inti Primeval: pemurni, tidak menciptakan Lesh Putih |
+| gerbang_api | 5 | 393 | Transisi 4→5 selesai |
+| gerbang_kesepian | 9 | 865 | Transisi 8→9 selesai |
+| gerbang_nameless | 12 | 1311 | Transisi 12→13 selesai |
+| dinding_1 | 13 | 1426 | Lepas hak menahan orang lain; Jejak Diri mandiri |
+| dinding_2 | 13 | 1440 | Protokol tujuh konstanta teruji; tubuh belum di luar Shell |
+| vision | 14 | 1524 | Penglihatan rumah dan anak-anak; bukan kejadian |
+| shell | 14 | 1530 | Dinding 3, menembus The Shell; Level 17; amnesia |
+<!-- END CANON:milestones -->
+
+Masuk wilayah terlindung di alam atas tidak sama dengan lolos ujian level. Anak dan penumpang dapat naik kapal bertekanan; untuk hidup/bertarung di daerah terbuka mereka memerlukan adaptasi. Turun alam memakai clamp; **level asli, keluaran efektif, dan tubuh/proyeksi** harus dibedakan.
+
+Varek kalah setelah perangkat penyangganya dirusak dan buffer waktu terkuras, bukan hanya karena nama adiknya disebut. Goliath kalah dengan medan dan gangguan penyeimbang yang dipelajari puluhan tahun. Varin Lv10 tidak ditinju mati oleh Yazha Lv7: koalisi mencabut rangkaian penyangga dan akses jaringan; tubuhnya sakit, keluaran terbuka di Bintang dibatasi Lv8. Dalam ruang terkalibrasi Lv10, Yazha tetap kalah.
+
+Sidang Sumber tidak dibantai Yazha Lv10. V10 membuka arsip dan menggugat **kantor kuota di Kekosongan**; konflik pusat diselesaikan lewat koalisi dan penataan sistem pada V13. Penguasa Hampa yang diserang V12 adalah **proyeksi/perangkat**, bukan tubuh Lv16. Konfrontasi tubuhnya terjadi V13, setelah persiapan dan pelepasan sandera.
+
+## 10. Sebelas mandat, bukan sebelas pencurian mesin
+
+<!-- BEGIN CANON:lesh -->
+| # | Lesh Putih | Fungsi | Lokasi | Mandat disahkan |
+| --- | --- | --- | --- | --- |
+| 1 | Hati Astralis | Sakelar mandat dan pembatas keluaran | Astralis Prime, Alam Bintang | V7 · bab 706 |
+| 2 | Air Mata Lumina | Penyaring racun hasil ekstraksi | Sungai Cahaya, Alam Bintang | V8 · bab 760 |
+| 3 | Tulang Voth | Penyeimbang beban dan penyimpan cadangan | Sabuk Voth, Alam Bintang | V7 · bab 690 |
+| 4 | Kabut Aethel | Pengukur aliran dan pencocok fase | Awan Aethel, Alam Bintang | V8 · bab 778 |
+| 5 | Mulut Voidmaw | Saluran buangan dan katup pelepas | Cincin Luar, Alam Kekosongan | V10 · bab 1018 |
+| 6 | Buku Primordium | Pencatat kontrak dan terminal jaringan | Bait Sumber Pertama, Alam Kekosongan | V10 · bab 1068 |
+| 7 | Jantung Bumi | Pompa dan pengalih distribusi utama | Zona 1 Elyra-Thal | V13 · bab 1395 |
+| 8 | Mata Tak Bernama | Sensor kondisi batas The Shell | Observatorium Batas, Alam Keabadian | V12 · bab 1288 |
+| 9 | Air dari Sumber | Pendingin sirkulasi dan penukar panas | Reservoir Sumber Dalam, Alam Keabadian | V13 · bab 1344 |
+| 10 | Nama Pertama | Alamat jaringan dan hak akses | Kuil Nama, Alam Kekosongan | V11 · bab 1148 |
+| 11 | Benih Terakhir | Penyimpan konfigurasi pemulihan | Kebun Cadangan, Alam Keabadian | V13 · bab 1358 |
+<!-- END CANON:lesh -->
+
+“Memperoleh Lesh” berarti memperoleh **mandat kendali yang dapat diaudit**, bukan membawa pompa keluar dari kotanya. Seluruh node tetap terpasang. Setiap mandat mempunyai penanggung jawab, hak sipil, dan pengganti operasi bila Yazha tidak kembali. Dua kesalahan yang dilarang: menganggap mengumpulkan sebelas mesin memberi Lv17; menganggap mematikan kehidupan orang lain itu tindakan pembebasan.
+
+Dewan Tujuh berisi **tujuh orang**, bukan enam orang ditambah suara setara Unbegotten. Penahanan mesin berlangsung 590 juta tahun lokal; total waktu bangun masing-masing sekitar 5.900 tahun. Stasis bukan hidup sadar selama 590 juta tahun. Mandat mereka terikat fisik pada Jantung Bumi; pembebasan dilakukan dengan pengganti rangkaian dan pilihan mereka sendiri, bukan penghancuran pompa. Dragon Garu adalah penjaga generasi kini, bukan bos yang wajib dibunuh.
+
+## 11. Nama, sejarah, dan jejak keluarga
+
+Yazhaxa Raynawa/Yazha; Nala Raynawa/Nal; Dhiza Raynawa; Vaniya Raynawa; Aethel Wiadava/Mas Dava; Bhaskara Dewantara/Bhas; Ryuna Daniswara/Yuna. Hanya Yazha memakai panggilan **Veyla**; orang lain Veylara/Putri Xa; nama resmi Xa Veylara. Yara adalah nama kecil di rumah, bukan alias Moxi. Moxi, Ray, Nawa, dan Y.R. dipakai dengan saksi dan fungsi yang jelas.
+
+Rumah: **Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia, kaki Pegunungan Halimun**. Surabaya adalah kota lain dalam Bumi alternatif ini. Bumi bukan rekonstruksi Indonesia nyata atau etnografi.
+
+Wiadava berusia **2.400** saat ditemukan. Pembantaian Aethel terjadi **600 tahun lokal Bintang sebelumnya**, saat ia sudah dewasa. Hanya arsip yang bertarikh sangat tua; tidak semua tubuh otomatis berusia miliaran tahun. Halimun 2084–awal 2086 → rehabilitasi Surabaya Maret 2086–Agustus 2087 → gerbang Pluto 17 Agustus 2087. Yazha **tidak pergi ke Pluto**.
+
+Master Misterius = **Ilyan Reth**, bekas teknisi Ordo, bukan ketua, bukan pembaca masa depan. Ia membantu satu operasi V2. V8 membongkar riwayatnya lewat bukti, bukan kemunculan hadiah baru. Halaman Yazha kosong karena **data pengungsi/registri tidak tersambung**, bukan karena sebab-akibat hidupnya lenyap.
+
+## 12. Kematian yang benar-benar terjadi
+
+<!-- BEGIN CANON:deaths -->
+| Nama | Volume | Bab | Kejadian aktual |
+| --- | --- | --- | --- |
+| Preman Batavia | 1 | 23 | Jatuh setelah didorong, kepala membentur batu; bukan energi Level 0 |
+| Dhiza Raynawa | 1 | 33 | Dibunuh Varek di Ciyasa |
+| Aethel Wiadava | 1 | 34 | Menghabiskan sisa cadangan untuk menutup gerbang logistik Pluto |
+| Sena Oris | 3 | 234 | Dibunuh Moxi berdasarkan berkas klien yang dipalsukan |
+| Varek Voth | 5 | 477 | Rangkaian stasis diputus, serangan setelah buffer waktu kosong |
+| Xa Veylara | 6 | 586 | Mengunci jalur evakuasi melawan proyeksi Varin; tidak dibangkitkan |
+| Goliath Voth | 7 | 687 | Penyeimbang pijakan rusak; bukan tinju Level 7 mengalahkan Level 8 murni |
+| Varin Astralis | 7 | 715 | Rangkaian penyangga dicabut koalisi; tubuh sakit runtuh saat overclock |
+| Pemburu Tua | 8 | 744 | Penyakit paru; kabar dari Hutan Pola, bukan dibunuh demi motivasi |
+| Vaniya Raynawa | 10 | 1009 | Katup rusak saat Yazha memilih menolong penumpang lain; pertemuan singkat di Voidmaw |
+| Bhaskara Dewantara | 11 | 1188 | Menahan pintu evakuasi sipil; tidak mengorbankan diri untuk power-up |
+| Penguasa Hampa | 13 | 1374 | Sirkuit ekstraksi dihentikan setelah sandera dilepas; menolak menghentikan loop |
+| Ryuna Daniswara | 13 | 1398 | Penuaan dengan cedera saraf kronis; perawatan dipilih tanpa operasi reset identitas |
+<!-- END CANON:deaths -->
+
+Vaniya tidak ditahan sebagai misteri selamanya: Voidmaw adalah saluran buangan yang berisi kantong transit. Petunjuk ditanam V1/V3/V8; Yazha bertemu ibunya sebentar V10, tetapi tidak bisa menyelamatkan dia dan seluruh rombongan lewat satu katup yang rusak. Ibunya memilih membantu rombongan; Yazha menghormatinya. Bukti kematian bukan dugaan atau celah pembangkitan.
+
+Veyla bukan benda yang dibunuh agar Yazha mendapat jurus baru. Ia punya proyek jalur evakuasi, murid, kemarahan, humor, dan rencana hidup sebelum mati. Kebijakannya terus bekerja sesudahnya. Bhas mengubah logistik sipil; Yuna mengubah perawatan dan pengukuran jam; Nala ikut merancang pemisahan kisi Shell. Ketiganya bukan pengikut level rendah yang hilang setelah universitas.
+
+## 13. Akhir aktual dan sekuel
+
+Dinding 1: melepaskan hak untuk menahan/menentukan hidup orang lain sambil mempertahankan nilai merawat. Dinding 2: merakit protokol diri yang tidak memerlukan registri semesta asal, bukan menghapus semua hukum fisika. Dinding 3: melintasi celah yang telah diuji dengan harga pribadi dan **tanpa jaminan pemulihan memori**, setelah sistem sipil memiliki pengganti dirinya.
+
+Di bab 1524 Yazha melihat kemungkinan rumah, Veyla, Akasa, Kanavi, dan orang tuanya menua. Penglihatan **jelas ditandai sebelum dan setelah**, bukan twist yang menyatakan semua 14 volume palsu. Anak-anak adalah proyeksi rencana yang ia dan Veyla pernah bicarakan, **belum pernah lahir dalam kanon aktual**. Tidak ada status anak/keponakan nyata di sekuel.
+
+Bab 1530: menembus Shell, menjadi Unbegotten, kehilangan akses ingatan episodik. Bahasa, penalaran, keterampilan terbatas, dan kebiasaan merawat tersisa. Orang di dalam tetap mengingatnya. TFE dan Yazha dapat sama-sama ada; tidak ada kuota ontologis satu Unbegotten. TFE adalah pendahulu yang terbatas, bukan penyedia kemenangan atau pembenar penderitaan sejak bayi.
+
+Novel utama selesai secara moral: Nala bebas memilih; jaringan tidak bergantung pada tiran baru; Yazha tidak mendapatkan orang mati sebagai hadiah. Sekuel menguji apakah ia dapat memilih merawat tanpa mengingat alasan pertama. Tidak perlu tangga Lv18–48 untuk membuat rumah terasa lebih penting. Rekonstruksi fakta tidak memulihkan seluruh memori, dan tidak membangkitkan orang mati.
+
+## 14. Aturan penulisan yang menang
+
+POV orang ketiga terbatas dekat Yazha; prosa Indonesia presisi, **bukan kamera tanpa batin**. Pikiran, malu, kebohongan pada diri, dan salah tafsir boleh hadir. Bahagia tidak otomatis dikompresi, penderitaan tidak otomatis diperpanjang. Kehangatan harus cukup lama agar pembaca mengenal yang kelak hilang.
+
+Jangan menyalin gaya penulis tertentu. Pelajari kedalaman pilihan, sebab-akibat, dan rentang waktu; bangun suara novel ini dari tangan mekanik, piring retak, visor rusak, dan benda yang berubah pemilik.
+
+Tidak ada teologi nyata yang menyelesaikan konflik. Kata Indonesia sehari-hari tidak dibersihkan berdasarkan etimologi atau asal budaya. “Bakat” boleh membahas ketimpangan; tidak boleh menjadi pembenaran rahasia kemampuan Yazha. Blacklist adalah pengawas makna, bukan mesin yang menghapus nama artefak.
+
+Setiap kartu adegan memuat **keinginan konkret, hambatan, pilihan, akibat, dan sisa perasaan**. Setiap kenaikan level memiliki uji sebelum sukses. Setiap kemenangan menyisakan pekerjaan, bukan kewajiban membunuh musuh lebih besar pada bab berikutnya.
+
+## 15. Cek sebelum menulis
+
+- Di bab ini level apa, tubuh/proyeksi mana, jam apa, berapa energi dan Niskala tersisa?
+- Apa yang Yazha inginkan selain menang? Apa yang tokoh lain inginkan tanpa Yazha?
+- Adakah sumber daya/pengetahuan mendadak? Tanam lebih dulu atau hapus.
+- Apakah pilihan pembaca bisa pahami sebelum harga ditagih?
+- Siapa yang masih hidup, siapa yang tahu apa, dan apa yang tidak bisa dipulihkan?
+- Apakah ada waktu sepi sesudah kejadian besar sehingga pembaca dapat tinggal bersama akibatnya?
+
+Uji angka/tautan: `python3 scripts/check_canon.py`. Uji tabel: `python3 scripts/render_canon.py --check`. Uji mesin pemeriksa: `python3 -m unittest discover -s tests -v`. Lulus uji ini tidak membuktikan kualitas sastra; ia mencegah kesalahan kontrak yang dapat diperiksa.

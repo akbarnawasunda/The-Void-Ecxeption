@@ -1,0 +1,2596 @@
+{
+  "version": "5.0",
+  "date": "2026-10-09",
+  "epoch_earth": "2084-08-17",
+  "epoch_yazha_age": 11,
+  "constraints": {
+    "ending": "vision_then_shell_then_amnesia",
+    "friends": "mortal",
+    "time": "inter_realm_dilation",
+    "protagonist": "ordinary_human_no_hidden_lineage"
+  },
+  "clock_rates": {
+    "bumi_fana": 1,
+    "bumi_abadi": 3,
+    "bintang": 12,
+    "kekosongan": 60,
+    "keabadian": 300
+  },
+  "place_names": {
+    "bumi_fana": "Bumi Fana",
+    "bumi_abadi": "Bumi Abadi",
+    "bintang": "Alam Bintang",
+    "kekosongan": "Alam Kekosongan",
+    "keabadian": "Alam Keabadian"
+  },
+  "levels": [
+    {
+      "id": 0,
+      "name": "Manusia biasa",
+      "lifespan": 80,
+      "yazha_chapters": [
+        1,
+        90
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Voidskin",
+      "lifespan": 90,
+      "yazha_chapters": [
+        91,
+        106
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bloodboon",
+      "lifespan": 100,
+      "yazha_chapters": [
+        107,
+        210
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Starborn",
+      "lifespan": 110,
+      "yazha_chapters": [
+        211,
+        330
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nexarch",
+      "lifespan": 120,
+      "yazha_chapters": [
+        331,
+        392
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Soulsear",
+      "lifespan": 300,
+      "yazha_chapters": [
+        393,
+        540
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Planar",
+      "lifespan": 600,
+      "yazha_chapters": [
+        541,
+        662
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Astral",
+      "lifespan": 1200,
+      "yazha_chapters": [
+        663,
+        818
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nebular",
+      "lifespan": 2500,
+      "yazha_chapters": [
+        819,
+        864
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rune-Willed",
+      "lifespan": 5000,
+      "yazha_chapters": [
+        865,
+        1000
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Realmwarp",
+      "lifespan": 10000,
+      "yazha_chapters": [
+        1001,
+        1140
+      ]
+    },
+    {
+      "id": 11,
+      "name": "True-World",
+      "lifespan": 20000,
+      "yazha_chapters": [
+        1141,
+        1250
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Truexa",
+      "lifespan": 40000,
+      "yazha_chapters": [
+        1251,
+        1310
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Nameless",
+      "lifespan": 80000,
+      "yazha_chapters": [
+        1311,
+        1350
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Solus",
+      "lifespan": 160000,
+      "yazha_chapters": [
+        1351,
+        1380
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Verity",
+      "lifespan": 320000,
+      "yazha_chapters": [
+        1381,
+        1410
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Primordial",
+      "lifespan": 640000,
+      "yazha_chapters": [
+        1411,
+        1529
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Unbegotten",
+      "lifespan": null,
+      "yazha_chapters": [
+        1530,
+        1530
+      ]
+    }
+  ],
+  "volumes": [
+    {
+      "id": 1,
+      "title": "Rumah yang Belum Hilang",
+      "chapters": [
+        1,
+        35
+      ],
+      "segments": [
+        {
+          "place": "bumi_fana",
+          "earth_years": "3",
+          "chapters": [
+            1,
+            35
+          ]
+        }
+      ],
+      "premise": "Anak ingin tidak menjadi beban.",
+      "choice": "Ia menerima bantuan tetapi tidak dapat menyelamatkan rumah.",
+      "aftermath": "Buku di tangan anak pengungsi, belum jawaban semua hal.",
+      "arcs": [
+        {
+          "title": "Baut yang tidak cocok",
+          "chapters": [
+            1,
+            8
+          ],
+          "action": "Rumah, sekolah, dan gempa Halimun mempertemukan tiga anak dengan Wiadava koma dan prasasti tua.",
+          "choice": "Yazha meminta bantuan orang dewasa, tidak mengangkat seorang lelaki dewasa sendirian.",
+          "aftermath": "Waktu serta uang keluarga terbagi; reruntuhan bukan sumber kekuatan gratis."
+        },
+        {
+          "title": "Makan yang disembunyikan",
+          "chapters": [
+            9,
+            16
+          ],
+          "action": "Latihan pulsa kecil memakai persediaan Wiadava; Nala meniru napas sebagai permainan.",
+          "choice": "Yazha menyembunyikan lapar agar dianggap tidak membebani.",
+          "aftermath": "Vaniya mengenali kebohongan; bahan habis membuat latihan berhenti."
+        },
+        {
+          "title": "Saksi di jalan pulang",
+          "chapters": [
+            17,
+            24
+          ],
+          "action": "Pemalak mengadang jalan sekolah; preman jatuh setelah didorong pada bab 23.",
+          "choice": "Yazha mengaku kepada orang tua dan memberi kesaksian.",
+          "aftermath": "Ada perawatan dan tanggung jawab, bukan pujian atas pembunuhan energi."
+        },
+        {
+          "title": "Orang yang harus dibawa",
+          "chapters": [
+            25,
+            28
+          ],
+          "action": "Wiadava dipindah ke Surabaya Maret 2086, sadar, dan menulis catatan selama rehabilitasi.",
+          "choice": "Keluarga menerima transportasi dari Dewantara walau belum mampu membalas.",
+          "aftermath": "Pengobatan tidak memulihkan semua fungsi; pembelian suku cadang meninggalkan jejak."
+        },
+        {
+          "title": "Yang direncanakan untuk besok",
+          "chapters": [
+            29,
+            35
+          ],
+          "action": "Juni–Agustus 2087: deteksi, invasi, Dhiza mati bab 33, Vaniya hilang, Nala ditangkap, Pluto ditutup bab 34.",
+          "choice": "Wiadava pergi sendiri; tiga sahabat memakai endpoint evakuasi yang telah dipersiapkan.",
+          "aftermath": "Yazha tetap Lv0, rumah hilang, buku belum dibaca, bala awal telah tiba sebelum gerbang ditutup."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Orang yang Membawa Api",
+      "chapters": [
+        36,
+        120
+      ],
+      "segments": [
+        {
+          "place": "bumi_abadi",
+          "earth_years": "2",
+          "chapters": [
+            36,
+            120
+          ]
+        }
+      ],
+      "premise": "Pengungsi ingin alamat adik.",
+      "choice": "Meminta alat, makanan, dan bantuan yang mempunyai harga.",
+      "aftermath": "Terobosan kecil dan keluarga baru yang tidak otomatis setia.",
+      "arcs": [
+        {
+          "title": "Paket yang masih tertutup",
+          "chapters": [
+            36,
+            48
+          ],
+          "action": "Tiga pengungsi tiba di Tepi Lipatan, membaca buku Dava, lalu menghadapi penolakan jaminan dan perampas bahan.",
+          "choice": "Bhas dan Yuna menahan ancaman; Yazha melindungi bahan dan melarikan diri.",
+          "aftermath": "Air serta sewa menjadi masalah; peta tidak menyediakan alamat Nala."
+        },
+        {
+          "title": "Jalan yang tidak menginginkan tamu",
+          "chapters": [
+            49,
+            64
+          ],
+          "action": "Pemburu Tua mengajarkan air, perangkap, dan panen cangkang Lumina tanpa selalu membunuh hewan.",
+          "choice": "Yazha menghabiskan sebagian obat untuk menolong Pemburu yang terluka.",
+          "aftermath": "Guru tetap hidup dan berkirim kabar; tidak semua pengajaran harus berakhir dengan pembunuhan mentor."
+        },
+        {
+          "title": "Catatan yang tidak diizinkan",
+          "chapters": [
+            65,
+            80
+          ],
+          "action": "Sekte Bayang mencemari jalur dan memalsukan izin; sahabat mengumpulkan saksi serta bukti.",
+          "choice": "Mereka memisahkan pekerja dari pelaku, bukan membakar seluruh toko.",
+          "aftermath": "Konfrontasi cabang menghasilkan jalur informasi tentang jaringan pasar."
+        },
+        {
+          "title": "Alat yang dapat ditolak",
+          "chapters": [
+            81,
+            94
+          ],
+          "action": "Pemburu merujuk Ilyan; bahan, kontraindikasi, dan pemutus disiapkan sebelum pemasangan Core bab 91.",
+          "choice": "Yazha meminta jeda dan pendamping ketika menerima risiko operasi.",
+          "aftermath": "Kapasitas dasar terbentuk, bahu kanan terganggu, pemakaian data belum dijelaskan seluruhnya."
+        },
+        {
+          "title": "Tangan yang perlu dipinjam",
+          "chapters": [
+            95,
+            110
+          ],
+          "action": "Rute ditata satu demi satu; Soul Pressure diuji bab 103, Lv2 baru bab 107.",
+          "choice": "Ia menerima bantuan mengikat kain alih-alih memaksa saraf yang belum pulih.",
+          "aftermath": "Ia mulai bisa membantu, tetapi pembelajaran tidak serentak."
+        },
+        {
+          "title": "Langkah pertama",
+          "chapters": [
+            111,
+            120
+          ],
+          "action": "Pusat dan Seluruh diselaraskan bab 118; Voidstep pertama bab 119 hanya lima meter.",
+          "choice": "Ia membeli pangan serta pendingin sebelum menambah kemampuan langkah.",
+          "aftermath": "Usia akhir 20; jalan ke Kota Arus terbuka dan teman masih lebih cepat dalam beberapa bidang."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Harga Sebuah Nama",
+      "chapters": [
+        121,
+        240
+      ],
+      "segments": [
+        {
+          "place": "bumi_abadi",
+          "earth_years": "2",
+          "chapters": [
+            121,
+            240
+          ]
+        }
+      ],
+      "premise": "Mencari uang/dokumen lebih cepat.",
+      "choice": "Memilih Moxi sambil menghindari kehidupan target.",
+      "aftermath": "Sena mati; pertanyaan moral memasuki perjalanan.",
+      "arcs": [
+        {
+          "title": "Timbangan di bawah hujan",
+          "chapters": [
+            121,
+            144
+          ],
+          "action": "Bastian memberi kerja; izin sementara dan pelelangan manual mempertemukan Veylara usia 22.",
+          "choice": "Yazha menawar pekerjaan karena tidak mampu membeli barang yang diperlukan.",
+          "aftermath": "Malu, bantuan, serta label obat Voidmaw menjadi bagian awal kehidupan Kota Arus."
+        },
+        {
+          "title": "Bagian meja yang kosong",
+          "chapters": [
+            145,
+            168
+          ],
+          "action": "Seleksi Pilar Putih mempertemukan Silas, Lian, Kaelan, dan Zeyron; ada kerja, makanan, dan humor.",
+          "choice": "Ia mendengar koreksi orang sebaya daripada selalu memegang kendali.",
+          "aftermath": "Rumah kedua mulai terbentuk dan kontribusi tim mempunyai nama."
+        },
+        {
+          "title": "Obat yang tidak menyembuhkan",
+          "chapters": [
+            169,
+            192
+          ],
+          "action": "Matius dan Thorne memalsukan bahan; perkara menyangkut bukti, lisensi, serta perawatan.",
+          "choice": "Yazha melindungi saksi tanpa menghapus seluruh keluarga pelaku.",
+          "aftermath": "Broki membuat sarung tangan dibayar kerja; jalan legal tersedia tetapi lambat."
+        },
+        {
+          "title": "Harga cepat",
+          "chapters": [
+            193,
+            216
+          ],
+          "action": "Pencarian Nala mahal; Tua Beng menawarkan upah cepat. Lv3 tercapai bab 211 melalui uji.",
+          "choice": "Yazha memilih Moxi dan menyembunyikan alasannya dari sahabat.",
+          "aftermath": "Uang bertambah; kerahasiaan memerlukan kebohongan baru."
+        },
+        {
+          "title": "Nama dalam berkas",
+          "chapters": [
+            217,
+            240
+          ],
+          "action": "Merah pertama bab 220; berkas palsu membuat Sena Oris tampak sebagai pelaku dan dibunuh bab 234.",
+          "choice": "Moxi mempercayai keuntungan berkas daripada mencari kesaksian manusia.",
+          "aftermath": "Upah membeli bahan pencarian dengan harga kehidupan orang yang tidak bersalah."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Yang Tercatat sebagai Pemenang",
+      "chapters": [
+        241,
+        360
+      ],
+      "segments": [
+        {
+          "place": "bumi_abadi",
+          "earth_years": "3",
+          "chapters": [
+            241,
+            360
+          ]
+        }
+      ],
+      "premise": "Mencari akses melalui pengakuan publik.",
+      "choice": "Menang sebagai tim dan menahan rahasia yang mulai merusak.",
+      "aftermath": "Hak audit membuka jaringan, ketenaran menutup tempat sembunyi.",
+      "arcs": [
+        {
+          "title": "Sumber yang terlalu rapi",
+          "chapters": [
+            241,
+            264
+          ],
+          "action": "Kualifikasi GT berjalan ketika Silas menemukan ketidaksesuaian berkas Sena pada bab 253–264.",
+          "choice": "Yazha menerima kesalahannya tetapi belum berani membuka seluruh identitas.",
+          "aftermath": "Keluarga Sena menolak penjelasan yang memakai Nala sebagai alasan; tim mulai curiga."
+        },
+        {
+          "title": "Latihan tanpa tepuk tangan",
+          "chapters": [
+            265,
+            288
+          ],
+          "action": "Drill, perawatan, dan pembagian peran berjalan; klan Xa meminta Veylara kembali.",
+          "choice": "Tim membagi kredit kerja dan tidak seluruhnya mengawal Yazha.",
+          "aftermath": "Roran mulai mempertanyakan perintah yang merugikan warga."
+        },
+        {
+          "title": "Kabel yang dibongkar",
+          "chapters": [
+            289,
+            312
+          ],
+          "action": "Zeth melakukan sabotase di luar arena; Bhas dan Kaelan terluka, rekaman Kipli tidak lengkap.",
+          "choice": "Yuna menghentikan sesi dan menggunakan data serta saksi walau sponsor marah.",
+          "aftermath": "Cedera Bhas mempengaruhi operasi lanjut; kerahasiaan Moxi memburuk."
+        },
+        {
+          "title": "Menang sebagai regu",
+          "chapters": [
+            313,
+            336
+          ],
+          "action": "Lv4 bab 331 setelah uji medan; putaran akhir menuntut pertahanan, evakuasi, dan duel terbatas.",
+          "choice": "Yazha menyisihkan tenaga untuk kerja rekan daripada reputasi duel pribadi.",
+          "aftermath": "Tim menang sebagai regu, bukan satu orang mengambil semua pekerjaan."
+        },
+        {
+          "title": "Kursi yang hanya nomor",
+          "chapters": [
+            337,
+            360
+          ],
+          "action": "Alokasi, nomor delegasi audit ketujuh, kasus Zeth, serta satu malam perayaan; tujuh tanda tangan ditemukan.",
+          "choice": "Tim menerima kewajiban audit; Bhas dan Yuna menentukan pekerjaan sesudah kampus.",
+          "aftermath": "Reputasi menutup persembunyian, arsip membuka jalan Bintang, bukan kursi Dewan Tujuh."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Adik yang Tidak Mengenalinya",
+      "chapters": [
+        361,
+        480
+      ],
+      "segments": [
+        {
+          "place": "bintang",
+          "earth_years": "1",
+          "chapters": [
+            361,
+            480
+          ]
+        }
+      ],
+      "premise": "Menemukan Nala dan ingin masa kecil kembali.",
+      "choice": "Melawan perangkat tetapi kemudian harus belajar tidak memaksa adik.",
+      "aftermath": "Selamat tidak sama dengan sembuh.",
+      "arcs": [
+        {
+          "title": "Pendingin dan tanda tangan",
+          "chapters": [
+            361,
+            384
+          ],
+          "action": "Habitat Bintang menyediakan tempat mengumpulkan bahan Gerbang Api dan log stasis.",
+          "choice": "Yazha menunggu pendamping serta pemutus sebelum operasi.",
+          "aftermath": "Penundaan terasa mahal ketika Nala belum ditemukan."
+        },
+        {
+          "title": "Yang boleh direkonstruksi",
+          "chapters": [
+            385,
+            408
+          ],
+          "action": "Primeval bab 389; transisi bab 393, termasuk 40 hari lokal perawatan dan uji ulang.",
+          "choice": "Veyla menata Core; Bhas dan Yuna tetap memilih hidup di Abadi.",
+          "aftermath": "Core alami maupun buatan bisa berkembang; risiko tidak hilang karena tekad."
+        },
+        {
+          "title": "Ruangan yang mempunyai anak",
+          "chapters": [
+            409,
+            432
+          ],
+          "action": "Fase buffer, dokumen, dan pengiriman menunjukkan laboratorium dengan korban lebih dari satu anak.",
+          "choice": "Rencana memisahkan status dari daya serta menyediakan penampungan korban.",
+          "aftermath": "Pembacaan suplai dan alat menyiapkan kemenangan, bukan nama adik Varek."
+        },
+        {
+          "title": "Harga seorang saksi",
+          "chapters": [
+            433,
+            456
+          ],
+          "action": "Kontrak Moxi menargetkan anak pada bab 437–448; Veyla dan Yazha membicarakan rumah serta nama anak.",
+          "choice": "Ia menolak upah, melindungi saksi, dan menerima rutenya dibocorkan.",
+          "aftermath": "Pencarian tertunda; Akasa dan Kanavi tetap rencana, belum pernah lahir."
+        },
+        {
+          "title": "Tidak boleh menyentuh",
+          "chapters": [
+            457,
+            480
+          ],
+          "action": "Kontak stasis diputus, Nala memakai jeda yang diamatinya; Varek mati 477, pembebasan 478.",
+          "choice": "Yazha menyisakan energi untuk borgol, bukan menghabiskannya sebagai pembalasan.",
+          "aftermath": "Nala usia 8/Lv0 menolak pelukan; keselamatan tidak berarti trauma selesai."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pintu yang Dipilih Veyla",
+      "chapters": [
+        481,
+        600
+      ],
+      "segments": [
+        {
+          "place": "bintang",
+          "earth_years": "2",
+          "chapters": [
+            481,
+            600
+          ]
+        }
+      ],
+      "premise": "Mencintai sambil ingin menjaga semua orang dekat.",
+      "choice": "Menerima proyek Veyla yang tidak tunduk pada takutnya.",
+      "aftermath": "Perang mengambil Veyla; proyeknya tetap bekerja.",
+      "arcs": [
+        {
+          "title": "Porsi yang diminta",
+          "chapters": [
+            481,
+            504
+          ],
+          "action": "Nala pulih di Abadi dengan pengasuh dan klinik; Yazha menyiapkan delegasi sebelum pergi lagi.",
+          "choice": "Ia bertanya porsi dan mengizinkan orang lain merawat adiknya.",
+          "aftermath": "Kendali laboratorium tidak sekadar berganti menjadi kendali kakak."
+        },
+        {
+          "title": "Hak pergi",
+          "chapters": [
+            505,
+            528
+          ],
+          "action": "Keluarga Xa merundingkan jalur, embargo, dan kontrak; anggota keluarga mempunyai sikap berbeda.",
+          "choice": "Veyla memilih proyek warga, Yazha tidak membantai klan untuk mendapatkan kekasih.",
+          "aftermath": "Hak keluarga serta transit bersambung dengan kepentingan Varin."
+        },
+        {
+          "title": "Dua pintu",
+          "chapters": [
+            529,
+            552
+          ],
+          "action": "Lv6 bab 541 melalui penataan bidang; Selubung Violet diuji dengan batas penumpang dan suplai.",
+          "choice": "Jalur sipil dipisahkan dari sasaran senjata walau memperlambat perang.",
+          "aftermath": "Orang terakhir yang menunggu bukan angka anonim."
+        },
+        {
+          "title": "Teman dalam kontrak",
+          "chapters": [
+            553,
+            576
+          ],
+          "action": "Roran membawa data 18 jangkar; kontrak Moxi mengincarnya. Ungu diuji bab 570 sebelum tragedi.",
+          "choice": "Yazha melindungi pembelot yang pernah melukai tim.",
+          "aftermath": "Bukti bertahan, kerahasiaan rusak, dan Veyla menolak keselamatan yang berarti tidak boleh pergi."
+        },
+        {
+          "title": "Pintu terakhir",
+          "chapters": [
+            577,
+            600
+          ],
+          "action": "Proyeksi Varin keluaran 6 menyerang; Veyla Lv5 mengunci endpoint bab 586, Yazha di jalur lain.",
+          "choice": "Menerima pilihan Veyla tidak memberi kemampuan mengurus seluruh medan.",
+          "aftermath": "Kematian aktual diikuti pemakaman, proyek, kemarahan salah sasaran, dan permintaan maaf; bukan level baru."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tidak Ada yang Pulang dari Dendam",
+      "chapters": [
+        601,
+        720
+      ],
+      "segments": [
+        {
+          "place": "bintang",
+          "earth_years": "3",
+          "chapters": [
+            601,
+            720
+          ]
+        }
+      ],
+      "premise": "Mengakhiri dendam dan ingin merasa selesai.",
+      "choice": "Memisahkan daya sipil dan membuka kesalahan Moxi.",
+      "aftermath": "Musuh mati, pekerjaan dan tanggung jawab hidup.",
+      "arcs": [
+        {
+          "title": "Kerja setelah pemakaman",
+          "chapters": [
+            601,
+            624
+          ],
+          "action": "Proyek Veyla, gudang obat, pengungsi, dan hubungan yang rusak harus diurus sesudah pemakaman.",
+          "choice": "Yazha meminta maaf kepada petugas yang disalahkannya.",
+          "aftermath": "Maaf belum diterima; perang dan kehidupan tetap berjalan."
+        },
+        {
+          "title": "Yang bisa ditopang",
+          "chapters": [
+            625,
+            648
+          ],
+          "action": "Log Tulang Voth, gaya tumpuan, jalur cadangan, dan perundingan operator dipelajari.",
+          "choice": "Jalur klinik tidak diputus untuk memudahkan sabotase.",
+          "aftermath": "Koalisi menyediakan buffer dan evakuasi sebelum menyerang."
+        },
+        {
+          "title": "Kekuatan yang terbatas",
+          "chapters": [
+            649,
+            672
+          ],
+          "action": "Lv7 bab 663 setelah sambung bidang teruji; rencana hanya memperoleh jendela lima detik.",
+          "choice": "Skala gangguan dikurangi agar cadangan serta Niskala cukup.",
+          "aftermath": "Bhas, Roran, Lian, dan operator mempunyai pekerjaan yang menentukan hasil."
+        },
+        {
+          "title": "Pijakan yang hilang",
+          "chapters": [
+            673,
+            696
+          ],
+          "action": "Jalur cadangan diputus; Merah ×2 mengganggu Goliath Lv8, mati 687, mandat #3 disahkan 690.",
+          "choice": "Yazha menolong penambang sebelum mengejar sisa milisi.",
+          "aftermath": "Bahu memburuk dan mesin tetap diperlukan warga; tidak menjadi loot pribadi."
+        },
+        {
+          "title": "Tidak ada di dalam kemenangan",
+          "chapters": [
+            697,
+            720
+          ],
+          "action": "Daya sipil diamankan sebelum 18 jangkar dipisah; identitas Moxi dibuka 713, Varin mati 715.",
+          "choice": "Yazha menerima pemeriksaan serta penyitaan hak/pendapatan walau bisa merusak dukungan perang.",
+          "aftermath": "Dendam selesai tanpa mengembalikan Veyla atau Dhiza; kerja restitusi terus berlangsung."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Buku Besar Orang Hilang",
+      "chapters": [
+        721,
+        840
+      ],
+      "segments": [
+        {
+          "place": "bintang",
+          "earth_years": "1",
+          "chapters": [
+            721,
+            780
+          ]
+        },
+        {
+          "place": "kekosongan",
+          "earth_years": "2",
+          "chapters": [
+            781,
+            840
+          ]
+        }
+      ],
+      "premise": "Mencari penjelasan bagi orang yang tidak tercatat.",
+      "choice": "Menyelamatkan arsip korban dari amarahnya sendiri.",
+      "aftermath": "Ilyan punya jawaban, registri bukan sebab kosmos.",
+      "arcs": [
+        {
+          "title": "Kabar yang tidak meminta balasan",
+          "chapters": [
+            721,
+            744
+          ],
+          "action": "Restitusi, layanan, serta surat Hutan Pola; kabar Pemburu Tua meninggal karena penyakit paru bab 744.",
+          "choice": "Yazha mengurus pekerjaan yang terlambat tanpa memakai perang sebagai jawaban semua hal.",
+          "aftermath": "Ada kehilangan biasa tanpa musuh yang bisa dibunuh."
+        },
+        {
+          "title": "Lampu penyaring",
+          "chapters": [
+            745,
+            768
+          ],
+          "action": "Tua Beng menyerahkan log dan menua; pemurni Lumina, pencemaran, serta koperasi memerlukan kerja.",
+          "choice": "Mandat #2 diperoleh setelah penanggung jawab dan pengganti siap.",
+          "aftermath": "Jaringan bukan rantai barang; kesaksian Ilyan mulai dapat ditimbang."
+        },
+        {
+          "title": "Nama yang tidak tersambung",
+          "chapters": [
+            769,
+            792
+          ],
+          "action": "Mandat #4 disahkan 778; masuk terminal terlindung Kekosongan bab 781, rekaman Yazha tidak tersambung.",
+          "choice": "Ia memeriksa log akses, tidak menyimpulkan dirinya tanpa sebab.",
+          "aftermath": "Clamp dan perbedaan jam terlihat; jalan ke registri terbuka."
+        },
+        {
+          "title": "Buku yang ikut terbakar",
+          "chapters": [
+            793,
+            816
+          ],
+          "action": "Keran Vale menghalangi; bukti staf mengungkap Ilyan. Kombinasi Merah-Ungu diuji bab 808.",
+          "choice": "Yazha membakar sebagian salinan lalu menyadari korban memerlukan bukti dan menyelamatkan duplikat.",
+          "aftermath": "Inti #6 tidak terbakar; kejahatan registri bukan alasan semua arsip dimusnahkan."
+        },
+        {
+          "title": "Jadwal untuk diri sendiri",
+          "chapters": [
+            817,
+            840
+          ],
+          "action": "Lv8 bab 819; rekaman Ilyan menjelaskan motif serta persetujuan yang belum lengkap.",
+          "choice": "Yazha mendengar tanpa menjadikan bantuan operator anugerah suci atau memaafkan seketika.",
+          "aftermath": "Log serta metode isolasi siap; masa lalu Moxi tidak terhapus."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Kabar dari Rumah",
+      "chapters": [
+        841,
+        960
+      ],
+      "segments": [
+        {
+          "place": "kekosongan",
+          "earth_years": "119/60",
+          "chapters": [
+            841,
+            948
+          ]
+        },
+        {
+          "place": "bumi_abadi",
+          "earth_years": "1/60",
+          "chapters": [
+            949,
+            960
+          ]
+        }
+      ],
+      "premise": "Mencari kemandirian tanpa kehilangan rumah.",
+      "choice": "Mengurus kehadiran, bukan hanya memberikan hadiah.",
+      "aftermath": "Teman menua dan mengenalnya dengan cara berbeda.",
+      "arcs": [
+        {
+          "title": "Tanpa masukan",
+          "chapters": [
+            841,
+            864
+          ],
+          "action": "Uji 100 hari lokal tanpa masukan komando; rutinitas dan log membatasi salah persepsi.",
+          "choice": "Yazha menghentikan satu uji, mengoreksi, lalu mencoba lagi.",
+          "aftermath": "Kemandirian bukan menghapus semua kehangatan."
+        },
+        {
+          "title": "Perintah yang dapat diperiksa",
+          "chapters": [
+            865,
+            888
+          ],
+          "action": "Gerbang Kesepian selesai 865; Rune-Willed dipakai pada perintah dengan pemutus yang telah diuji.",
+          "choice": "Ia menerima koreksi saksi dan tidak menganggap seluruh data benar karena satu penemuan.",
+          "aftermath": "Kemampuan bertambah, izin tetap terbatas."
+        },
+        {
+          "title": "Surat yang bertanggal lain",
+          "chapters": [
+            889,
+            912
+          ],
+          "action": "Kabar anak Bhas, klinik Yuna, dan kuota rumah bertanggal pada jam berbeda.",
+          "choice": "Ia menjawab surat yang tidak berisi petunjuk misi dan menetapkan kunjungan.",
+          "aftermath": "Hubungan memerlukan kehadiran, bukan hanya saluran data."
+        },
+        {
+          "title": "Sepuluh meter",
+          "chapters": [
+            913,
+            948
+          ],
+          "action": "Domain bab 923 memutus komando senjata tanpa mematikan pompa; alamat Voidmaw diterjemahkan.",
+          "choice": "Yazha memetakan dua jalur daripada menyebut semua serangan kehilangan kekuatan.",
+          "aftermath": "Ada alamat Vaniya, belum jaminan penyelamatan."
+        },
+        {
+          "title": "Siapa yang membuka pintu",
+          "chapters": [
+            949,
+            960
+          ],
+          "action": "Kunjungan Abadi 0,05 tahun lokal; Bhas/Yuna sekitar 68, rumah ramai, Nala 38.",
+          "choice": "Yazha mendengar kisah yang tidak disaksikannya dan tidak membeli penerimaan dengan hadiah.",
+          "aftermath": "Pulang berikutnya tidak dijanjikan pasti; orang lain mempunyai hidup sendiri."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Bagian yang Tidak Dibagikan",
+      "chapters": [
+        961,
+        1080
+      ],
+      "segments": [
+        {
+          "place": "kekosongan",
+          "earth_years": "3",
+          "chapters": [
+            961,
+            1080
+          ]
+        }
+      ],
+      "premise": "Bertemu ibu setelah ribuan hari mencari.",
+      "choice": "Memenuhi pilihan ibunya ketika rencana tidak bisa menyelamatkan semua.",
+      "aftermath": "Tidak lagi mencari pengembalian masa lalu.",
+      "arcs": [
+        {
+          "title": "Aula Kuota",
+          "chapters": [
+            961,
+            984
+          ],
+          "action": "Kantor cabang Aula Kuota di Kekosongan digugat melalui dokumen, pengeluaran, dan staf.",
+          "choice": "Bukti yang merugikan reputasi Moxi tetap diserahkan.",
+          "aftermath": "Dukungan terbentuk tanpa duel Lv9 melawan seluruh Sidang Lv15."
+        },
+        {
+          "title": "Alamat di saluran buangan",
+          "chapters": [
+            985,
+            1008
+          ],
+          "action": "Voidmaw dipetakan; fungsi Realmwarp teruji dan Lv10 bab 1001 sebelum pertemuan Vaniya. Katup darurat terikat fase operator; kalibrasi pengganti 180 detik ditunjukkan pada bab 999, sebelum keputusan fatal.",
+          "choice": "Rencana memasukkan kebutuhan rombongan, bukan hanya satu ibu.",
+          "aftermath": "Katup, segel, serta batas endpoint diketahui sebelum keputusan."
+        },
+        {
+          "title": "Tangan yang masih hangat",
+          "chapters": [
+            1009,
+            1032
+          ],
+          "action": "Vaniya menahan katup rusak 1009; rombongan keluar, mandat #5 disahkan 1018 oleh operator.",
+          "choice": "Yazha memenuhi pilihan ibunya, tidak menarik paksa orang yang menahan jalur hidup.",
+          "aftermath": "Ibunya mati aktual; ada penyintas, kain basah, dan tujuan yang tidak lagi membalik masa lalu."
+        },
+        {
+          "title": "Kontrak yang tidak diberikan",
+          "chapters": [
+            1033,
+            1056
+          ],
+          "action": "Perkara Moxi, restitusi, hak pasien, dan pembagian dana menentang monopoli.",
+          "choice": "Yazha membuka data yang dapat menghentikan sebagian hak pribadinya.",
+          "aftermath": "Kebenaran tidak selalu menguntungkan pengungkapnya."
+        },
+        {
+          "title": "Kunci yang punya pemilik ramai",
+          "chapters": [
+            1057,
+            1080
+          ],
+          "action": "Mandat #6 disahkan 1068; staf Ordo mengikat audit, pusat Sidang mulai kehilangan dukungan.",
+          "choice": "Mandat berada pada banyak penanggung jawab, bukan rekening pribadi Yazha.",
+          "aftermath": "Layanan sipil berjalan dan konflik pusat berlanjut V13."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Yang Datang Terlambat",
+      "chapters": [
+        1081,
+        1200
+      ],
+      "segments": [
+        {
+          "place": "kekosongan",
+          "earth_years": "239/60",
+          "chapters": [
+            1081,
+            1195
+          ]
+        },
+        {
+          "place": "bumi_abadi",
+          "earth_years": "1/60",
+          "chapters": [
+            1196,
+            1200
+          ]
+        }
+      ],
+      "premise": "Membuka hak orang lain dan takut kabar rumah.",
+      "choice": "Batal mengejar akses tetapi masih terlambat.",
+      "aftermath": "Bhas mati; keluarga tidak menunggu protagonis untuk berduka.",
+      "arcs": [
+        {
+          "title": "Hak memanggil",
+          "chapters": [
+            1081,
+            1104
+          ],
+          "action": "Ordo Nama Pertama menolak alamat kelompok; Nala dan Yuna membantu pasien lewat layanan Abadi.",
+          "choice": "Yazha melindungi persetujuan serta arsip saksi, bukan hanya nama sendiri.",
+          "aftermath": "Kemurnian mulai terbukti administratif, bukan alasan gen protagonis lebih unggul."
+        },
+        {
+          "title": "Yang dihapus dari alamat",
+          "chapters": [
+            1105,
+            1128
+          ],
+          "action": "Pola alamat #10 serta kontrak ditemukan; pusat Ordo Lv14 tetap berbeda dari petugas cabang.",
+          "choice": "Tokoh, data, dan hak dipisahkan; catatan kelahiran tidak dibakar.",
+          "aftermath": "Kesaksian pemalsuan terbit dan staf mulai memilih pihak."
+        },
+        {
+          "title": "Salinan bagi yang hidup",
+          "chapters": [
+            1129,
+            1152
+          ],
+          "action": "Lv11 bab 1141; backup dan alamat peralihan mendahului mandat #10 bab 1148.",
+          "choice": "Yazha mempertahankan bukti Moxi ketika alamat namanya bisa dilindungi.",
+          "aftermath": "Warga memperoleh layanan; ia tidak kebal identitas."
+        },
+        {
+          "title": "Kipli di pintu darurat",
+          "chapters": [
+            1153,
+            1176
+          ],
+          "action": "Terminal evakuasi Abadi diserang; Bhas serta kru bekerja manual ketika penanda diblokade.",
+          "choice": "Bhas memilih evakuasi; Yazha mencoba jalur lain dengan waktu dan risiko nyata.",
+          "aftermath": "Kontak yang terputus ditanam sebelum kabar fatal."
+        },
+        {
+          "title": "Berita yang tidak lengkap",
+          "chapters": [
+            1177,
+            1195
+          ],
+          "action": "Bhas mati menahan pintu bab 1188; rekaman berhenti, pemakaman tetap berjalan.",
+          "choice": "Yazha membatalkan akses baru dan mencari jalan pulang, tetapi tetap terlambat.",
+          "aftermath": "Keturunan Bhas menceritakan hidup ayah/kakek, bukan hanya teman protagonis."
+        },
+        {
+          "title": "Kursi tamu",
+          "chapters": [
+            1196,
+            1200
+          ],
+          "action": "Kunjungan Abadi 0,05 tahun lokal, barang Kipli tak pulih sempurna, pekerjaan dibagi.",
+          "choice": "Yazha menerima pemakaman tidak berpusat kepadanya dan melakukan pekerjaan biasa.",
+          "aftermath": "Yuna meminta jadwal, bukan lebih banyak musuh mati; Nameless mulai disiapkan."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Orang yang Tidak Mau Berakhir",
+      "chapters": [
+        1201,
+        1320
+      ],
+      "segments": [
+        {
+          "place": "keabadian",
+          "earth_years": "3/2",
+          "chapters": [
+            1201,
+            1320
+          ]
+        }
+      ],
+      "premise": "Menjaga kenangan ketika aksesnya mulai rusak.",
+      "choice": "Menolak arsip sempurna yang memakai orang hidup sebagai harga.",
+      "aftermath": "Nameless melepas kontrak, bukan cinta atau bukti.",
+      "arcs": [
+        {
+          "title": "Operator batas",
+          "chapters": [
+            1201,
+            1224
+          ],
+          "action": "Habitat peralihan Keabadian; Penjaga Batas memeriksa hasil uji, termasuk kegagalan.",
+          "choice": "Yazha mengakui bagian yang tidak diketahui.",
+          "aftermath": "Masuk stasiun tidak sama dengan lolos Nameless; tubuh masih memakai registri."
+        },
+        {
+          "title": "Suara yang terlalu sempurna",
+          "chapters": [
+            1225,
+            1248
+          ],
+          "action": "Pengumpul menawarkan fragmen Veyla; Penyair menunjukkan sumber dan ketidakpastian.",
+          "choice": "Ia menolak salinan yang mau mengucapkan apa saja, tetapi tetap memeriksa fakta asli.",
+          "aftermath": "Rindu tidak sembuh; satu aroma lama tidak dapat dipanggil lagi."
+        },
+        {
+          "title": "Mereka yang dipelihara",
+          "chapters": [
+            1249,
+            1272
+          ],
+          "action": "Lv12 bab 1251; proyeksi Hampa dengan perangkat keluaran 12 mengikat pasien.",
+          "choice": "Pasien diselamatkan dan perangkat diputus, bukan mengklaim membunuh tubuh Lv16.",
+          "aftermath": "Hampa adalah rekan ekspedisi TFE, bukan pecahan jiwa yang ditakdirkan gagal."
+        },
+        {
+          "title": "Mata yang tidak punya nama",
+          "chapters": [
+            1273,
+            1296
+          ],
+          "action": "Sensor #8 serta data batas diuji; mandat 1288 bersama penjaga dan operator.",
+          "choice": "Dataset dibuka meski hasilnya menunda keberangkatan.",
+          "aftermath": "Pemborosan kisi dapat dibedakan dari kebutuhan layanan."
+        },
+        {
+          "title": "Alamat yang ditinggalkan",
+          "chapters": [
+            1297,
+            1320
+          ],
+          "action": "Gerbang Nameless selesai 1311; alamat registri dilepas, tulisan serta ingatan orang tetap.",
+          "choice": "Yazha tidak menghapus bukti kesalahan atau menuntut semua orang melupakannya.",
+          "aftermath": "Pemulihan serta hak luar hilang; surat dan hubungan tetap menjadi pijakan."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Yang Tinggal dan Yang Pergi",
+      "chapters": [
+        1321,
+        1440
+      ],
+      "segments": [
+        {
+          "place": "keabadian",
+          "earth_years": "4",
+          "chapters": [
+            1321,
+            1380
+          ]
+        },
+        {
+          "place": "bumi_abadi",
+          "earth_years": "1/6",
+          "chapters": [
+            1381,
+            1400
+          ]
+        },
+        {
+          "place": "keabadian",
+          "earth_years": "5/6",
+          "chapters": [
+            1401,
+            1440
+          ]
+        }
+      ],
+      "premise": "Menyiapkan jalan keluar tanpa tiran pengganti.",
+      "choice": "Membagi kendali dan hadir saat Yuna memilih akhir.",
+      "aftermath": "Dua Dinding bekerja; peradaban dapat menjalani hidup tanpa dirinya.",
+      "arcs": [
+        {
+          "title": "Air dari Sumber",
+          "chapters": [
+            1321,
+            1344
+          ],
+          "action": "Tiga arc pertama memuat empat tahun Bumi/1.200 lokal; penukar panas dan minimum pasien mendahului #9 bab 1344.",
+          "choice": "Pendingin pasien diprioritaskan di atas percobaan Yazha.",
+          "aftermath": "Protokol dibentuk lewat kerja lama dan koreksi, bukan satu pencerahan."
+        },
+        {
+          "title": "Konfigurasi yang bisa dibagi",
+          "chapters": [
+            1345,
+            1368
+          ],
+          "action": "Lv14 bab 1351; #11 bab 1358 memberi konfigurasi cadangan, bukan memulihkan seluruh sejarah.",
+          "choice": "Alat dan hak pemutus diberikan kepada orang yang tidak harus setia kepada Yazha.",
+          "aftermath": "Operator pusat mempunyai hak menolak; koalisi mampu memisahkan kendali."
+        },
+        {
+          "title": "Yang tidak mau berhenti",
+          "chapters": [
+            1369,
+            1380
+          ],
+          "action": "Pasien loop Hampa dibebaskan, perangkat diisolasi; tubuh Lv16 runtuh 1374 saat menolak menghentikan rangkaian.",
+          "choice": "Yazha menolak menukar orang hidup dengan kenangan sempurna.",
+          "aftermath": "Bukan Lv14 memenangkan duel tubuh sehat Lv16; sistem dan pilihan musuh menentukan."
+        },
+        {
+          "title": "Setengah tahun di rumah",
+          "chapters": [
+            1381,
+            1400
+          ],
+          "action": "Setengah tahun lokal di Abadi: Lv15 1381, Garu/Dewan, mandat #7 1395, Yuna mati 1398.",
+          "choice": "Setiap tahanan memilih sesudah pengganti siap; Yuna dirawat tanpa reset identitas.",
+          "aftermath": "Rumah bukan museum yang menunggu; akhir sahabat tidak dibatalkan."
+        },
+        {
+          "title": "Protokol yang tidak memakai izin",
+          "chapters": [
+            1401,
+            1420
+          ],
+          "action": "Kembali Keabadian 5/6 tahun Bumi/250 lokal; Lv16 1411, Cipta membentuk protokol yang diuji pihak lain.",
+          "choice": "Nala memimpin pembagian kendali, hasil gagal tetap diterbitkan.",
+          "aftermath": "Sebagian sensasi hilang; TFE hanya berkomunikasi melalui antarmuka terbatas."
+        },
+        {
+          "title": "Dua dinding",
+          "chapters": [
+            1421,
+            1440
+          ],
+          "action": "Jejak Diri Dinding 1 bab 1426, antarmuka Dinding 2 bab 1440; tubuh belum di luar.",
+          "choice": "Hak operasi sipil diletakkan pada pengganti, bukan memegang sebelas kunci sendirian.",
+          "aftermath": "Belum Lv17; risiko amnesia diketahui sebelum lompatan."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Rumah yang Tidak Bisa Dibeli",
+      "chapters": [
+        1441,
+        1530
+      ],
+      "segments": [
+        {
+          "place": "keabadian",
+          "earth_years": "9/2",
+          "chapters": [
+            1441,
+            1529
+          ]
+        }
+      ],
+      "premise": "Mengambil risiko atas ingatan yang tersisa.",
+      "choice": "Menolak kepemilikan rumah proyeksi, memeriksa pengganti, lalu melintas.",
+      "aftermath": "Ia lupa episodik tetapi masih merawat; yang dalam masih hidup dengan pilihannya.",
+      "arcs": [
+        {
+          "title": "Cadangan untuk yang tidak pergi",
+          "chapters": [
+            1441,
+            1458
+          ],
+          "action": "Ambang Dalam: 1.350 tahun lokal meliputi uji/proyek; operator dan buffer berganti.",
+          "choice": "Orang lain boleh mengubah hasil kerjanya jika risikonya dapat diperiksa.",
+          "aftermath": "Jaringan belajar berjalan tanpa protagonis; generasi lokal atas bukan dua puluh generasi Abadi."
+        },
+        {
+          "title": "Hak menutup pintu",
+          "chapters": [
+            1459,
+            1476
+          ],
+          "action": "Satu parameter membuat uji celah gagal; sidang publik, catatan keterbatasan TFE, dan pemutus diperiksa.",
+          "choice": "Operator lain berhak menutup, meski menggagalkan keberangkatannya.",
+          "aftermath": "Tidak ada entitas memilihnya; persetujuan serta risiko mendasari jalan keluar."
+        },
+        {
+          "title": "Yang masih tersisa di tangan",
+          "chapters": [
+            1477,
+            1494
+          ],
+          "action": "Akses indera/memori memburuk; surat Nala dan permintaan pengungsi bertanggal nyata.",
+          "choice": "Ia menjaga kebiasaan merawat sambil menerima sebagian memori tak dapat dipanggil.",
+          "aftermath": "Kehilangan membatasi, tidak memberi kekebalan harga."
+        },
+        {
+          "title": "Rumah dari catatan",
+          "chapters": [
+            1495,
+            1512
+          ],
+          "action": "Arsip dapat membuat gambar orang lama; audit final serta protokol diterbitkan.",
+          "choice": "Yazha menolak salinan keluarga sebagai pengganti dan menyimpan bukti tanpa memujanya.",
+          "aftermath": "Celah layak dicoba, pengganti siap, ingatan lengkap tidak dijanjikan."
+        },
+        {
+          "title": "Rumah yang tidak pernah ada",
+          "chapters": [
+            1513,
+            1529
+          ],
+          "action": "Penglihatan bab 1524 memuat orang tua, Veyla, Akasa/Kanavi; bingkai proyeksi jelas sebelum dan setelah.",
+          "choice": "Ia tidak menahan dunia yang selalu menjawab keinginannya; memilih masa depan yang belum diketahui.",
+          "aftermath": "Orang mati tidak kembali, anak belum lahir, warga Dalam tetap mengingat."
+        },
+        {
+          "title": "Tangan sebelum nama",
+          "chapters": [
+            1530,
+            1530
+          ],
+          "action": "Dinding 3, satu celah kecil, Shell dilintasi; Lv17 dan amnesia episodik bab 1530.",
+          "choice": "Sebelum mengingat nama, tangannya memberi ruang bagi makhluk yang takut disentuh.",
+          "aftermath": "Akhir moral utuh; sekuel menguji kepedulian tanpa arsip sempurna, distribusi sipil tetap berjalan."
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "core",
+      "chapter": 91,
+      "volume": 2,
+      "label": "Core buatan dipasang; pertama kali Level 1"
+    },
+    {
+      "id": "harmonisasi",
+      "chapter": 118,
+      "volume": 2,
+      "label": "Harmonisasi awal; hipotesis Kehilangan, bukan Domain"
+    },
+    {
+      "id": "voidstep",
+      "chapter": 119,
+      "volume": 2,
+      "label": "Voidstep pertama, jarak 5 m"
+    },
+    {
+      "id": "primeval",
+      "chapter": 389,
+      "volume": 5,
+      "label": "Inti Primeval: pemurni, tidak menciptakan Lesh Putih"
+    },
+    {
+      "id": "gerbang_api",
+      "chapter": 393,
+      "volume": 5,
+      "label": "Transisi 4→5 selesai"
+    },
+    {
+      "id": "gerbang_kesepian",
+      "chapter": 865,
+      "volume": 9,
+      "label": "Transisi 8→9 selesai"
+    },
+    {
+      "id": "gerbang_nameless",
+      "chapter": 1311,
+      "volume": 12,
+      "label": "Transisi 12→13 selesai"
+    },
+    {
+      "id": "dinding_1",
+      "chapter": 1426,
+      "volume": 13,
+      "label": "Lepas hak menahan orang lain; Jejak Diri mandiri"
+    },
+    {
+      "id": "dinding_2",
+      "chapter": 1440,
+      "volume": 13,
+      "label": "Protokol tujuh konstanta teruji; tubuh belum di luar Shell"
+    },
+    {
+      "id": "vision",
+      "chapter": 1524,
+      "volume": 14,
+      "label": "Penglihatan rumah dan anak-anak; bukan kejadian"
+    },
+    {
+      "id": "shell",
+      "chapter": 1530,
+      "volume": 14,
+      "label": "Dinding 3, menembus The Shell; Level 17; amnesia"
+    }
+  ],
+  "deaths": [
+    {
+      "id": "preman",
+      "name": "Preman Batavia",
+      "chapter": 23,
+      "volume": 1,
+      "actual": true,
+      "cause": "Jatuh setelah didorong, kepala membentur batu; bukan energi Level 0"
+    },
+    {
+      "id": "dhiza",
+      "name": "Dhiza Raynawa",
+      "chapter": 33,
+      "volume": 1,
+      "actual": true,
+      "cause": "Dibunuh Varek di Ciyasa"
+    },
+    {
+      "id": "wiadava",
+      "name": "Aethel Wiadava",
+      "chapter": 34,
+      "volume": 1,
+      "actual": true,
+      "cause": "Menghabiskan sisa cadangan untuk menutup gerbang logistik Pluto"
+    },
+    {
+      "id": "moxi_victim",
+      "name": "Sena Oris",
+      "chapter": 234,
+      "volume": 3,
+      "actual": true,
+      "cause": "Dibunuh Moxi berdasarkan berkas klien yang dipalsukan"
+    },
+    {
+      "id": "varek",
+      "name": "Varek Voth",
+      "chapter": 477,
+      "volume": 5,
+      "actual": true,
+      "cause": "Rangkaian stasis diputus, serangan setelah buffer waktu kosong"
+    },
+    {
+      "id": "veyla",
+      "name": "Xa Veylara",
+      "chapter": 586,
+      "volume": 6,
+      "actual": true,
+      "cause": "Mengunci jalur evakuasi melawan proyeksi Varin; tidak dibangkitkan"
+    },
+    {
+      "id": "goliath",
+      "name": "Goliath Voth",
+      "chapter": 687,
+      "volume": 7,
+      "actual": true,
+      "cause": "Penyeimbang pijakan rusak; bukan tinju Level 7 mengalahkan Level 8 murni"
+    },
+    {
+      "id": "varin",
+      "name": "Varin Astralis",
+      "chapter": 715,
+      "volume": 7,
+      "actual": true,
+      "cause": "Rangkaian penyangga dicabut koalisi; tubuh sakit runtuh saat overclock"
+    },
+    {
+      "id": "pemburu",
+      "name": "Pemburu Tua",
+      "chapter": 744,
+      "volume": 8,
+      "actual": true,
+      "cause": "Penyakit paru; kabar dari Hutan Pola, bukan dibunuh demi motivasi"
+    },
+    {
+      "id": "vaniya",
+      "name": "Vaniya Raynawa",
+      "chapter": 1009,
+      "volume": 10,
+      "actual": true,
+      "cause": "Katup rusak saat Yazha memilih menolong penumpang lain; pertemuan singkat di Voidmaw"
+    },
+    {
+      "id": "bhas",
+      "name": "Bhaskara Dewantara",
+      "chapter": 1188,
+      "volume": 11,
+      "actual": true,
+      "cause": "Menahan pintu evakuasi sipil; tidak mengorbankan diri untuk power-up"
+    },
+    {
+      "id": "hampa",
+      "name": "Penguasa Hampa",
+      "chapter": 1374,
+      "volume": 13,
+      "actual": true,
+      "cause": "Sirkuit ekstraksi dihentikan setelah sandera dilepas; menolak menghentikan loop"
+    },
+    {
+      "id": "yuna",
+      "name": "Ryuna Daniswara",
+      "chapter": 1398,
+      "volume": 13,
+      "actual": true,
+      "cause": "Penuaan dengan cedera saraf kronis; perawatan dipilih tanpa operasi reset identitas"
+    }
+  ],
+  "character_clocks": {
+    "bhaskara": {
+      "age_at_invasion": "14",
+      "residence_after_invasion": "bumi_abadi",
+      "max_level": 4,
+      "death": "bhas",
+      "death_earth_elapsed": "1679/60"
+    },
+    "ryuna": {
+      "age_at_invasion": "14",
+      "residence_after_invasion": "bumi_abadi",
+      "max_level": 4,
+      "death": "yuna",
+      "death_earth_elapsed": "101/3"
+    },
+    "nala": {
+      "age_at_invasion": "6",
+      "awake_years_in_captivity": "2",
+      "rescued_at_volume_end": 5,
+      "residence_after_rescue": "bumi_abadi",
+      "final_level": 6
+    }
+  },
+  "lesh": [
+    {
+      "id": 1,
+      "name": "Hati Astralis",
+      "function": "Sakelar mandat dan pembatas keluaran",
+      "location": "Astralis Prime, Alam Bintang",
+      "mandate_volume": 7,
+      "mandate_chapter": 706,
+      "physically_removed": false
+    },
+    {
+      "id": 2,
+      "name": "Air Mata Lumina",
+      "function": "Penyaring racun hasil ekstraksi",
+      "location": "Sungai Cahaya, Alam Bintang",
+      "mandate_volume": 8,
+      "mandate_chapter": 760,
+      "physically_removed": false
+    },
+    {
+      "id": 3,
+      "name": "Tulang Voth",
+      "function": "Penyeimbang beban dan penyimpan cadangan",
+      "location": "Sabuk Voth, Alam Bintang",
+      "mandate_volume": 7,
+      "mandate_chapter": 690,
+      "physically_removed": false
+    },
+    {
+      "id": 4,
+      "name": "Kabut Aethel",
+      "function": "Pengukur aliran dan pencocok fase",
+      "location": "Awan Aethel, Alam Bintang",
+      "mandate_volume": 8,
+      "mandate_chapter": 778,
+      "physically_removed": false
+    },
+    {
+      "id": 5,
+      "name": "Mulut Voidmaw",
+      "function": "Saluran buangan dan katup pelepas",
+      "location": "Cincin Luar, Alam Kekosongan",
+      "mandate_volume": 10,
+      "mandate_chapter": 1018,
+      "physically_removed": false
+    },
+    {
+      "id": 6,
+      "name": "Buku Primordium",
+      "function": "Pencatat kontrak dan terminal jaringan",
+      "location": "Bait Sumber Pertama, Alam Kekosongan",
+      "mandate_volume": 10,
+      "mandate_chapter": 1068,
+      "physically_removed": false
+    },
+    {
+      "id": 7,
+      "name": "Jantung Bumi",
+      "function": "Pompa dan pengalih distribusi utama",
+      "location": "Zona 1 Elyra-Thal",
+      "mandate_volume": 13,
+      "mandate_chapter": 1395,
+      "physically_removed": false
+    },
+    {
+      "id": 8,
+      "name": "Mata Tak Bernama",
+      "function": "Sensor kondisi batas The Shell",
+      "location": "Observatorium Batas, Alam Keabadian",
+      "mandate_volume": 12,
+      "mandate_chapter": 1288,
+      "physically_removed": false
+    },
+    {
+      "id": 9,
+      "name": "Air dari Sumber",
+      "function": "Pendingin sirkulasi dan penukar panas",
+      "location": "Reservoir Sumber Dalam, Alam Keabadian",
+      "mandate_volume": 13,
+      "mandate_chapter": 1344,
+      "physically_removed": false
+    },
+    {
+      "id": 10,
+      "name": "Nama Pertama",
+      "function": "Alamat jaringan dan hak akses",
+      "location": "Kuil Nama, Alam Kekosongan",
+      "mandate_volume": 11,
+      "mandate_chapter": 1148,
+      "physically_removed": false
+    },
+    {
+      "id": 11,
+      "name": "Benih Terakhir",
+      "function": "Penyimpan konfigurasi pemulihan",
+      "location": "Kebun Cadangan, Alam Keabadian",
+      "mandate_volume": 13,
+      "mandate_chapter": 1358,
+      "physically_removed": false
+    }
+  ],
+  "techniques": [
+    {
+      "id": "voidstep",
+      "name": "Voidstep",
+      "chapter": 119,
+      "energy": 1.5,
+      "niskala": 1,
+      "scope": "5 m pada Level 2; dua detak jantung sebelum ulang; tujuan harus terlihat/ditandai"
+    },
+    {
+      "id": "soul_pressure",
+      "name": "Soul Pressure",
+      "chapter": 103,
+      "energy": 5,
+      "niskala": 0,
+      "scope": "Satu lawan setara, konsentrasi 2 detik; lawan lebih tinggi dapat menahan"
+    },
+    {
+      "id": "merah",
+      "name": "Tatapan Merah",
+      "chapter": 220,
+      "energy": 10,
+      "niskala": 4,
+      "scope": "Satu sifat terukur, satu sasaran, maksimum 5 detik"
+    },
+    {
+      "id": "ungu",
+      "name": "Tatapan Ungu",
+      "chapter": 570,
+      "energy": 25,
+      "niskala": 8,
+      "scope": "Memutus satu niat aktif sampai 3 detik; tidak menghapus kehendak hidup"
+    },
+    {
+      "id": "merah_ungu",
+      "name": "Tatapan Merah-Ungu",
+      "chapter": 808,
+      "energy": 40,
+      "niskala": 12,
+      "scope": "Dua gangguan berurutan pada sasaran yang telah dipetakan"
+    },
+    {
+      "id": "domain",
+      "name": "Domain Kehilangan",
+      "chapter": 923,
+      "energy": 50,
+      "niskala": 20,
+      "scope": "Radius 10 m, 10 detik; satu hubungan yang disebut; tidak otomatis meniadakan serangan"
+    }
+  ],
+  "niskala_thresholds": [
+    {
+      "at": 10,
+      "effect": "Gemetar, presisi turun"
+    },
+    {
+      "at": 25,
+      "effect": "Migrain, harus berhenti menambah beban"
+    },
+    {
+      "at": 50,
+      "effect": "Kerusakan jaringan atau lapis identitas permanen"
+    },
+    {
+      "at": 100,
+      "effect": "Kolaps; tidak dapat mengeluarkan teknik"
+    }
+  ],
+  "state_ledgers": [
+    {
+      "chapter": 119,
+      "type": "wound",
+      "entry": "Bahu kanan tidak pulih sempurna setelah operasi Core; kipli membantu mengikat kain"
+    },
+    {
+      "chapter": 234,
+      "type": "moral",
+      "entry": "Sena Oris tidak kembali; ganti rugi dan kesaksian tidak membeli pengampunan"
+    },
+    {
+      "chapter": 478,
+      "type": "rescue",
+      "entry": "Nala keluar lab umur biologis 8, Level 0; kendali perangkat putus, trauma tidak"
+    },
+    {
+      "chapter": 586,
+      "type": "loss",
+      "entry": "Veyla mati; Selubung Violet jadi alat evakuasi publik, bukan bonus damage"
+    },
+    {
+      "chapter": 715,
+      "type": "moral",
+      "entry": "Varin mati; kuota tambang belum adil dan petugas sipil tidak boleh dibantai"
+    },
+    {
+      "chapter": 1009,
+      "type": "loss",
+      "entry": "Vaniya mati aktual; tujuan berubah dari mengembalikan masa lalu ke menyelamatkan yang masih ada"
+    },
+    {
+      "chapter": 1398,
+      "type": "loss",
+      "entry": "Ryuna mati; Yazha hadir dan tidak memaksa tubuhnya bertahan"
+    },
+    {
+      "chapter": 1440,
+      "type": "memory",
+      "entry": "Sebagian rasa/aroma pribadi telah hilang; fakta hubungan dan kebiasaan merawat masih ada"
+    },
+    {
+      "chapter": 1530,
+      "type": "memory",
+      "entry": "Amnesia episodik; bahasa, penalaran, keterampilan terbatas, dan kebiasaan kepedulian bertahan"
+    }
+  ],
+  "forbidden_active_phrases": [
+    "Dewa Tanpa Nama",
+    "Pewaris Pengetahuan",
+    "langkah tak terbatas",
+    "7x lebih besar",
+    "hanya Yazha yang bisa",
+    "Core alami tidak bisa menyeberang",
+    "Yazha memutar waktu",
+    "menulis takdir",
+    "hanya satu Unbegotten di multiverse"
+  ],
+  "setup_payoffs": [
+    {
+      "id": "S01",
+      "title": "Baut Dhiza",
+      "setup": [
+        2,
+        18,
+        30
+      ],
+      "payoff": [
+        1009,
+        1450
+      ],
+      "result": "Suku cadang diberi label agar kerja orang lain dapat berlanjut; bukan relik."
+    },
+    {
+      "id": "S02",
+      "title": "Mangkuk dan kepang",
+      "setup": [
+        1,
+        12
+      ],
+      "payoff": [
+        483,
+        500
+      ],
+      "result": "Nala dapat memilih porsi dan rambut sendiri; rumah bukan perintah kakak."
+    },
+    {
+      "id": "S03",
+      "title": "Penanda Sol",
+      "setup": [
+        15,
+        26,
+        31
+      ],
+      "payoff": [
+        34,
+        35
+      ],
+      "result": "Gerbang Pluto/evakuasi sudah ada; Yazha Lv0 tidak membuka jalur sendiri."
+    },
+    {
+      "id": "S04",
+      "title": "Buku biasa",
+      "setup": [
+        28,
+        29
+      ],
+      "payoff": [
+        36,
+        174,
+        1440
+      ],
+      "result": "Resep boleh salah, koreksi dibuka, penghormatan bukan ketaatan."
+    },
+    {
+      "id": "S05",
+      "title": "Fase Nala",
+      "setup": [
+        12,
+        33,
+        146
+      ],
+      "payoff": [
+        422,
+        466,
+        478
+      ],
+      "result": "Pengamatan anak kecil memberi satu jeda, bukan kekuatan unik."
+    },
+    {
+      "id": "S06",
+      "title": "Alamat Vaniya",
+      "setup": [
+        33,
+        141,
+        805,
+        988,
+        999
+      ],
+      "payoff": [
+        1009
+      ],
+      "result": "Petunjuk berurutan mengakhiri pencarian; kematian aktual tidak dibatalkan."
+    },
+    {
+      "id": "S07",
+      "title": "Berkas Moxi",
+      "setup": [
+        202,
+        217,
+        234
+      ],
+      "payoff": [
+        259,
+        445,
+        713,
+        1046
+      ],
+      "result": "Sena tidak bersalah; kerja restitusi/izin/pendapatan berubah tanpa pengampunan wajib."
+    },
+    {
+      "id": "S08",
+      "title": "Data Kipli/Yuna",
+      "setup": [
+        11,
+        286,
+        301
+      ],
+      "payoff": [
+        318,
+        350,
+        1188,
+        1200
+      ],
+      "result": "Rekaman dapat menyelamatkan dan juga berhenti sebelum kalimat selesai."
+    },
+    {
+      "id": "S09",
+      "title": "Roran dan penyangga",
+      "setup": [
+        278,
+        351,
+        558
+      ],
+      "payoff": [
+        676,
+        708,
+        715
+      ],
+      "result": "Koalisi menarget 18 jangkar, bukan duel Lv7 melawan tubuh sehat Lv10."
+    },
+    {
+      "id": "S10",
+      "title": "Pintu Veyla",
+      "setup": [
+        137,
+        329,
+        451,
+        543
+      ],
+      "payoff": [
+        586,
+        603,
+        1524
+      ],
+      "result": "Jalur diteruskan; nama anak hanya rencana/proyeksi."
+    },
+    {
+      "id": "S11",
+      "title": "Tujuh tanda tangan",
+      "setup": [
+        348,
+        836,
+        1062
+      ],
+      "payoff": [
+        1395
+      ],
+      "result": "Nomor kursi GT berbeda dari tujuh tahanan; stasis serta pengganti diukur."
+    },
+    {
+      "id": "S12",
+      "title": "Ilyan dan persetujuan",
+      "setup": [
+        84,
+        91,
+        100
+      ],
+      "payoff": [
+        804,
+        833,
+        1041
+      ],
+      "result": "Operator punya motif terbatas; data pasien tidak otomatis miliknya."
+    },
+    {
+      "id": "S13",
+      "title": "Nama bukan orang",
+      "setup": [
+        791,
+        812,
+        1107
+      ],
+      "payoff": [
+        1148,
+        1311,
+        1426
+      ],
+      "result": "Alamat kontrak lepas, ingatan orang/bukti tinta tetap."
+    },
+    {
+      "id": "S14",
+      "title": "Harga buffer",
+      "setup": [
+        102,
+        389,
+        646,
+        914
+      ],
+      "payoff": [
+        687,
+        1374,
+        1456
+      ],
+      "result": "Perangkat punya batas; sistem kosong runtuh bukan karena slogan."
+    },
+    {
+      "id": "S15",
+      "title": "Kisi dan layanan",
+      "setup": [
+        345,
+        764,
+        1059,
+        1288
+      ],
+      "payoff": [
+        1358,
+        1395,
+        1440,
+        1510
+      ],
+      "result": "Celah aman setelah pemisahan, rumah sakit/stasis tetap bekerja."
+    },
+    {
+      "id": "S16",
+      "title": "Kabar rumah",
+      "setup": [
+        608,
+        731,
+        905,
+        958
+      ],
+      "payoff": [
+        1188,
+        1200,
+        1398
+      ],
+      "result": "Hadiah tidak menebus absen; akhir Yuna menerima kehadiran."
+    },
+    {
+      "id": "S17",
+      "title": "Jejak Diri dan memori",
+      "setup": [
+        923,
+        1234,
+        1306,
+        1418
+      ],
+      "payoff": [
+        1426,
+        1440,
+        1485,
+        1530
+      ],
+      "result": "Nilai/prosedur bertahan tanpa pengalaman utuh; risiko diketahui sebelum leap."
+    },
+    {
+      "id": "S18",
+      "title": "Ketakutan akan salinan",
+      "setup": [
+        234,
+        1237,
+        1371,
+        1502
+      ],
+      "payoff": [
+        1524,
+        1529,
+        1530
+      ],
+      "result": "Rumah proyeksi ditolak sebagai kepemilikan, bukan karena bahagia dianggap salah."
+    }
+  ],
+  "volume1_cards": [
+    {
+      "chapter": 1,
+      "title": "Porsi",
+      "time": "2084",
+      "want_obstacle": "Yazha ingin cukup makan tanpa merasa mengambil bagian Nala.",
+      "choice_result": "Vaniya tahu, duduk, dan membagi hidangan; kehangatan diberi waktu."
+    },
+    {
+      "chapter": 2,
+      "title": "Baut",
+      "time": "2084",
+      "want_obstacle": "Ia ingin cepat membantu ayah; alat tak cocok dan pekerjaan lambat.",
+      "choice_result": "Dhiza menunggu dan memberi satu bagian kerja; pembaca mengenal kebiasaan tangan."
+    },
+    {
+      "chapter": 3,
+      "title": "Gempa",
+      "time": "2084",
+      "want_obstacle": "Rute Halimun berubah setelah gempa; rasa ingin tahu membawa tiga anak ke rongga.",
+      "choice_result": "Mereka menemukan Wiadava koma, bukan panggilan atau pesan TFE."
+    },
+    {
+      "chapter": 4,
+      "title": "Orang terlalu berat",
+      "time": "2084",
+      "want_obstacle": "Yazha ingin mengangkat orang asing tetapi tubuh serta jalur tidak memungkinkan.",
+      "choice_result": "Ia meminta bantuan keluarga; perangkat nutrisi tidak boleh dilepas sembarangan."
+    },
+    {
+      "chapter": 5,
+      "title": "Perawatan di tempat",
+      "time": "2084",
+      "want_obstacle": "Orang dewasa/medis keluarga Dewantara memeriksa penyangga kapal.",
+      "choice_result": "Perawatan awal berlangsung di rongga sampai transfer aman dirancang; anak tidak menjadi dokter sendirian."
+    },
+    {
+      "chapter": 6,
+      "title": "Harga bantuan",
+      "time": "2084",
+      "want_obstacle": "Bhas ingin mengajak keluarga membayar alat; rekening dan izin tidak tanpa batas.",
+      "choice_result": "Ia menegosiasikan bantuan nyata, bukan mengeluarkan uang kosong."
+    },
+    {
+      "chapter": 7,
+      "title": "Nomor yang tidak cocok",
+      "time": "2084",
+      "want_obstacle": "Yuna membandingkan label bahan dengan daftar biasa.",
+      "choice_result": "Ketidakcocokan membuka pertanyaan tentang dunia luar, tidak memberi semua jawabannya."
+    },
+    {
+      "chapter": 8,
+      "title": "Batu",
+      "time": "2084",
+      "want_obstacle": "Prasasti 50 kg tidak bisa dipanggul anak; tulisan berubah dengan sudut cahaya.",
+      "choice_result": "Salinan goresan dibuat, troli direncanakan; bukan hadiah yang memilih satu pembaca."
+    },
+    {
+      "chapter": 9,
+      "title": "Jalan sekolah",
+      "time": "2085",
+      "want_obstacle": "Tujuh kilometer melelahkan; Yazha ingin tetap datang meski malam membantu rumah.",
+      "choice_result": "Bhas/Yuna punya cara hidup berbeda, persahabatan bukan simpati sepihak."
+    },
+    {
+      "chapter": 10,
+      "title": "Satu detak",
+      "time": "2085",
+      "want_obstacle": "Pulsa sangat kecil dari cadangan Wiadava terbaca pada alat, belum Core.",
+      "choice_result": "Yazha mencatat batas; percobaan dihentikan sebelum dosis berbahaya."
+    },
+    {
+      "chapter": 11,
+      "title": "Kipli",
+      "time": "2085",
+      "want_obstacle": "Bhas ingin drone menjadi pengawas; kamera dan antena sering salah.",
+      "choice_result": "Perawatan ditanam sebelum rekaman dipakai sebagai bukti."
+    },
+    {
+      "chapter": 12,
+      "title": "Kepang kiri",
+      "time": "2085",
+      "want_obstacle": "Nala meniru napas sambil ingin kepang yang berbeda.",
+      "choice_result": "Keluarga tertawa dan bertengkar kecil; tidak ada resonansi bayi unik."
+    },
+    {
+      "chapter": 13,
+      "title": "Membawa obat",
+      "time": "2085",
+      "want_obstacle": "Yazha ingin membantu biaya dan menerima tugas angkut kecil.",
+      "choice_result": "Upah habis pada obat serta pangan, tidak membuatnya mandiri seketika."
+    },
+    {
+      "chapter": 14,
+      "title": "Satu simbol",
+      "time": "2085",
+      "want_obstacle": "Goresan Kamus dibandingkan dengan diagram pada perangkat.",
+      "choice_result": "Ia memahami istilah dasar, tidak mengaktifkan operator energi."
+    },
+    {
+      "chapter": 15,
+      "title": "Tanda Sol",
+      "time": "2085",
+      "want_obstacle": "Yuna menemukan dua alamat pasangan pada relay.",
+      "choice_result": "Wiadava mempunyai endpoint lama; kegunaan logistik/evakuasi ditanam."
+    },
+    {
+      "chapter": 16,
+      "title": "Berhenti",
+      "time": "2085",
+      "want_obstacle": "Bahan menipis, tangan Yazha sakit, ia ingin mencoba lagi.",
+      "choice_result": "Orang lain menghentikan; istirahat memberi akibat sekolah dan kerja."
+    },
+    {
+      "chapter": 17,
+      "title": "Perbandingan",
+      "time": "awal 2086",
+      "want_obstacle": "Anak lain dipuji karena Core, Yazha menyembunyikan rasa iri.",
+      "choice_result": "Bhas/Yuna tidak dibuat sombong agar protagonis selalu lebih baik."
+    },
+    {
+      "chapter": 18,
+      "title": "Sendok retak",
+      "time": "awal 2086",
+      "want_obstacle": "Takarannya berbeda walau angka sama.",
+      "choice_result": "Memeriksa alat menjawab kesalahan kecil; sakit tidak mengungkap ilmu."
+    },
+    {
+      "chapter": 19,
+      "title": "Menyebut beban",
+      "time": "awal 2086",
+      "want_obstacle": "Biaya transfer membuat orang tua berdebat.",
+      "choice_result": "Mereka berbagi tugas tanpa meminta anak menebus hidup semua orang."
+    },
+    {
+      "chapter": 20,
+      "title": "Ibu ingin tidur",
+      "time": "awal 2086",
+      "want_obstacle": "Vaniya letih dan kehilangan satu jadwal pasar.",
+      "choice_result": "Yazha mengurus hal kecil; ibu mempunyai batas dan keinginan sendiri."
+    },
+    {
+      "chapter": 21,
+      "title": "Jalan sempit",
+      "time": "awal 2086",
+      "want_obstacle": "Pemalak mulai mengambil uang/alat di jalur sekolah.",
+      "choice_result": "Kesaksian dicari; konflik bukan kultivator tinggi mengejar anak Lv0."
+    },
+    {
+      "chapter": 22,
+      "title": "Salah rencana",
+      "time": "awal 2086",
+      "want_obstacle": "Yazha mencoba jalan lain tetapi terperangkap kembali.",
+      "choice_result": "Ia kehabisan pilihan yang dianggap dapat dikerjakan sendiri."
+    },
+    {
+      "chapter": 23,
+      "title": "Batu di belakang",
+      "time": "awal 2086",
+      "want_obstacle": "Dorongan ketika diserang membuat preman jatuh dan kepala membentur batu.",
+      "choice_result": "Kematian nyata tanpa energi, bukan kemenangan heroik yang dirayakan."
+    },
+    {
+      "chapter": 24,
+      "title": "Kesaksian ayah",
+      "time": "awal 2086",
+      "want_obstacle": "Yazha takut mengaku; Dhiza datang melihat lukanya dan meminta cerita utuh.",
+      "choice_result": "Perawatan, kesaksian, dan akibat hukum berjalan bersama."
+    },
+    {
+      "chapter": 25,
+      "title": "Kereta",
+      "time": "Maret 2086",
+      "want_obstacle": "Transfer Wiadava ke Surabaya aman setelah alat/catatan serta transportasi disiapkan.",
+      "choice_result": "Bantuan Dewantara diterima; tidak ada teleportasi anak Lv0."
+    },
+    {
+      "chapter": 26,
+      "title": "Daftar suku cadang",
+      "time": "2086",
+      "want_obstacle": "Klinik memerlukan bahan khusus; log pembelian melewati jaringan konsesi.",
+      "choice_result": "Jejak yang kelak memicu deteksi ditanam, bukan musuh selalu tahu lokasi."
+    },
+    {
+      "chapter": 27,
+      "title": "Dava bangun",
+      "time": "2086",
+      "want_obstacle": "Wiadava sadar lebih utuh dan malu perlu air dari seorang anak.",
+      "choice_result": "Ia mengajar batas, menegur keras kepala, dan mengakui kegagalan terdahulu."
+    },
+    {
+      "chapter": 28,
+      "title": "Halaman kosong",
+      "time": "akhir 2086",
+      "want_obstacle": "Wiadava menulis buku biasa selama perawatan; ada bagian yang tidak ia tahu.",
+      "choice_result": "Pengetahuan terbatas dan hubungan hangat dibentuk tanpa catatan ramalan."
+    },
+    {
+      "chapter": 29,
+      "title": "Paket tertutup",
+      "time": "Juni 2087",
+      "want_obstacle": "Paket buku melalui Dhiza belum dibuka.",
+      "choice_result": "Yazha memikirkan kebutuhan besok, tidak membaca seluruh manual sebelum invasi."
+    },
+    {
+      "chapter": 30,
+      "title": "Rencana besok",
+      "time": "Agustus 2087",
+      "want_obstacle": "Ada kerja, makanan, dan kunjungan yang hendak dilakukan.",
+      "choice_result": "Satu malam hangat berlangsung tanpa semua orang memberi ucapan kematian."
+    },
+    {
+      "chapter": 31,
+      "title": "Pola yang bocor",
+      "time": "Agustus 2087",
+      "want_obstacle": "Deteksi bahan/penanda memberi Varek alamat baru; Wiadava menyiapkan endpoint Sol.",
+      "choice_result": "Orang dewasa mencoba evakuasi; tiga anak tidak memimpin pertahanan kosmis."
+    },
+    {
+      "chapter": 32,
+      "title": "Jalur yang diputus",
+      "time": "17 Agustus 2087",
+      "want_obstacle": "Invasi memutus komunikasi dan membuat rencana lebih lambat dari serangan.",
+      "choice_result": "Bhas/Yuna kehilangan keluarga dekat; tidak semua orang bisa berada di rumah yang sama."
+    },
+    {
+      "chapter": 33,
+      "title": "Nama kecil",
+      "time": "17 Agustus 2087",
+      "want_obstacle": "Dhiza menolak menunjukkan jalur lalu dibunuh; Vaniya terseret transit, Nala ditangkap.",
+      "choice_result": "Yazha tidak dapat menjaga ketiganya dengan satu tubuh tanpa Core."
+    },
+    {
+      "chapter": 34,
+      "title": "Pluto — POV Wiadava",
+      "time": "17 Agustus 2087",
+      "want_obstacle": "Gerbang logistik memasok bala tambahan; sisa cadangan setelah tiga tahun cedera sekitar40 tahun.",
+      "choice_result": "Wiadava memakai sisanya menutup gerbang, mati; Yazha tidak menyaksikan langsung."
+    },
+    {
+      "chapter": 35,
+      "title": "Tiga tiket",
+      "time": "17 Agustus 2087",
+      "want_obstacle": "Endpoint evakuasi tersisa, Bhas/Yuna membantu mengoperasikan.",
+      "choice_result": "Yazha membawa paket dan kabar terputus; pergi umur14 Lv0, buku dibaca pada bab 36."
+    }
+  ],
+  "sequel": {
+    "status": "blueprint",
+    "chapter_total": 600,
+    "actual_children": [],
+    "memory": "facts_and_fragments_not_full_recovery",
+    "ending": "return_without_resurrection",
+    "arcs": [
+      {
+        "id": 1,
+        "chapters": [
+          1,
+          180
+        ],
+        "title": "Pencarian Jati Diri",
+        "personal_years": "45",
+        "earth_years": "1"
+      },
+      {
+        "id": 2,
+        "chapters": [
+          181,
+          400
+        ],
+        "title": "Penemuan Sumber",
+        "personal_years": "140",
+        "earth_years": "3"
+      },
+      {
+        "id": 3,
+        "chapters": [
+          401,
+          600
+        ],
+        "title": "Kembali ke Sumber",
+        "personal_years": "115",
+        "earth_years": "2"
+      }
+    ],
+    "fields": [
+      "Jam Diri",
+      "Antarmuka Batas",
+      "Pemetaan Alamat",
+      "Sambungan Benang",
+      "Rekayasa Habitat",
+      "Perjanjian Lintas Gelembung",
+      "Arsip Asal",
+      "Jalur Pulang"
+    ]
+  },
+  "mechanics": {
+    "capacity_base": 100,
+    "capacity_growth": 2,
+    "max_direct_level_gap": 2,
+    "energy_recovery_per_hour_percent": 12.5,
+    "combat_recovery_per_minute_percent": 0.1,
+    "niskala_recovery_per_hour": 2,
+    "primeval_yield_percent_max": 60,
+    "voidstep_cooldown_heartbeats": 2,
+    "voidmaw_rebind_seconds": 180
+  },
+  "clamp_limits": {
+    "bumi_fana": 4,
+    "bumi_abadi": 4,
+    "bintang": 8,
+    "kekosongan": 12,
+    "keabadian": 16
+  },
+  "mode_stages": [
+    {
+      "stage": 1,
+      "chapter": 118,
+      "min_level": 2,
+      "activation_energy": 30,
+      "niskala": 5
+    },
+    {
+      "stage": 2,
+      "chapter": 393,
+      "min_level": 5,
+      "activation_energy": 30,
+      "niskala": 5
+    },
+    {
+      "stage": 3,
+      "chapter": 541,
+      "min_level": 6,
+      "activation_energy": 30,
+      "niskala": 5
+    },
+    {
+      "stage": 4,
+      "chapter": 663,
+      "min_level": 7,
+      "activation_energy": 30,
+      "niskala": 5
+    },
+    {
+      "stage": 5,
+      "chapter": 923,
+      "min_level": 9,
+      "activation_energy": 30,
+      "niskala": 5
+    },
+    {
+      "stage": 6,
+      "chapter": 1311,
+      "min_level": 13,
+      "activation_energy": 25,
+      "niskala": 5
+    },
+    {
+      "stage": 7,
+      "chapter": 1411,
+      "min_level": 16,
+      "activation_energy": 20,
+      "niskala": 5
+    }
+  ],
+  "wiadava": {
+    "age_at_epoch": 2400,
+    "original_level": 8,
+    "massacre_years_before_epoch": 600,
+    "damaged_reserve_multiplier": 20,
+    "earth_years_until_death": 3,
+    "final_gate_reserve_cost": 40
+  },
+  "duty_cycle": {
+    "prison_local_years": 590000000,
+    "active_fraction": "1/100000",
+    "total_awake_years": 5900,
+    "members": [
+      {
+        "name": "Elyon Thaloris",
+        "level": 11,
+        "biological_age": 13000
+      },
+      {
+        "name": "Valerius Ironhand",
+        "level": 10,
+        "biological_age": 8000
+      },
+      {
+        "name": "Seraphina Veritas",
+        "level": 15,
+        "biological_age": 68000
+      },
+      {
+        "name": "Thornwood Sylvan",
+        "level": 11,
+        "biological_age": 12000
+      },
+      {
+        "name": "Lysara Voidborne",
+        "level": 10,
+        "biological_age": 7500
+      },
+      {
+        "name": "Kaelen Whisperwind",
+        "level": 11,
+        "biological_age": 14000
+      },
+      {
+        "name": "Seryn Aethel",
+        "level": 12,
+        "biological_age": 18000
+      }
+    ]
+  },
+  "critical_antagonists": [
+    {
+      "name": "Varek Voth",
+      "level": 5,
+      "death": "varek"
+    },
+    {
+      "name": "Goliath Voth",
+      "level": 8,
+      "death": "goliath"
+    },
+    {
+      "name": "Varin Astralis",
+      "level": 10,
+      "death": "varin"
+    },
+    {
+      "name": "Penguasa Hampa",
+      "level": 16,
+      "death": "hampa"
+    }
+  ],
+  "legacy_documents": [
+    "00_AUDIT_CELAH_V3.md",
+    "00_CATATAN_PERUBAHAN_V4.md",
+    "00_INKONSISTENSI_AUDIT.md"
+  ],
+  "active_documents": [
+    "00_CANON_TERKUNCI.md",
+    "00_CATATAN_PERUBAHAN_V5.md",
+    "00_MASTER_INDEX_FINAL.md",
+    "00_RINGKASAN_REWRITE_V5.md",
+    "01_FONDASI_ATURAN/01_Zero_Potential_Absolut.md",
+    "01_FONDASI_ATURAN/02_CPS_Protocol.md",
+    "01_FONDASI_ATURAN/03_Blacklist_Kata.md",
+    "01_FONDASI_ATURAN/04_Absolute_Secularism.md",
+    "01_FONDASI_ATURAN/05_Struktur_Volume_Pacing.md",
+    "01_FONDASI_ATURAN/06_Mesin_Emosi_Dan_Prosa.md",
+    "02_KARAKTER/00_MASTER_KARAKTER.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/00_Master_Index_Yazhaxa_Raynawa.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/01_Identitas_Fisik.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/02_Sistem_Kultivasi.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/03_Teknik_Senjata.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/04_Hubungan_Koneksi.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/05_Koleksi_Harta.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/06_Reputasi_Gelar.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/07_Profil_Pembunuh_Bayaran.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/08_Progresi_Kekuatan_Timeline.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/09_Panduan_Dialog_Voice.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/10_Arc_Karakter_per_Volume.md",
+    "02_KARAKTER/01_Yazhaxa_Raynawa/11_Filosofi_Nama.md",
+    "02_KARAKTER/02_Aethel_Wiadava.md",
+    "02_KARAKTER/03_Nala_Raynawa.md",
+    "02_KARAKTER/04_Keluarga_Raynawa.md",
+    "02_KARAKTER/05_Xa_Veylara.md",
+    "02_KARAKTER/06_Tim_Pendukung.md",
+    "02_KARAKTER/07_Master_Misterius.md",
+    "02_KARAKTER/08_Karakter_Mati_Penting.md",
+    "02_KARAKTER/09_Sekutu_Semesta_Luar.md",
+    "02_KARAKTER/10_Pendukung_Lainnya.md",
+    "02_KARAKTER/Antagonis/01_Varek_Voth.md",
+    "02_KARAKTER/Antagonis/02_Varin_Astralis.md",
+    "02_KARAKTER/Antagonis/03_Goliath_Voth.md",
+    "02_KARAKTER/Antagonis/04_Ordo_Primordium.md",
+    "02_KARAKTER/Antagonis/05_Arc_Kecil_Menengah.md",
+    "03_DUNIA_KOSMOLOGI/00_MASTER_DUNIA.md",
+    "03_DUNIA_KOSMOLOGI/01_Kosmologi_Lesh.md",
+    "03_DUNIA_KOSMOLOGI/02_Alam_Fana_Bumi_Abadi.md",
+    "03_DUNIA_KOSMOLOGI/03_Planet_Universitas.md",
+    "03_DUNIA_KOSMOLOGI/04_Sekte_Faksi.md",
+    "03_DUNIA_KOSMOLOGI/05_Dewan_Tujuh.md",
+    "03_DUNIA_KOSMOLOGI/06_Sistem_Kompetisi.md",
+    "03_DUNIA_KOSMOLOGI/07_Hukum_Alam_Perpindahan.md",
+    "03_DUNIA_KOSMOLOGI/08_Alam_Bintang_Kekosongan_Keabadian.md",
+    "03_DUNIA_KOSMOLOGI/09_Sistem_Ekonomi.md",
+    "03_DUNIA_KOSMOLOGI/10_Hewan_Spiritual.md",
+    "03_DUNIA_KOSMOLOGI/11_Entitas_Step_4.md",
+    "03_DUNIA_KOSMOLOGI/12_Artefak_Global.md",
+    "03_DUNIA_KOSMOLOGI/13_Formasi_Array.md",
+    "03_DUNIA_KOSMOLOGI/14_Alam_Keabadian.md",
+    "03_DUNIA_KOSMOLOGI/15_Kekaisaran_Arus.md",
+    "03_DUNIA_KOSMOLOGI/16_Kehidupan_Sipil.md",
+    "03_DUNIA_KOSMOLOGI/17_Sejarah_Dan_Arsitektur_The_Shell.md",
+    "04_SISTEM_KULTIVASI/00_MASTER_SISTEM.md",
+    "04_SISTEM_KULTIVASI/01_Jalan_Aseity.md",
+    "04_SISTEM_KULTIVASI/02_17_Level_Detail.md",
+    "04_SISTEM_KULTIVASI/03_Ujian_Penetrasi_Core_Clarity.md",
+    "04_SISTEM_KULTIVASI/04_Kesadaran_Lautan_Spiritual.md",
+    "04_SISTEM_KULTIVASI/05_Jiwa_Primordial_7_Lapis.md",
+    "04_SISTEM_KULTIVASI/06_7_Jalur_Void_Hakikat.md",
+    "04_SISTEM_KULTIVASI/07_Harmonisasi_Void_Kehilangan.md",
+    "04_SISTEM_KULTIVASI/08_5_Dimensi_Kehilangan.md",
+    "04_SISTEM_KULTIVASI/09_Ujian_Transisi_Step.md",
+    "04_SISTEM_KULTIVASI/10_Tiga_Dinding_Unbegotten.md",
+    "04_SISTEM_KULTIVASI/11_7_Tahap_Void_Transformation.md",
+    "04_SISTEM_KULTIVASI/12_Ritual_Kultivasi.md",
+    "04_SISTEM_KULTIVASI/13_Kecepatan _Kultivasi_Per_Karakter.md",
+    "04_SISTEM_KULTIVASI/14_Waktu_Dan_Hayat.md",
+    "04_SISTEM_KULTIVASI/15_Mekanika_Hukum.md",
+    "04_SISTEM_KULTIVASI/16_Ekonomi_Essen.md",
+    "04_SISTEM_KULTIVASI/17_Uji_Batas_Dan_Eksploit.md",
+    "05_HUKUM_ALAM_SEMESTA/00_MASTER_HUKUM.md",
+    "05_HUKUM_ALAM_SEMESTA/01_Definisi_Perbedaan.md",
+    "05_HUKUM_ALAM_SEMESTA/02_13_Hukum_Elemental.md",
+    "05_HUKUM_ALAM_SEMESTA/03_Daftar_Hukum_Konseptual.md",
+    "05_HUKUM_ALAM_SEMESTA/04_Ekosistem_Batu_Gunting_Kertas.md",
+    "05_HUKUM_ALAM_SEMESTA/05_Hukum_Milik_Karakter.md",
+    "05_HUKUM_ALAM_SEMESTA/06_Cara_Mempelajari_Hukum.md",
+    "05_HUKUM_ALAM_SEMESTA/06_Tahapan_Penguasaan_Hukum.md",
+    "06_ARTEFAK_BARANG/00_MASTER_ARTEFAK.md",
+    "06_ARTEFAK_BARANG/01_Buku_Catatan_Wiadava.md",
+    "06_ARTEFAK_BARANG/02_Tongkat_Safir_Aethel.md",
+    "06_ARTEFAK_BARANG/03_Kamus_Asal.md",
+    "06_ARTEFAK_BARANG/04_Artefak_Lainnya.md",
+    "07_PETA_ALUR_PLOT/07_Peta_Alur_Plot.md",
+    "07_PETA_ALUR_PLOT/08_Register_Setup_Payoff.md",
+    "07_PETA_ALUR_PLOT/09_Ledger_Konsekuensi.md",
+    "07_PETA_ALUR_PLOT/10_Kartu_Adegan_Volume_1.md",
+    "08_CETAK_BIRU_SEKUEL/00_MASTER_SEKUEL.md",
+    "08_CETAK_BIRU_SEKUEL/01_Konsep_Semesta_Luar.md",
+    "08_CETAK_BIRU_SEKUEL/02_Step_5_12_Level_Baru.md",
+    "08_CETAK_BIRU_SEKUEL/03_Premis_Amnesia_Kosmik.md",
+    "08_CETAK_BIRU_SEKUEL/04_Arc_1_Pencarian_Jati_Diri.md",
+    "08_CETAK_BIRU_SEKUEL/05_Arc_2_Penemuan_Sumber.md",
+    "08_CETAK_BIRU_SEKUEL/06_Arc_3_Kembali_ke_Sumber.md",
+    "08_CETAK_BIRU_SEKUEL/07_Epilog_Sekuel.md",
+    "09_EPILOG/00_MASTER_EPILOG.md",
+    "09_EPILOG/01_Akhir_Cerita.md",
+    "10_LAMPIRAN/00_MASTER_INDEX.md",
+    "10_LAMPIRAN/00_MASTER_LAMPIRAN.md",
+    "10_LAMPIRAN/01_Aturan_Penamaan_Karakter.md",
+    "10_LAMPIRAN/02_Daftar_Nama_Cadangan.md",
+    "10_LAMPIRAN/03_Hierarki_Kekayaan_Status.md",
+    "10_LAMPIRAN/04_Glosarium_Istilah.md",
+    "10_LAMPIRAN/05_Kunci_Pengucapan_Nama.md",
+    "10_LAMPIRAN/06_Bahasa_Asal_Lengkap.md",
+    "11_NASKAH_UJI/01_Tujuh_Adegan_Kunci.md",
+    "PROMPT_MASTER_3.0_XU_QING_STYLE.md",
+    "README.md"
+  ],
+  "migration": {
+    "source_commit": "c1de254",
+    "original_markdown_count": 103,
+    "original_text_templates": 1,
+    "archived_markdown_count": 3,
+    "original_active_markdown_rewritten": 100,
+    "new_active_markdown_count": 11
+  },
+  "active_text_documents": [
+    "BRAINSTROMING SOLUSI LOGIS UNTUK KARAKTER TERJEBAK.txt"
+  ],
+  "required_blocks": {
+    "00_CANON_TERKUNCI.md": [
+      "clock_rates",
+      "volumes",
+      "levels",
+      "techniques",
+      "milestones",
+      "lesh",
+      "deaths"
+    ],
+    "02_KARAKTER/01_Yazhaxa_Raynawa/08_Progresi_Kekuatan_Timeline.md": [
+      "volumes",
+      "levels",
+      "milestones"
+    ],
+    "04_SISTEM_KULTIVASI/02_17_Level_Detail.md": [
+      "levels"
+    ],
+    "04_SISTEM_KULTIVASI/14_Waktu_Dan_Hayat.md": [
+      "clock_rates",
+      "volumes",
+      "friends"
+    ],
+    "07_PETA_ALUR_PLOT/07_Peta_Alur_Plot.md": [
+      "volumes",
+      "plot_arcs"
+    ],
+    "07_PETA_ALUR_PLOT/08_Register_Setup_Payoff.md": [
+      "setup_payoffs"
+    ],
+    "07_PETA_ALUR_PLOT/09_Ledger_Konsekuensi.md": [
+      "consequences"
+    ],
+    "07_PETA_ALUR_PLOT/10_Kartu_Adegan_Volume_1.md": [
+      "opening_cards"
+    ]
+  }
+}

@@ -1,79 +1,24 @@
-# 13 HUKUM ELEMENTAL
+# 13 HUKUM ELEMENTAL — DOMAIN DAN YANG TIDAK DIATUR
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN HUKUM – DAFTAR LENGKAP**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+| Hukum | Yang dapat diolah | Yang bukan kemampuannya | Batas/counter |
+| --- | --- | --- | --- |
+| Api | Panas, pembakaran, transfer termal | Membakar segala konsep | Pendinginan, bahan bakar, isolasi |
+| Air | Cairan dan tekanan | Membaca emosi karena “mengalir” | Perubahan medium, kontaminasi, suhu |
+| Tanah | Struktur padat dan tegangan | Memperbaiki seluruh jiwa | Retak, tumpuan, massa/beban |
+| Angin | Gas, tekanan, arus | Kecepatan tanpa resistansi | Ruang vakum, aliran silang |
+| Petir | Muatan dan impuls | Selalu tercepat dalam semua keadaan | Grounding, isolasi, jarak |
+| Cahaya | Spektrum, optik, tampilan | Kebenaran universal | Penyamaran spektrum, medium opak |
+| Kegelapan | Peredaman/serapan cahaya dan sensor | Menghapus semua pengetahuan orang | Kanal lain, pengukuran, panas limbah |
+| Ruang | Jarak/lipatan endpoint bertanda | Berpindah ke semua alamat tak diketahui | Segel fase, penanda, biaya massa |
+| Waktu | Laju lokal, buffer proses singkat | Membalik sejarah yang tak disimpan | Kapasitas buffer, kontradiksi data, limbah |
+| Gravitasi | Tarikan/tekanan dalam medan | Menjadi massa tak berhingga | Jangkar, biaya gaya, perubahan pijakan |
+| Void | Mengurangi kopling medium tertentu | Pembatal segala Hukum | Medium/kanal lain, resistansi, presisi |
+| Kehidupan | Memelihara proses biologis yang diketahui | Mengembalikan informasi hilang atau orang mati | Nutrisi, pola, penyakit yang belum dipahami |
+| Kematian | Mengakhiri proses/meningkatkan peluruhan lokal | Mengatur semua tanggal mati | Isolasi, laju, sasaran, pertahanan |
 
-## DAFTAR 13 HUKUM ELEMENTAL
+Tidak ada urutan objektif Void>Waktu>Gravitasi pada semua keadaan. Tiga itu sulit karena abstrak dan mahal, bukan karena selalu menang. Seorang pemakai Api terlatih pada medium sesuai dapat mengalahkan pemakai Void yang salah membaca hubungan.
 
-| # | Hukum | Domain | Warna Aura | Sensasi |
-|---|-------|--------|------------|---------|
-| 1 | **Api** | Panas, pembakaran, energi termal | Merah-Oranye | Panas, agresif |
-| 2 | **Air** | Cairan, aliran, adaptasi | Biru muda | Dingin, mengalir |
-| 3 | **Tanah** | Padatan, stabilitas, massa | Cokelat-Abu-abu | Berat, stabil |
-| 4 | **Angin** | Udara, kecepatan, tekanan | Putih transparan | Ringan, cepat |
-| 5 | **Petir** | Listrik, kecepatan impuls | Kuning-Kebiruan | Kesemutan, eksplosif |
-| 6 | **Cahaya** | Iluminasi, ilusi, pemurnian | Emas-Putih | Hangat, menenangkan |
-| 7 | **Kegelapan** | Bayangan, persembunyian, erosi | Hitam-Ungu tua | Dingin, tersembunyi |
-| 8 | **Ruang** | Jarak, lokasi, lipatan | Perak transparan | Melayang, tidak stabil |
-| 9 | **Waktu** | Kecepatan aliran, persepsi durasi | Tidak berwarna | Deja vu, pusing |
-| 10 | **Gravitasi** | Tarikan, massa, tekanan | Abu-abu gelap | Tertarik, ditekan |
-| 11 | **Void** | Ketiadaan, pembatalan, kekosongan | Hitam pekat | Kosong, sunyi |
-| 12 | **Kehidupan** | Pertumbuhan, regenerasi, vitalitas | Hijau terang | Segar, bergetar |
-| 13 | **Kematian** | Peluruhan, pengakhiran, transisi | Abu-abu pucat | Dingin, lembap |
-
----
-
-## 3 HUKUM ELEMENTAL PUNCAK
-
-| Peringkat | Hukum | Alasan |
-|-----------|-------|--------|
-| 1 | **Void** | "Pembatal" semua Hukum lain. Void adalah ketiadaan panggung bagi Hukum lain untuk beraksi. |
-| 2 | **Waktu** | "Peluruh" universal. Waktu menuaikan semua hal—energi, materi, bahkan Hukum lain. |
-| 3 | **Gravitasi** | "Pengendali ruang." Gravitasi mengendalikan medium tempat semua Hukum Elemental beroperasi. |
-
----
-
-## TINGKAT KESULITAN MEMPELAJARI
-
-| Hukum | Tingkat Kesulitan | Alasan |
-|-------|-------------------|--------|
-| **Api** | Rendah | Mudah diamati. Ada di mana-mana. |
-| **Air** | Rendah | Mudah diamati. Ada di mana-mana. |
-| **Tanah** | Rendah | Mudah diamati. Ada di mana-mana. |
-| **Angin** | Rendah | Mudah diamati. Ada di mana-mana. |
-| **Petir** | Sedang | Sulit diamati dengan aman. Berbahaya. |
-| **Cahaya** | Sedang | Membutuhkan konsentrasi tinggi. |
-| **Kegelapan** | Sedang | Membutuhkan pengalaman emosional. |
-| **Ruang** | Tinggi | Sulit diamati. Butuh pemahaman abstrak. |
-| **Waktu** | Sangat Tinggi | Sulit diamati. Butuh pemahaman filosofis. |
-| **Gravitasi** | Sangat Tinggi | Sulit diamati. Butuh pemahaman fisika. |
-| **Void** | **Tertinggi** | Tidak ada contoh di alam. Harus "merasakan" ketiadaan. |
-| **Kehidupan** | Sedang | Butuh kedekatan dengan makhluk hidup. |
-| **Kematian** | Tinggi | Butuh pengalaman dengan kematian. |
-
----
-
-## PERUBAHAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Hukum Elemental** | 13 | 13 — tetap |
-| **Void** | Hukum tertinggi | Hukum tertinggi — tetap |
-| **Waktu** | Hukum kedua | Hukum kedua — tetap |
-| **Gravitasi** | Hukum ketiga | Hukum ketiga — tetap |
-
----
-
-## KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Void adalah hukum tertinggi. Bukan karena ia yang paling kuat. Tapi karena ia adalah panggung bagi semua hukum lain."* | Wiadava, tentang Hukum Void. |
-| *"Waktu menuaikan semua hal. Bahkan Hukum Elemental."* | Varek Voth, tentang Hukum Waktu. |
-| *"Gravitasi mengendalikan segalanya. Tapi ia tidak pernah terlihat. Itulah kekuatannya."* | Varin Astralis, tentang Hukum Gravitasi. |
-
----
-
-**— END OF FILE —**
+Waktu tidak mempercepat latihan tanpa menambah usia lokal. “Perisai absolut” adalah nama dagang yang boleh dipertanyakan, bukan fakta. Kehidupan menyembuhkan yang bisa dipetakan dan tidak menghapus persetujuan pasien. Semua elemen dapat membantu layanan sipil; tugas adegan bukan selalu menemukan serangan lebih besar.

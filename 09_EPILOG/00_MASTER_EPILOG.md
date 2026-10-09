@@ -1,44 +1,12 @@
-# MASTER EPILOG
+# PENUTUP UTAMA — VISI, AKTUAL, DAN SEKUEL DIPISAHKAN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN EPILOG – AKHIR CERITA**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+[01_Akhir_Cerita.md](01_Akhir_Cerita.md) memuat **penglihatan bab 1524**, bukan kejadian keluarga diselamatkan. Bingkai terlihat sebelum/sesudah; seluruh seri tidak dibatalkan sebagai delusi.
 
-## RINGKASAN EPILOG
+Aktual bab 1530: pelintasan Shell melalui celah kecil, Lv17, akses episodik putus. Warga Dalam tetap mengingat. Jaringan punya pengganti dan layanan tetap berjalan. Orang mati tetap mati; Akasa/Kanavi belum lahir.
 
-| Peristiwa | Detail |
-|-----------|--------|
-| **Yazha** | Mencapai Level 17 (Unbegotten). Memutar waktu ke 17 Agustus 2087. Menyelamatkan Dhiza, Vaniya, Nala, dan Veyla. Menjadi entitas di luar alam semesta — pengamat multiverse. |
-| **Dhiza & Vaniya** | Diselamatkan. Memilih hidup sebagai manusia fana. Meninggal di usia 90 tahun, melihat cucu mereka (Akasa & Kanavi). |
-| **Nala** | Diselamatkan. Berkultivasi hingga Primordial Puncak (Level 16). Tidak bisa mencapai Unbegotten karena hanya ada satu di alam semesta (Yazha). |
-| **Veyla** | Diselamatkan. Menikah dengan Yazha. Memiliki dua anak: Akasa (putra) dan Kanavi (putri). |
-| **Akasa Raynawa** | Putra Yazha & Veyla. Menjadi kepala arsiparis sejarah di Bumi Abadi. |
-| **Kanavi Raynawa** | Putri Yazha & Veyla. Menjadi petualang — menjelajahi berbagai alam. |
-| **Bhas & Yuna** | Hidup. Tetap menjadi sahabat terbaik Yazha. |
-| **Wiadava** | Tetap mati. Yazha memutar waktu, tapi Wiadava tetap mati — karena jika Wiadava hidup, Yazha tidak akan pernah menjadi siapa pun. |
+Sekuel dimulai dari akibat itu. [Akhir sekuel](../08_CETAK_BIRU_SEKUEL/07_Epilog_Sekuel.md) dapat menghadirkan kepulangan bersama Nala yang telah berubah, bukan semua wajah dari rumah imajinasi.
 
----
-
-## DAFTAR FILE
-
-| # | File | Isi |
-|---|------|-----|
-| 01 | `01_Akhir_Cerita.md` | Pemutaran waktu, keluarga di Bumi Abadi, Akasa & Kanavi, kata-kata terakhir Yazha. |
-
----
-
-## PERBEDAAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Karakter** | Yazha, Nala, Dhiza, Liyana, Wiadava | **Yazha, Nala, Dhiza, Vaniya, Wiadava** |
-| **Tahun** | 2057 | **2087** |
-| **Lokasi** | Kota Exter-Nasia | **Kota Exter-Nasia** |
-| **Anak Pertama** | Akasa | **Akasa** — tetap |
-| **Anak Kedua** | Kanavi | **Kanavi** — tetap |
-| **Nama Anak Perempuan** | (Tidak disebutkan) | **Kanavi** |
-
----
-
-**— END OF FILE —**
+Penutup moral utama: Yazha berhenti menjadikan kepemilikan keluarga proyeksi sebagai tujuan yang membenarkan biaya pada orang hidup. Pencapaian ini selesai pada novel utama, bukan ditangguhkan sampai sekuel.

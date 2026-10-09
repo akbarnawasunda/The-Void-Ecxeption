@@ -1,116 +1,34 @@
-# BUKU CATATAN WIADAVA
+# BUKU CATATAN WIADAVA — PENGETAHUAN YANG MEMILIKI BATAS
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN ARTEFAK – WARISAN AETHEL WIADAVA**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+Buku sekolah biasa, sampul cokelat, sekitar 200 halaman, tinta hitam/biru. **Nol energi**, bukan artefak hidup, tidak membuka halaman sesuai penderitaan. Ditulis selama rehabilitasi Surabaya 2086–2087, paket diserahkan melalui Dhiza, ditemukan/dibaca Yazha **bab 36 sesudah Wiadava mati**.
 
-## 1. IDENTITAS
+## Isi dan kemampuan penulis
 
-| Atribut | Detail |
-|---------|--------|
-| **Nama Resmi** | Buku Catatan Wiadava |
-| **Sebutan Yazha** | "Buku catatan Mas Dava" |
-| **Bentuk** | Buku tulis sekolah biasa. Sampul cokelat lusuh. Kertas bergaris. |
-| **Jumlah Halaman** | Sekitar 200 halaman, ditulis tangan dengan tinta hitam dan biru. |
-| **Sifat** | **Tidak memiliki energi.** Tidak terdeteksi sebagai artefak. Inilah yang membuatnya aman—tidak ada yang akan mencuri buku tulis lusuh. |
-| **Penulis** | Aethel Wiadava, ditulis diam-diam selama dirawat di Pusat Rehab Surabaya. |
-| **Penerima** | Yazhaxa Raynawa (tidak tahu buku ini ada sampai Wiadava mati). |
+1. **Obat:** sumber bahan, penyaringan, 15 resep dasar, suhu/takaran, racun dan batas pemulihan. Resep cocok kondisi yang Wiadava kenal; satu resep gagal di tanah Kota Arus dan harus dikoreksi bersama Bastian.
+2. **Teknik:** Soul Pressure beserta jangkauan, durasi, resistansi, dan pemutus. Teknik baru di luar ini **tidak diam-diam sudah ada di buku**.
+3. **Kosmos:** peta empat alam, beda bahan/Core/Hukum, catatan bahwa model atas berasal laporan tidak langsung. Penulis pernah Lv8, bukan pernah menguasai semua tingkat 17.
+4. **Catatan perawatan tongkat:** mengganti media dingin, larangan recoil, profil kunci. Ini manual alat, bukan jurus ekstra.
+5. **Halaman pribadi:** satu pesan yang tidak menjadikan kemiskinan hadiah.
 
----
+## Cuplikan halaman pribadi
 
-## 2. ISI BUKU CATATAN
-
-### 2.1 BAGIAN OBAT (Herbalism & Pill Crafting)
-
-| Bab | Isi |
-|-----|-----|
-| 1 | **Dasar Penyulingan Essen** — cara menyadap energi dari sumber alami (embun pagi, getah pohon, serbuk bunga). |
-| 2 | **15 Resep Kristal Obat Tingkat 1** — Kristal Redam, Hangat, Pulih, Pijar, Penahan, dll. Lengkap dengan takaran, suhu, dan waktu penyulingan. |
-| 3 | **Racun & Penawar** — jenis racun umum di Bumi Abadi dan cara menetralkannya. |
-| 4 | **Dasar Kristal Obat Tingkat 2** — hanya teori dasar. Wiadava menulis: *"Ini terlalu sulit untukmu sekarang. Jangan coba-coba sebelum kau mencapai Bloodboon."* |
-
----
-
-### 2.2 BAGIAN TEKNIK (Combat & Void Path)
-
-| Bab | Isi |
-|-----|-----|
-| 5 | **Soul Pressure** — Tekanan jiwa dalam. Fungsi: menekan kesadaran lawan hingga ke dalam jiwanya, membuat lawan **tidak bisa berbuat apa-apa**. Bukan sekadar membuat ragu—ini adalah **lumpuh total** pada level yang cukup. Wiadava menulis: *"Ini bukan serangan. Ini deklarasi. Gunakan untuk mengakhiri pertarungan, bukan memulainya."* |
-
-*(Tidak ada teknik lain dalam Buku Catatan Wiadava. Wiadava hanya mengajarkan satu teknik—yang paling penting.)*
-
----
-
-### 2.3 BAGIAN KOSMOS (World Knowledge & Laws)
-
-| Bab | Isi |
-|-----|-----|
-| 6 | **Peta 4 Alam** — Gambaran kasar tentang Alam Fana, Bintang, Kekosongan, dan Keabadian. Wiadava menggambar diagram sederhana dengan catatan: *"Ini adalah penjara kita. Tapi juga rumah kita. Pahami aturannya sebelum kau mencoba melanggarnya."* |
-| 7 | **Apa Itu Hukum?** — Penjelasan dasar tentang Hukum Elemental dan Konseptual. Wiadava menulis: *"Hukum Elemental adalah aturan alam semesta. Api membakar. Air membasahi. Kau bisa mempelajarinya dari buku. Tapi Hukum Konseptual... itu berbeda. Itu lahir dari dalam dirimu. Dari hal yang paling menyakitimu."* |
-
----
-
-### 2.4 CATATAN PRIBADI — HALAMAN TERAKHIR
-
-> *"Yazha.*
+> Yazha,
 >
-> *Aku tidak tahu apakah kau akan membaca ini. Mungkin kau sudah mati. Mungkin aku sudah mati. Tapi kalau kau membaca ini... berarti kau selamat. Berarti kau cukup kuat untuk sampai sejauh ini.*
+> Kalau kau membaca ini, mungkin aku tidak sempat menjelaskan beberapa bagian. Bagian yang kosong bukan ujian. Aku memang tidak tahu.
 >
-> *Aku melihatmu, Yazha. Setiap Sabtu. Aku melihat anak kecil yang datang dengan lutut berdarah dan mata penuh rasa bersalah—karena kau pikir kau beban bagi keluargamu. Kau tidak tahu, tapi kau adalah satu-satunya alasan aku bertahan.*
+> Kau sering datang dengan alasan hendak mengantar obat. Aku tahu kau ingin bertanya apakah kau sudah lebih baik. Aku juga tahu kau belum makan pada beberapa hari itu. Aku seharusnya menanyakannya lebih dulu.
 >
-> *Kau bukan anak berbakat. Itu bukan kelemahan. Itu kekuatanmu. Kau tidak mewarisi apa pun. Kau tidak memiliki apa pun. Semua yang kau punya adalah hasil dari keringat, darah, dan air mata—dan itu lebih berharga daripada semua pusaka di alam semesta.*
+> Aku bangga pada catatanmu. Tetapi aku tidak bangga karena kau terus melatih tangan yang belum sembuh. Besok, jika masih ada besok, biarkan orang lain membawa air.
 >
-> *Aku bangga padamu. Bukan karena kau kuat. Tapi karena kau tidak pernah menyerah, bahkan ketika tidak ada alasan untuk terus melangkah.*
+> Nama adikku Lyra. Aku menulisnya di sini agar kau tahu aku juga pernah gagal merawat orang. Jangan jadikan kegagalanku tugas seumur hidupmu.
 >
-> *Jangan menyerah. Jangan pernah menyerah.*
->
-> *— Wiadava."*
+> — Dava
 
----
+## Cara buku bertahan
 
-## 3. PERBEDAAN DARI DRAFT LAMA
+Nol sinyal mengurangi ketertarikan sensor, **bukan menjamin tidak bisa dicuri/dibakar**. Kertas dapat basah. Yazha membeli penutup, menyalin resep, dan kelak menyimpan halaman asli pada tempat aman. Salinan memberi pengetahuan tanpa semua orang harus memegang relik.
 
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Nama** | Buku Catatan Aethel | **Buku Catatan Wiadava** |
-| **Penulis** | Aethel Wiadava | **Aethel Wiadava** |
-| **Penerima** | Yazhaxa Raynawa | **Yazhaxa Raynawa** |
-| **Lokasi Penulisan** | Pusat Rehab Surabaya | **Pusat Rehab Surabaya** |
-| **Kata "Buku Catatan"** | Digunakan | **Dihapus** (sesuai aturan Secularism) |
-
----
-
-## 4. HUBUNGAN DENGAN ARTEFAK LAIN
-
-| Artefak | Hubungan |
-|---------|----------|
-| **Kamus Asal** | Buku Catatan Wiadava adalah **catatan praktis**—berisi teknik, resep, dan peta. Kamus Asal adalah **pengetahuan teoretis**—berisi filosofi dan bahasa. Keduanya saling melengkapi. |
-| **Tongkat Safir Aethel** | Buku Catatan Wiadava berisi **cara pakai** Tongkat Safir. Wiadava menulis: *"Jangan pukul terlalu keras—lenganmu akan copot."* |
-
----
-
-## 5. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Buku ini tidak berenergi. Itulah sebabnya ia selamat."* | Yazha, tentang Buku Catatan Wiadava. |
-| *"Aku belajar Soul Pressure dari buku ini. Tapi Wiadava tidak pernah mengajarkannya secara langsung—ia hanya menulisnya."* | Yazha, tentang teknik dalam buku. |
-| *"Halaman terakhir... aku tidak bisa membacanya tanpa menangis."* | Yazha, tentang catatan pribadi Wiadava. |
-| *"Ini adalah satu-satunya warisan yang benar-benar kumiliki."* | Yazha, tentang Buku Catatan Wiadava. |
-
----
-
-## 6. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Nama** | Harus **"Buku Catatan Wiadava"** — bukan "Buku Catatan" atau "Buku Catatan Aethel." |
-| **Sifat** | Tidak berenergi—ini buku biasa. Jangan tulis ia "bersinar" atau "berdenyut." |
-| **Isi** | Hanya 3 bagian: Obat, Teknik (Soul Pressure), Kosmos (Peta & Hukum). |
-| **Halaman Terakhir** | Catatan pribadi Wiadava untuk Yazha—ini adalah momen emosional terbesar. |
-| **Konsistensi** | Yazha tidak tahu buku ini ada sampai Wiadava mati. Jangan tulis Yazha membacanya di Volume 1. |
-
----
-
-**— END OF FILE —**
+Panen emosional bukan hanya menangis halaman terakhir: ia pertama kali menulis koreksi di pinggir tulisan guru yang dicintai. Buku dapat menjadi warisan tanpa menjadi perintah abadi.

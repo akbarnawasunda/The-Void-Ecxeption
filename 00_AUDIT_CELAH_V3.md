@@ -1,3 +1,6 @@
+<!-- canon:archive -->
+> **ARSIP — BUKAN KANON AKTIF.** Dokumen ini mencatat audit/keputusan fase lama. V5 menggantikan aturannya, termasuk koreksi atas mekanik V4 yang ternyata cacat. D1–D7 sudah diputuskan dalam [changelog V5](00_CATATAN_PERUBAHAN_V5.md). Untuk menulis gunakan [kontrak V5](00_CANON_TERKUNCI.md), bukan proposal historis di bawah.
+
 # AUDIT CELAH V3 — KECUALIAN KEKOSONGAN / THE VOID'S EXCEPTION
 
 **Tanggal audit:** 9 Oktober 2026

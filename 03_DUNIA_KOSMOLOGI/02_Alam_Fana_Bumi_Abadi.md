@@ -1,122 +1,26 @@
-# ALAM FANA & BUMI ABADI
+# ALAM FANA DAN ELYRA-THAL — PETA YANG BISA DITINGGALI
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN DUNIA – STEP 1 (ALAM FANA) & BUMI ABADI (ELYRA-THAL)**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+Alam Fana adalah satu lapisan topologi. **Bumi Fana** nama planet asal, bukan nama seluruh lapisan. **Bumi Abadi/Elyra-Thal** planet lain pada lapisan yang sama, dengan kalibrasi jam 3× terhadap Bumi Fana. Planet Veyra/Voth/Thessara yang berkompetisi juga berada pada lapisan ini; koloni bernama sama dapat berada di Bintang dan harus dibedakan.
 
-## 1. ALAM FANA (STEP 1)
+## Elyra-Thal
 
-| Atribut | Detail |
-|---------|--------|
-| **Skala** | Alam semesta fisik dengan milyaran galaksi. |
-| **Penghuni** | Manusia (Human-Standard, Human-Crystal, Human-Violet-Eyed, Human-Horned, dll.) + spesies non-manusia. |
-| **Level Maksimal** | **Nexarch Puncak (Level 4 Puncak)** — untuk naik ke Alam Bintang, harus temukan Gerbang Bintang. |
-| **Batas Alam** | Dibatasi oleh The Shell — dinding transparan yang memisahkan Semesta Dalam dari Semesta Luar. |
+Diameter sekitar 16.000 km, gravitasi sekitar 1,1 g. Populasi miliaran tersebar pada kota, pertanian, kampus, dan kawasan konservasi. Bukan bola batu berdiameter bintang. Jantung Bumi ditempatkan dalam ruang topologi di bawah kompleks Zona 1, bukan alasan fisika biasa seluruh planet tidak masuk akal.
 
-**Planet-planet Penting di Alam Fana:**
+| Zona | Akses/geografi | Rasa hidup | Konflik utama |
+| --- | --- | --- | --- |
+| 1 Inti Putih | Ruang mesin tertutup, izin operasi | Suara pendingin, kartu giliran, tanaman dari cahaya buatan | Penahanan Dewan Tujuh dan hak memisahkan kisi |
+| 2 Akademi | Distrik kampus dan bengkel | Bau logam hujan, antrean kantin, asrama | Lisensi pendidikan dan perebutan kredit tim |
+| 3 Kota Arus | Pelabuhan/perdagangan, permukiman | Air cucian, roti, rel bergetar | Dokumen pengungsi, farmasi, Moxi, Veyla |
+| 4 Hutan Pola | Cekungan liar, desa dan jalur dagang | Getah lengket, serangga, batu berlumut | Konsesi, berburu secukupnya, perang atas lintasan |
+| 5 Tepi Lipatan | Terminal topologi dan penyangga | Angin kering, kabel terbuka, air mahal | Pengungsi yang datang tanpa penjamin |
 
-| Planet | Karakteristik | Universitas | Lokasi Khusus |
-|--------|---------------|-------------|---------------|
-| **Elyra-Thal** (Bumi Abadi) | Planet pusat—kadar Essen tertinggi. | Universitas Pilar Putih | - |
-| **Bumi Fana** | Planet asal Yazha. | (Tidak ada) | **Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia** — lokasi awal cerita. |
-| **Veyra** | Langit ungu, budaya klan kaku. | Akademi Starlight | - |
-| **Voth** | Planet vulkanik, budaya militeristik. | Institut Besi Darah | - |
-| **Thessara** | Planet hutan tanpa lautan. | Universitas Akar Dalam | - |
+Zona bukan ukuran level: warga Lv0 dapat hidup di Kota Arus; profesor memakai clamp; kapal terlindung membawa penumpang ke terminal. Yang berbahaya adalah **paparan medan terbuka**, bukan status berada di planet lain.
 
----
+## Kewenangan
 
-## 2. BUMI ABADI (ELYRA-THAL)
+Kekaisaran Arus mengurus sipil dan izin pasar. Pilar Putih sekolah/pengelola lisensi kuota utama; mempunyai cabang. Dewan Tujuh bukan raja sukarela, tetapi operator terikat Zona 1. Sidang Sumber mengatur kuota antarlapisan dan dapat berkonflik dengan pemerintah sipil.
 
-| Atribut | Detail |
-|---------|--------|
-| **Nama Resmi** | Elyra-Thal — dikenal umum sebagai "Bumi Abadi." |
-| **Status** | **Planet Pusat** — planet tertua & terpadat Essence. |
-| **Diameter** | 1,5 juta km (jauh lebih besar dari planet biasa). |
-| **Penghuni** | Puluhan milyar manusia & subspesies. |
-| **Pemerintahan** | Dewan Tujuh (urusan kosmik) + Kekaisaran Arus (urusan sipil). |
-
-**Kenapa Spesial?**
-- Di inti planet ini terdapat **Lesh #7: Jantung Bumi**.
-- Kadar Essen di Bumi Abadi jauh lebih tinggi dari planet lain.
-- Lesh #7 juga berfungsi sebagai **"penjara"** untuk entitas kuno—Dragon Garu menjaga entitas ini tetap tertidur.
-
----
-
-## 3. 5 ZONA BUMI ABADI
-
-| Zona | Nama | Karakteristik | Fungsi di Cerita |
-|------|------|---------------|------------------|
-| **1** | **Inti Putih** | Pusat planet. Tempat Lesh #7 & Dragon Garu tidur. Hanya Dewan Tujuh yang bisa masuk. | **Klimaks akhir** — Yazha harus menembus Zona 1 untuk mencapai Lesh #7. |
-| **2** | **Zona Akademi** | Benua tempat **Universitas Pilar Putih** berdiri. Iklim sedang, populasi padat. | **Volume 3-4** — Yazha belajar di universitas, Grand Tournament. |
-| **3** | **Kota Arus** | Benua terbesar. Pusat perdagangan, kota-kota besar, pemukiman sipil. | **Volume 3** — Yazha tiba di peradaban, bertemu Bastian, bertemu Veyla. |
-| **4** | **Hutan Pola** | Benua liar—hutan belantara, gunung, lautan. Dihuni hewan spiritual & pemukiman terpencil. | **Volume 2** — Yazha bertahan hidup di Zona 4, bertemu Pemburu Tua, Master Misterius. |
-| **5** | **Tepi Lipatan** | Kutub planet—gravitasi tidak stabil karena kedekatan dengan inti. Tempat **Gerbang Bintang** berada. | **Volume 2 (Awal)** — Yazha pertama kali mendarat di Bumi Abadi di Zona 5. |
-
----
-
-## 4. ATURAN PERADABAN: SATU PLANET, SATU UNIVERSITAS
-
-| Aturan | Penjelasan |
-|--------|------------|
-| **Satu Planet = Satu Universitas** | Setiap planet hanya boleh memiliki satu institusi pendidikan kultivasi resmi. |
-| **Banyak Sekte** | Setiap planet bisa memiliki puluhan hingga ribuan sekte. |
-| **Universitas vs Sekte** | Universitas = tempat **belajar**. Sekte = tempat **bertarung & berkembang**. |
-| **Sistem Kompetisi** | Kompetisi Antar Sekte (lokal) → Kompetisi Antar Universitas (planet) → Grand Tournament (antar planet). |
-
----
-
-## 5. EKONOMI & MATA UANG
-
-| Mata Uang | Nilai (Rp) | Warna |
-|-----------|------------|-------|
-| Koin Tembaga | ≈ Rp 1.000 | Cokelat kemerahan |
-| Koin Perak | ≈ Rp 10.000 | Abu-abu keperakan |
-| Koin Emas | ≈ Rp 100.000 | Kuning keemasan |
-| Koin Platinum | ≈ Rp 1.000.000 | Putih keperakan |
-| Koin Obsidian | ≈ Rp 10.000.000 | Hitam pekat + urat emas |
-
-**Konversi:**
-- 1 Perak = 10 Tembaga
-- 1 Emas = 10 Perak = 100 Tembaga
-- 1 Platinum = 10 Emas = 100 Perak = 1.000 Tembaga
-- 1 Obsidian = 10 Platinum = 100 Emas = 1.000 Perak = 10.000 Tembaga
-
----
-
-## 6. PERUBAHAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Planet Pusat** | Bumi Abadi | Bumi Abadi (tetap) |
-| **Lokasi Awal** | Sektor 7, Bandung | **Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia** |
-| **Kota Rehabilitasi** | Cirebon | **Surabaya** |
-| **Klan Penjaga Pengetahuan** | Klan Renville | **Klan Aethel** |
-| **Pemerintahan Sipil** | Kekaisaran Arus | **Kekaisaran Arus** (tetap) |
-
----
-
-## 7. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Bumi Abadi adalah pusat segalanya. Tapi pusat juga sering jadi penjara."* | Wiadava, tentang Bumi Abadi. |
-| *"Zona 5 adalah tempat di mana kau belajar bertahan hidup atau mati. Tidak ada pilihan lain."* | Pemburu Tua, kepada Yazha. |
-| *"Kota Arus... tempat di mana semua orang bisa memulai dari nol. Tapi juga tempat di mana semua orang bisa kehilangan segalanya."* | Bastian Zuyu, kepada Yazha. |
-
----
-
-## 8. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Nama Lokasi** | Kecamatan Batavia → **Desa Ciyasa**. Kota Exter-Nasia → **Kota Exter-Nasia**. Surabaya → **Surabaya**. |
-| **Bumi Abadi** | Tetap Bumi Abadi — tidak berubah. |
-| **5 Zona** | Zona 1 (Inti Putih), Zona 2 (Akademi), Zona 3 (Kota Arus), Zona 4 (Hutan Pola), Zona 5 (Tepi Lipatan). |
-| **Gerbang Bintang** | Di Zona 5. Ini adalah pintu masuk ke Alam Bintang. |
-| **Dewan Tujuh** | Mereka adalah **tahanan** Lesh #7, bukan penguasa sukarela. |
-| **Kekaisaran Arus** | Pemerintahan sipil di Zona 3 — tidak terhubung dengan Dewan Tujuh. |
-
----
-
-**— END OF FILE —**
+Rumah awal tetap Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia di kaki Halimun. Bumi alternatif punya teknologi modern dan ketimpangan, bukan planet tanpa pertanian atau listrik karena Essen sedikit.

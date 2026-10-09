@@ -1,80 +1,22 @@
-# SISTEM EKONOMI
+# EKONOMI SIPIL — UANG MAKAN TIDAK SAMA DENGAN UMUR
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN DUNIA – MATA UANG & DEBU ESSEN**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Koin dan kristal
 
-## 1. MATA UANG — KOIN KRISTAL
+Koin Arus mewakili nilai sipil, bukan semuanya kristal bakar. Konversi akuntansi: 10 tembaga = 1 perak; 10 perak = 1 emas; 10 emas = 1 platinum; 10 platinum = 1 obsidian. Nilai rupiah tahun 2084 tidak dikunci dengan kurs dunia nyata saat ini.
 
-| Tingkat | Nama | Nilai (Rp) | Warna | Ukuran |
-|---------|------|------------|-------|--------|
-| Rendah | Koin Tembaga | ≈ Rp 1.000 | Cokelat kemerahan | Diameter 2 cm |
-| Menengah | Koin Perak | ≈ Rp 10.000 | Abu-abu keperakan | Diameter 2,5 cm |
-| Tinggi | Koin Emas | ≈ Rp 100.000 | Kuning keemasan | Diameter 3 cm |
-| Ultra | Koin Platinum | ≈ Rp 1.000.000 | Putih keperakan | Diameter 3,5 cm |
-| Legenda | Koin Obsidian | ≈ Rp 10.000.000 | Hitam pekat + urat emas | Diameter 4 cm |
+Patokan awal Kota Arus: makan sederhana 5 tembaga; satu tempat tidur asrama murah 20 tembaga/malam; upah magang farmasi 30 tembaga/hari ditambah makan. Kristal Essen olahan dasar sekitar 5 perak di masa normal, lebih mahal selama blokade. Angka patokan bukan hukum alam; tiap bab transaksi perlu lokasi/tanggal.
 
-**Konversi:**
-- 1 Perak = 10 Tembaga
-- 1 Emas = 10 Perak = 100 Tembaga
-- 1 Platinum = 10 Emas = 100 Perak = 1.000 Tembaga
-- 1 Obsidian = 10 Platinum = 100 Emas = 1.000 Perak = 10.000 Tembaga
+## Beban yang membuat kelas terasa
 
----
+Pengungsi tanpa penjamin membayar uang muka dan izin tambahan. Dokumen sementara membuat klinik boleh merawat tetapi distributor menolak jatah. Bhas/Yuna punya uang lama yang bukan mata uang setempat; menjual barang keluarga juga menjual jalan kembali. Beasiswa bukan seluruh pengeluaran: alat ukur, kapal, perawatan, dan kiriman ke keluarga tetap mahal.
 
-## 2. CONTOH HARGA SEHARI-HARI
+Kota memakai energi listrik/geothermal serta Essen pada alat khusus. Orang miskin bisa makan dan belajar kerja biasa; kultivasi bukan satu-satunya ukuran martabat.
 
-| Barang/Jasa | Harga | Analog Rupiah |
-|-------------|-------|---------------|
-| Roti gandum 1 potong | 2 Tembaga | Rp 2.000 |
-| Sup sayur + nasi | 5 Tembaga | Rp 5.000 |
-| Ayam goreng + nasi | 2 Perak | Rp 20.000 |
-| Kamar kos (1 bulan) | 2 Emas | Rp 200.000 |
-| Tiket Gerbang Kota (dalam Zona) | 1 Emas | Rp 100.000 |
-| Biaya kuliah 1 semester | 50 Emas | Rp 5.000.000 |
+## Larangan jalan pintas
 
----
+Tidak ada kurs universal yang membuat satu peti emas membeli izin semua alam. Tidak ada mayat memberi cadangan lengkap. Dana pencarian berasal dari kerja, beasiswa, kontrak, dan dukungan yang dicatat. Kepemilikan mandat Lesh bukan rekening pribadi Yazha.
 
-## 3. SISTEM DEBU ESSEN
-
-| Aspek | Detail |
-|-------|--------|
-| **Essen** | Energi alam yang tersebar di seluruh alam semesta. Tidak terlihat. |
-| **Debu Essen** | Essen yang mengkristal dalam bentuk serbuk halus (ungu pucat/abu-abu keunguan). |
-| **Sumber** | Sungai Essen, Gua Kristal, Hewan Spiritual, Atmosfer, Pabrik Pemurnian. |
-
-**Tingkat Kemurnian Debu Essen:**
-
-| Tingkat | Warna | Penggunaan |
-|---------|-------|------------|
-| Kasar | Ungu abu-abu | Mesin besar, transportasi umum |
-| Sedang | Ungu pucat | Transportasi pribadi, pemanas rumah |
-| Tinggi | Ungu terang | Transportasi elit, Gerbang Kota, kultivasi |
-| Premium | Ungu tua mengkilap | Artefak level tinggi, senjata, obat-obatan Level 2-3 |
-
----
-
-## 4. PERBEDAAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Mata Uang** | Koin Kristal | Koin Kristal (tetap) |
-| **Nilai** | Tetap | Tetap |
-| **Debu Essen** | Tetap | Tetap |
-| **Contoh Harga** | Tetap | Tetap |
-
----
-
-## 5. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Koin Kristal** | Mata uang standar di Alam Fana dan Alam Bintang. |
-| **Konversi** | 1 Perak = 10 Tembaga, 1 Emas = 10 Perak, 1 Platinum = 10 Emas, 1 Obsidian = 10 Platinum. |
-| **Debu Essen** | Digunakan untuk energi sehari-hari—transportasi, pemanas, mesin. |
-| **Konsistensi** | Jangan tulis harga yang tidak konsisten dengan konversi di atas. |
-
----
-
-**— END OF FILE —**
+V10 gugatan menyasar biaya izin, cadangan minimum klinik, dan aliran yang tidak bisa diaudit. V13 koalisi mengurangi pemborosan kisi. Masih ada harga dan kekurangan setelah reformasi; peradaban tidak menjadi surga karena satu orang baik memegang kunci.

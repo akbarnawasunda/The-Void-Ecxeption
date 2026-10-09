@@ -1,85 +1,32 @@
-# MASTER CETAK BIRU SEKUEL
+# SEKUEL — MERAWAT TANPA MENGINGAT ALASAN PERTAMA
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN SEKUEL – SEMESTA LUAR (STEP 5-12)**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+**Status: cetak biru**, bukan 600 bab prosa selesai. Mulai sesudah bab 1530 utama, memakai nomor S1–S600. Penglihatan pada penutup utama bukan masa lalu yang sungguh terjadi.
 
-> **CATATAN:**
-> Ini adalah cetak biru untuk sekuel setelah Yazha mencapai Unbegotten (Level 17) dan menembus The Shell. Semesta Luar adalah lautan ketiadaan tak terbatas, di mana gelembung-gelembung semesta mengambang.
-> Total level baru: **Step 5-12 (Level 17-48+)** .
-> Total arc sekuel: **3 Arc Besar**.
-> Total bab estimasi: **500-700 bab tambahan** (di luar ~1530 bab utama).
+## Janji
 
----
+Yazha tetap Lv17, tetapi asing pada protokol baru dan kehilangan akses episodik. Bahasa, penalaran, gerak dasar, serta kebiasaan merawat bertahan; kemampuan lanjutan perlu diuji. Nama dapat diberitahukan lewat dokumen lebih awal. Mendengar nama tidak memulihkan pengalaman pernah menjadi dirinya.
 
-## RINGKASAN CEPAT
+| Arc | Bab sekuel | Pertanyaan | Tahun pribadi | Tahun Bumi dari log relay |
+| --- | --- | --- | --- | --- |
+| Pencarian Jati Diri | S1–180 | Siapa yang dipilihnya untuk dirawat sebelum tahu sejarahnya? | 45 | 1 |
+| Penemuan Sumber | S181–400 | Apa bedanya data, pengalaman, dan orang? | 140 | 3 |
+| Kembali ke Sumber | S401–600 | Bagaimana pulang tanpa menuntut masa lalu kembali? | 115 | 2 |
 
-| Konsep | Inti |
-|--------|------|
-| **Semesta Luar** | Lautan ketiadaan tak terbatas. Gelembung-gelembung semesta mengambang di dalamnya. |
-| **Garis Batas Bola (The Shell)** | Dinding transparan tak tertembus. Hanya Unbegotten (Level 17) yang bisa menembus. |
-| **7 Konstanta Fundamental** | Ruang, Waktu, Massa, Energi, Kausalitas, Entropi, Kesadaran. |
-| **Amnesia Kosmik** | Yazha kehilangan semua ingatan tentang keluarganya setelah menembus The Shell. |
-| **3 Arc Sekuel** | Pencarian Jati Diri → Penemuan Sumber → Kembali ke Sumber. |
-| **Sumber Utama** | Titik pusat penciptaan semua gelembung semesta. |
+Total 300 tahun pribadi dan enam tahun Bumi: anggaran cetak biru 2123→2129. **Bukan rasio fisik tetap Luar.** Jam Bumi diukur dari paket bertanggal, jam pribadi dari protokol diri; keduanya dicatat melalui pertukaran sinyal. Jika rute berubah, anggaran harus dihitung kembali.
 
----
+Nala berusia 92 akhir utama dan 110 akhir sekuel jika tetap di Abadi; tetap Lv6. Bhas, Yuna, Veyla, Dhiza, Vaniya, dan Wiadava tetap mati. Akasa/Kanavi tetap nama rencana dan proyeksi, bukan anak aktual.
 
-## DAFTAR FILE
+## Sumber dan kemampuan
 
-| # | File | Isi |
-|---|------|-----|
-| 01 | `01_Konsep_Semesta_Luar.md` | Kosmologi tingkat tinggi: The Shell, gelembung semesta, Sumber Utama. |
-| 02 | `02_Step_5_12_Level_Baru.md` | Sistem level baru (17-48+), 7 Konstanta, Step 5-12. |
-| 03 | `03_Premis_Amnesia_Kosmik.md` | Premis awal sekuel: Yazha kehilangan semua ingatan. |
-| 04 | `04_Arc_1_Pencarian_Jati_Diri.md` | Arc 1: Level 17-28, temukan nama pertama (Nala, Veyla). |
-| 05 | `05_Arc_2_Penemuan_Sumber.md` | Arc 2: Level 29-40, temukan Sumber Utama, ingat Akasa. |
-| 06 | `06_Arc_3_Kembali_ke_Sumber.md` | Arc 3: Level 41-48+, pengorbanan terakhir, Yazha melebur. |
-| 07 | `07_Epilog_Sekuel.md` | *(Belum dibuat)* — Akhir dari perjalanan Yazha di Semesta Luar. |
+Sumber Dalam adalah reservoir energi jaringan asal. **Simpul Asal** di Luar adalah jaringan pertukaran arsip/protokol, bukan pencipta kosmos atau tempat membeli kebangkitan. Delapan bidang horizontal menggantikan inflasi level sesudah 17. Keahlian navigasi tidak otomatis menguasai limbah, ingatan, dan politik.
 
----
+TFE memberi catatan keterbatasan, bukan jawaban semua masalah. Sekuel menguji kepedulian ketika fakta kembali tanpa semua sensasinya. Akhir tidak membuat Yazha pengawas mahatahu.
 
-## PERBEDAAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Karakter** | Yazha | **Yazha** |
-| **Nama Pertama Diingat** | Nala | **Nala** |
-| **Nama Kedua Diingat** | Veylara | **Veyla** |
-| **Nama Ketiga Diingat** | Akasa | **Akasa** — tetap |
-| **Nama Keempat Diingat** | Kanavi | **Kanavi** — tetap |
-| **The Shell** | Tetap | Tetap |
-| **Sumber Utama** | Tetap | Tetap |
-| **3 Arc Sekuel** | Tetap | Tetap |
-| **Akhir Sekuel** | Melebur dengan Sumber | Melebur dengan Sumber — tetap |
-
----
-
-## KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Aku menembus The Shell. Dan aku lupa segalanya."* | Yazha, awal Arc Sekuel. |
-| *"Aku tidak tahu siapa aku. Tapi aku tahu ada sesuatu yang harus aku cari."* | Yazha, saat terbangun di Semesta Luar. |
-| *"Yazha melihat gelembung itu. Dadanya sesak. Ia tidak tahu kenapa. Tapi air matanya jatuh."* | Narasi, Arc 1 — melihat gelembung familiar. |
-| *"Aku memotong Benang Realitas. Aku menghubungkan dua gelembung. Aku mulai mengerti."* | Yazha, Arc 2 — menguasai Benang. |
-| *"Dekrit pertama: 'Aku akan menemukan Sumber.' Dan aku menemukannya."* | Yazha, Arc 2 — Level 40. |
-| *"Aku melihat semuanya. Aku mengingat semuanya. Aku menangis untuk pertama kalinya."* | Yazha, Arc 3 — semua ingatan kembali. |
-| *"Aku... pulang."* | Yazha, kata terakhir sebelum melebur dengan Sumber. |
-
----
-
-## ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Amnesia Kosmik** | Yazha kehilangan semua ingatan di awal Arc Sekuel. Ingatan kembali secara bertahap. |
-| **3 Arc Sekuel** | Arc 1 (Level 17-28) → Pencarian Jati Diri. Arc 2 (Level 29-40) → Penemuan Sumber. Arc 3 (Level 41-48+) → Kembali ke Sumber. |
-| **Konsistensi Nama** | Nama yang diingat: Nala, Veyla, Akasa, Kanavi — sesuai pemetaan ulang. |
-| **Kata Terakhir** | *"Aku... pulang."* — harus konsisten. |
-| **Akhir** | Yazha melebur dengan Sumber dan menjadi pengamat multiverse. |
-
----
-
-**— END OF FILE —**
+- [Kosmologi Luar](01_Konsep_Semesta_Luar.md)
+- [Delapan bidang](02_Step_5_12_Level_Baru.md)
+- [Amnesia](03_Premis_Amnesia_Kosmik.md)
+- [Arc 1](04_Arc_1_Pencarian_Jati_Diri.md), [Arc 2](05_Arc_2_Penemuan_Sumber.md), [Arc 3](06_Arc_3_Kembali_ke_Sumber.md)
+- [Akhir aktual sekuel](07_Epilog_Sekuel.md)

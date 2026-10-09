@@ -1,170 +1,28 @@
-# ALAM BINTANG, KEKOSONGAN, & KEABADIAN
+# TIGA ALAM ATAS — BUKAN SALINAN DUNIA DENGAN ANGKA LEBIH BESAR
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN DUNIA – STEP 2, 3, 4**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Bintang, 12× — jarak dan ketergantungan
 
-## 1. ALAM BINTANG (STEP 2)
+V5–7; bagian pertama V8. Kota orbital, kebun kapal, bengkel, dan dermaga pekerja. Jarak jauh masih memerlukan relay/kapal. Konflik: siapa memperoleh izin rute dan perawatan, siapa harus tinggal karena keluarganya tidak siap transit. Astralis Prime tempat Varin menjaga tubuh terkalibrasi; Sabuk Voth tempat Goliath menahan suplai.
 
-| Atribut | Detail |
-|---------|--------|
-| **Skala** | Ratusan galaksi. |
-| **Level** | 5 (Soulsear) - 8 (Nebular) Puncak. |
-| **Batas** | Level 8 Puncak untuk naik ke Alam Kekosongan. |
-| **Peradaban** | Planet-planet terhubung oleh jaringan portal antar bintang. |
-| **Pemerintahan** | Tidak ada otoritas tunggal—setiap galaksi dikuasai oleh satu Klan atau Sekte. |
-| **Visual** | Langit malam dipenuhi bintang yang lebih dekat dan lebih terang. Nebula berwarna-warni terlihat dari permukaan planet. |
-| **Tekanan Eksistensial** | Jauh lebih tinggi dari Alam Fana. Tubuh harus beradaptasi—proses yang menyakitkan. |
+Rasa Yazha: mula-mula bebas, kemudian sadar setiap kursi kapal mempunyai nama yang menunggu pulang. Seorang buruh yang tidak mengenal perang Aethel boleh peduli hanya jadwal gaji. Kehidupan sipil itu mempersulit pembalasan, bukan latar yang boleh dibakar.
 
-### Tempat Penting di Alam Bintang
+## Kekosongan, 60× — alamat dan catatan
 
-| Nama | Deskripsi |
-|------|-----------|
-| **Astralis Prime** | Pusat Sekte Astralis Zenith, tempat Lesh #1 (Hati Astralis). Planet terbesar di Alam Bintang. |
-| **Aethel Prime** | Planet asal Klan Aethel—kini puing-puing. Perpustakaan Klan Aethel tersembunyi di reruntuhan. |
-| **Sungai Cahaya** | Rumah Kolektif Lumina—pemegang Lesh #2 (Air Mata Lumina). |
-| **Awan Tak Berbentuk** | Rumah Ras Aethel—pemegang Lesh #4 (Kabut Aethel). |
-| **Planet Voth** | Planet vulkanik, gravitasi 5x lipat. Rumah Klan Voth. |
+Bagian kedua V8 (terminal terlindung); V9–11. Habitat di jaringan penanda, bukan seluruh alam benar-benar kosong. Listrik/pompa dapat bekerja, tetapi alamat palsu memutus izin obat dan surat. Ordo Primordium, kantor kuota, dan Kuil Nama ada di sini; bukan semua lembaga pusat Keabadian datang bertarung melawan Lv9.
 
-### Peran di Cerita
+Voidmaw adalah saluran buangan dengan **kantong transit**, bukan makhluk yang bebas memakan orang sesuai kebutuhan plot. Korban dapat hidup pada stasis servis yang dibangunkan berkala. Vaniya terbangun total sekitar 14 tahun dalam penahanan; tidak menua 1.260 tahun tanpa kultivasi. Petunjuk: nomor relokasi V1, label obat V3, log fase servis V8. Menemukan alamat tidak otomatis membuka katup rusak. Katup darurat diselaraskan dengan fase biologis operator; perpindahan aman memerlukan kalibrasi 180 detik. Memotong kaitan tanpa pola pengganti merusak jalur rombongan. Batas ini dipelajari bab 999 sebelum pertemuan, bukan ditambahkan setelah Vaniya mengambil keputusan.
 
-| Volume | Peristiwa |
-|--------|-----------|
-| **Volume 5** | Yazha masuk Alam Bintang. Gerbang Api (4→5). Mulai perburuan Nala. |
-| **Volume 5-6** | Pertarungan dengan Varek Voth. Kematian Varek. |
-| **Volume 6-7** | Konflik dengan Klan Xa. Kematian Veyla. |
-| **Volume 7** | Yazha naik ke Level 8 (Nebular) dan menuju Alam Kekosongan. |
+Rasa Yazha: ia dapat tiba lebih cepat daripada surat yang ia tunggu. Ia menolong orang dari kontrak tidak sah lalu harus memastikan mereka punya tempat tinggal. “Bebas” bukan akhir pekerjaan.
 
----
+## Keabadian, 300× — menjaga yang tidak mau selesai
 
-## 2. ALAM KEKOSONGAN (STEP 3)
+V12–14, selain kunjungan V13. Kota tua, klinik yang menyimpan pasien dalam stasis, kebun cadangan, dan perpustakaan yang berganti operator. Kekuasaan berasal dari kemampuan menunda akhir serta menguasai prosedur, bukan seluruh penghuni diam di singgasana.
 
-| Atribut | Detail |
-|---------|--------|
-| **Skala** | Kehampaan di antara realitas. |
-| **Level** | 9 (Rune-Willed) - 12 (Truexa) Puncak. |
-| **Batas** | Level 12 Puncak untuk naik ke Alam Keabadian. |
-| **Visual** | Kegelapan total dengan pulau-pulau realitas mengambang. Tidak ada bintang—hanya kehampaan. |
-| **Peradaban** | Pulau-pulau realitas yang dihuni oleh kultivator kuat. Setiap pulau adalah domain pribadi. |
-| **Tekanan Eksistensial** | Sangat tinggi. Hanya kultivator Level 8+ yang bisa bertahan. |
+Rasa Yazha: ribuan tahun akhirnya cukup untuk memahami sebuah mesin, tetapi tidak cukup untuk menulis ulang percakapan yang ia lewatkan. Penguasa Hampa menawarkan salinan kenangan; ia harus membedakan bukti dan orang.
 
-### Tempat Penting di Alam Kekosongan
+## Pembatas
 
-| Nama | Deskripsi |
-|------|-----------|
-| **Domain Varin** | Dunia pribadi Varin Astralis—istana mengambang di tengah kehampaan. |
-| **Bait Sumber Pertama** | Markas Ordo Primordium—perpustakaan tak terbatas. Lesh #6 (Buku Primordium) ada di sini. |
-| **Mulut Voidmaw** | Lubang hitam raksasa mengelilingi Lesh #5 (Mulut Voidmaw). |
-| **Pulau Sunyi** | Domain pribadi The First Exception—tempat ujian terakhir. |
-| **Lembah Kehampaan** | Dimensi mini di dalam Alam Kekosongan—tempat Penguasa Hampa (Volume 12). |
-
-### Peran di Cerita
-
-| Volume | Peristiwa |
-|--------|-----------|
-| **Volume 7** | Yazha masuk Alam Kekosongan. Mengejar Varin. |
-| **Volume 8** | Konflik dengan Ordo Primordium. Menemukan Master Misterius adalah bekas Ordo. |
-| **Volume 8-9** | Membakar Buku Primordium. Menghancurkan Bait Sumber Pertama. |
-| **Volume 9** | Gerbang Kesepian (8→9). Yazha menjadi Rune-Willed. |
-
----
-
-## 3. ALAM KEABADIAN (STEP 4)
-
-| Atribut | Detail |
-|---------|--------|
-| **Skala** | Tidak terbatas—bukan ruang fisik. |
-| **Level** | 13 (Nameless) - 16 (Primordial) Puncak. |
-| **Batas** | Level 16 Puncak → tidak ada yang lebih tinggi, kecuali Unbegotten (Level 17). |
-| **Visual** | Realitas dibentuk oleh pikiran. Tidak ada bentuk tetap—berubah sesuai kehendak penghuni. |
-| **Peradaban** | Penghuni adalah entitas yang sudah melewati identitas fisik. Mereka ada sebagai "konsep" murni. |
-| **Tekanan Eksistensial** | Tertinggi. Hanya kultivator Level 12+ yang bisa masuk. |
-
-### Tempat Penting di Alam Keabadian
-
-| Nama | Deskripsi |
-|------|-----------|
-| **Aula Takhta Emas** | Istana mengambang di pusat Alam Keabadian. Markas Sidang Sumber. |
-| **Kuil Nama** | Kuil terbuat dari nama-nama yang dilupakan. Markas Ordo Nama Pertama. |
-| **Lembah Kehampaan** | Dimensi mini yang sepenuhnya kosong. Tempat tinggal Penguasa Hampa. |
-| **Batas Realitas** | Tepian Alam Keabadian—dari sini, bisa melihat ke bawah ke seluruh alam. |
-| **Perpustakaan Abadi** | Tempat semua sejarah alam semesta ditulis oleh Penyair Abadi. |
-| **Istana Jiwa** | Tempat Pengumpul menyimpan jiwa-jiwa kultivator kuat. |
-
-### Peran di Cerita
-
-| Volume | Peristiwa |
-|--------|-----------|
-| **Volume 9-10** | Gerbang Nameless (12→13). Yazha menjadi "Si Pemuda Tanpa Nama." Masuk Alam Keabadian. |
-| **Volume 10** | Konflik dengan Sidang Sumber. Menghancurkan Aula Takhta Emas. |
-| **Volume 11** | Konflik dengan Ordo Nama Pertama. Menolak dihapus namanya. |
-| **Volume 12** | Konflik dengan Penguasa Hampa. Mengalahkannya di Lembah Kehampaan. |
-| **Volume 13-14** | Tiga Dinding (16→17). Yazha menjadi Unbegotten. |
-
----
-
-## 4. ENTITAS STEP 4 (HIERARKI)
-
-| Peringkat | Entitas | Level | Lokasi | Status Unbegotten |
-|-----------|---------|-------|--------|-------------------|
-| **#0** | **The First Exception** | **Unbegotten (Lv 17)** | Di luar The Shell | **SUDAH** — netral, menguji |
-| **#1** | **Penguasa Hampa** | **Primordial Puncak (Lv 16 Puncak)** | Lembah Kehampaan | **BELUM** — terjebak 3 miliar tahun |
-| **#2** | **Sidang Sumber** (7 anggota) | Verity (Lv 15) – Primordial Awal (Lv 16) | Aula Takhta Emas | **BELUM** — monopoli akses |
-| **#3** | **Ordo Nama Pertama** (Pemimpin) | Primordial Awal (Lv 16 Awal) | Kuil Nama | **BELUM** — puritan darah |
-| **#4** | **Penjaga Batas** | Solus (Lv 14) | Gerbang Alam Keabadian | **BELUM** — penjaga netral |
-| **#5** | **Penyair Abadi** | Verity (Lv 15) | Perpustakaan Abadi | **BELUM** — pencatat sejarah |
-| **#6** | **Pengumpul** | Primordial Tengah (Lv 16) | Istana Jiwa | **BELUM** — pengumpul jiwa |
-
----
-
-## 5. PERBANDINGAN KETIGA ALAM
-
-| Aspek | Alam Bintang | Alam Kekosongan | Alam Keabadian |
-|-------|--------------|-----------------|----------------|
-| **Step** | 2 | 3 | 4 |
-| **Level** | 5-8 | 9-12 | 13-16 |
-| **Visual** | Bintang & nebula | Kehampaan & pulau | Realitas pikiran |
-| **Penghuni** | Klan & sekte | Domain pribadi | Entitas konseptual |
-| **Kekuatan Puncak** | Nebular Puncak (Lv 8) | Truexa Puncak (Lv 12) | Primordial Puncak (Lv 16) |
-| **Musuh Utama** | Varek Voth | Varin Astralis, Ordo | Sidang Sumber, Ordo Nama, Penguasa Hampa |
-| **Volume** | 5-7 | 7-9 | 9-14 |
-
----
-
-## 6. PERUBAHAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Klan di Alam Bintang** | Klan Renville | **Klan Aethel** |
-| **Planet Munzu** | Munzu | **Voth** |
-| **Alam Kekosongan** | Tetap | Tetap |
-| **Alam Keabadian** | Tetap | Tetap |
-| **Entitas Step 4** | Tetap | Tetap |
-
----
-
-## 7. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Alam Bintang... di sinilah segalanya dimulai. Dan di sinilah segalanya berakhir untuk kebanyakan orang."* | Wiadava, tentang Alam Bintang. |
-| *"Alam Kekosongan adalah tempat di mana kau belajar bahwa tidak ada yang peduli padamu. Hanya kekuatan yang berbicara."* | Varin Astralis, tentang Alam Kekosongan. |
-| *"Alam Keabadian... di sini, kau bukan siapa-siapa. Kau hanya konsep. Dan konsep bisa dihapus."* | The First Exception, tentang Alam Keabadian. |
-| *"Tiga Dinding... aku berdiri di tepi selama 10.000 tahun sebelum aku melompat."* | The First Exception, tentang Unbegotten. |
-
----
-
-## 8. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Nama Alam** | Alam Bintang, Alam Kekosongan, Alam Keabadian — tetap. |
-| **Level** | Setiap alam memiliki batas level. Jangan biarkan karakter melewati batas tanpa ujian. |
-| **Gerbang Transisi** | Api (4→5), Kesepian (8→9), Nameless (12→13), Tiga Dinding (16→17). |
-| **Entitas Step 4** | Muncul sesuai timeline: Sidang Sumber (Vol 10), Ordo Nama (Vol 11), Penguasa Hampa (Vol 12), Tiga Dinding (Vol 13-14). |
-| **Klan Aethel** | Berasal dari Alam Bintang (Aethel Prime). Digantikan oleh Klan Voth. |
-
----
-
-**— END OF FILE —**
+Tubuh/orang biasa tinggal di habitat terlindung; keluaran terbuka per lapisan 4/8/12/16. Memasuki stasiun bukan melewati gerbang level. Rasio lokal tidak dibawa turun. Semesta Luar baru bab 1530: tidak ada jam universal, tetapi setiap proses tetap memiliki urutan dan energi.

@@ -1,75 +1,20 @@
-# DEFINISI & PERBEDAAN HUKUM
+# DUA JENIS HUKUM — PROSEDUR, BUKAN KATA MAHAKUASA
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN HUKUM – ELEMENTAL vs KONSEPTUAL**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+Hukum adalah cara mengubah aliran/relasi dalam medium Essen. Tidak sama dengan bahan energi dan tidak dapat dijalankan tanpa sumber. Model harus diuji, skala ditentukan, resistansi dihadapi, dan limbah dibayar.
 
-## 1. APA ITU HUKUM?
+**Elemental:** fenomena fisik. Api mengubah panas/reaksi; Ruang mengubah hubungan lokasi bertanda; Waktu mengubah laju proses dalam buffer terbatas. Belajar lewat observasi, manual, instruktur, dan percobaan.
 
-| Aspek | Detail |
-|-------|--------|
-| **Definisi** | Prinsip fundamental yang mengatur realitas. Bukan energi—tapi **aturan** yang menentukan bagaimana energi berperilaku. |
-| **Analogi** | Gravitasi bukan benda, tapi aturan yang membuat benda jatuh. |
+**Konseptual:** kerangka **hubungan** yang pemakai pelajari untuk memetakan masalah. Kehilangan memutus satu kaitan; Perlindungan menegakkan satu batas yang diketahui; Kebenaran membandingkan pernyataan dengan data. Pengalaman hidup memberi pertanyaan penting, bukan akses eksklusif. Buku/pembelajaran tetap dapat membantu.
 
----
+## Satu kerangka aktif
 
-## 2. HUKUM ELEMENTAL (Elemental Laws)
+Pola pengaturan jiwa memelihara satu kerangka konseptual aktif agar tidak menerima dua perintah dasar yang saling bertentangan. Orang boleh belajar teori lainnya; mengganti kerangka membutuhkan pembongkaran dan latihan lama. Konflik prosedur **bukan diagnosis penyakit mental**. Tidak semua orang yang mengalami duka wajib punya Kehilangan.
 
-| Aspek | Detail |
-|-------|--------|
-| **Mengatur** | Fenomena fisik alam semesta. |
-| **Contoh** | Api membakar. Air mengalir. Gravitasi menarik. |
-| **Sifat** | Objektif, terukur, universal. |
-| **Cara Mempelajari** | Bisa dipelajari dari buku, guru, atau observasi alam. |
-| **Bisa Digabung** | Api + Angin = Badai Api. |
-| **Jumlah** | 13 Hukum Elemental. |
+## Mengapa tidak absolut
 
----
+Konsep tidak berkuasa atas seluruh makna kata. “Kebebasan” tidak membuat benda lepas konservasi energi. “Kebenaran” tidak mengetahui semua fakta. “Penyesalan” tidak membalik sejarah. “Kehilangan” tidak menghapus kemenangan bos. Setiap penerapan mempunyai hubungan yang bisa ditunjuk dan cara lawan mengubah situasi.
 
-## 3. HUKUM KONSEPTUAL (Conceptual Laws)
-
-| Aspek | Detail |
-|-------|--------|
-| **Mengatur** | Ide abstrak dalam realitas. |
-| **Contoh** | Kehilangan, Penyesalan, Kebenaran, Perlindungan, Kebebasan. |
-| **Sifat** | Subjektif, personal, tidak universal. |
-| **Cara Mempelajari** | **Tidak bisa dipelajari dari buku.** Hanya bisa dipahami oleh mereka yang "hidup" di dalam konsep tersebut. |
-| **Tidak Bisa Digabung** | Setiap Hukum Konseptual adalah kristalisasi jiwa. |
-| **Satu Jiwa, Satu Hukum** | Tidak bisa memiliki dua Hukum Konseptual—akan menyebabkan skizofrenia eksistensial. |
-
----
-
-## 4. PERBANDINGAN CEPAT
-
-| Aspek | Hukum Elemental | Hukum Konseptual |
-|-------|-----------------|------------------|
-| **Sumber** | Alam semesta | Pengalaman pribadi |
-| **Cara Belajar** | Buku, guru, observasi | Hanya melalui pengalaman hidup |
-| **Jumlah** | 13 (terbatas) | Tidak terbatas |
-| **Bisa Digabung** | Ya | Tidak |
-| **Universal** | Ya | Tidak |
-
----
-
-## 5. PERUBAHAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Karakter** | Dhawa | **Yazha** |
-| **Contoh Hukum Konseptual** | Kehilangan (Dhawa) | Kehilangan (Yazha) — tetap |
-| **Contoh Hukum Konseptual** | Kebebasan (Veylara) | Kebebasan (Veylara) — tetap |
-
----
-
-## 6. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Hukum Elemental adalah aturan alam semesta. Tapi Hukum Konseptual... itu lahir dari dalam dirimu. Dari hal yang paling menyakitimu."* | Wiadava, kepada Yazha. |
-| *"Aku tidak bisa mempelajari Kehilangan dari buku. Aku harus mengalaminya sendiri."* | Yazha, tentang Hukum Konseptualnya. |
-| *"Satu jiwa, satu Hukum Konseptual. Jika kau mencoba memiliki dua, kau akan kehilangan dirimu sendiri."* | The First Exception, tentang batasan Hukum Konseptual. |
-
----
-
-**— END OF FILE —**
+Di tinggi, kekuatan memperluas kemampuan memelihara sistem rumit. Ia tidak menghapus hak pasien, penumpang, atau orang yang tidak mau dipelihara sebagai benda.

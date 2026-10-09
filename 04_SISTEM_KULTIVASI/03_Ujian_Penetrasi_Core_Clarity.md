@@ -1,83 +1,30 @@
-# UJIAN PENETRASI & CORE CLARITY
+# CORE CLARITY — MUTU PEMROSES, BUKAN LEVEL KEDUA
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN SISTEM – SYARAT NAIK LEVEL & KUALITAS CORE**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Ujian Penetrasi
 
-## 1. UJIAN PENETRASI
+Ujian adalah pemeriksaan dan pembukaan satu penyempitan rute di bawah pengukuran. Jaringan terluka tidak “dibersihkan” dengan menahan rasa sakit; posisi, suhu, dan aliran harus diketahui. Rute salah dapat merusak organ. Anestesi dan bantuan operator boleh dipakai. Tidak ada penghargaan biologis untuk menolak penghilang nyeri.
 
-| Tingkatan | Syarat Naik | Penjelasan |
-|-----------|-------------|------------|
-| **Awal** | Mengisi kapasitas energi penuh | Fase akumulasi murni — mengisi "ember" energi sampai penuh. |
-| **Tengah** | **Ujian Penetrasi** | Menusuk satu titik sumbatan spesifik di Jalur Void. Sangat menyakitkan — seperti menusuk saraf dengan jarum panas. Jika gagal, kerusakan meridian permanen. |
-| **Puncak** | **Pencerahan Hukum** | Memahami satu aspek dari Hukum yang dipilih. Momen "aha!" — teori berubah menjadi pemahaman sejati. Tanpa ini, energi sebanyak apapun tidak bisa naik ke Puncak. |
+Ilyan memasang rangkaian buatan pada bab 91 setelah menilai bahan dan catatan. Tahun-tahun persiapan membuat prosedur mungkin, bukan membuat semua rute terbuka sekaligus. Bahu kanan tetap mempunyai keterbatasan. Harmonisasi awal baru bab 118.
 
-**Untuk Yazha:**
-- Setiap Ujian Penetrasi adalah **adegan penyiksaan diri yang brutal**.
-- Karena tidak punya Core, ia **merasakan setiap tusukan dengan intensitas penuh**.
-- Kultivator normal bisa menggunakan Core sebagai peredam — Yazha tidak punya itu.
+## Lima mutu Core
 
----
+| Mutu | Nama | Perbaikan | Batas |
+| --- | --- | --- | --- |
+| 1 | Inti Kabut | Penyangga dasar | Bocor, sulit diukur |
+| 2 | Inti Embun | Filter yang dapat dibersihkan | Perlu media filter dan waktu |
+| 3 | Inti Kristal | Aliran presisi, log kegagalan | Tidak menyimpan ingatan lawan |
+| 4 | Inti Zamrud | Buffer panas dan pemutus darurat | Buffer penuh harus didinginkan |
+| 5 | Inti Primeval | Memurnikan limbah Essen bermutu rendah | Tetap kehilangan energi; tidak membuat mesin Putih |
 
-## 2. CORE CLARITY RANK
+Mutu tidak menaikkan kapasitas tujuh kali atau menghapus harga Hukum. Primeval pertama tersusun **bab 389 V5**, selama penataan Gerbang Api; stabil setelah bab 393. Mencapai satu mutu tidak berarti semua orang lain gagal mencapai mutu itu.
 
-| Tingkat | Nama | Warna | Ciri Khas | Cara Mencapai |
-|---------|------|-------|-----------|---------------|
-| 1 | Inti Kabut | Abu-abu keruh | Standar. Dimiliki 90% kultivator. Efisiensi biasa. | Bloodboon normal. |
-| 2 | Inti Embun | Biru kehijauan | Menghemat 30% Essen. Pemulihan lebih cepat. | Bloodboon + 2 Ujian Penetrasi sempurna. |
-| 3 | Inti Kristal | Ungu bening | Proyeksi energi tidak bocor. Serangan lebih presisi. | Semua Ujian Penetrasi sempurna + Pencerahan pertama. |
-| 4 | Inti Zamrud | Hijau tua berpendar | Bisa menyimpan "memori" pertarungan. | Penggabungan dengan Lesh Ultra. |
-| 5 | Inti Primeval | Emas murni | Bisa menghasilkan Lesh sendiri. | Harmonisasi 7 Jalur Void sempurna + Core buatan stabil. **Tercapai di Vol 4-5**, bukan saat Harmonisasi Void dimulai (Vol 2-3). |
+## Primeval dan Lesh
 
----
+Primeval memadatkan **Essen yang telah dimiliki** menjadi Lesh biasa. Bila masuk 100 unit bahan, hasil layak paling banyak 60 unit; sisanya panas/racun. Mendaur ulang hasilnya tidak menambah cadangan. Lesh Putih adalah sebelas mesin buatan bersejarah, bukan bahan yang dapat dicetak Core.
 
-## 3. STATUS CORE YAZHA (PER VOLUME)
+## Pilihan Bhas/Yuna
 
-| Fase | Status Core |
-|------|-------------|
-| **Volume 1** | **BELUM punya Core.** Memaksa energi mentah — menyakitkan dan berbahaya. |
-| **Volume 2 (Awal)** | **BELUM punya Core.** Bertahan hidup tanpa Core di Zona 5 & 4. |
-| **Volume 2 (Tengah - Akhir)** | **Core buatan** dibentuk oleh Master Misterius. Core ini adalah **katalis** yang memungkinkan 7 Jalur Void untuk bersatu — tanpanya, Harmonisasi Void tidak mungkin terjadi. |
-| **Volume 3** | Core buatan mulai stabil. Tapi tetap **lebih lemah** dari Core alami Bhas/Yuna. |
-| **Volume 4-5** | Core buatan semakin stabil. **Inti Primeval tercapai** — setelah Harmonisasi Void sempurna dan melewati Gerbang Api (4→5). |
-| **Volume 5-6** | Inti Primeval stabil. Yazha bisa menghasilkan Lesh sendiri. |
-| **Akhir Cerita** | Core buatan melebur saat mencapai Unbegotten. |
-
----
-
-## 4. PERBANDINGAN YAZHA VS KULTIVATOR NORMAL
-
-| Aspek | Kultivator Normal | Yazha |
-|-------|-------------------|-------|
-| **Core Level 1** | Core alami terbentuk otomatis. | **TIDAK** punya Core. Memaksa energi mentah. |
-| **Ujian Penetrasi** | Core meredam umpan balik — sakit minimal. | Merasakan setiap tusukan langsung di dinding saraf. |
-| **Hakikat Jalur** | Tidak pernah menyadarinya. | Terpaksa menyadarinya — karena merasakan setiap detil jalur. |
-| **Core Clarity** | Mencapai Inti Embun/Kristal dengan mudah. | Butuh bertahun-tahun untuk mencapai Inti Primeval. |
-
----
-
-## 5. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Ujian Penetrasi... menusuk sumbatan dengan energi mentah. Rasanya kayak jarum panas yang digerakkan pelan-pelan di dalam urat."* | Yazha, tentang Ujian Penetrasi. |
-| *"Kultivator normal punya Core sebagai peredam. Aku tidak punya apa-apa. Aku merasakan semuanya."* | Yazha, tentang perbedaannya dengan kultivator normal. |
-| *"Inti Primeval... hanya satu orang yang pernah mencapainya dalam sejarah modern. Dan dia tidak berbakat."* | Wiadava, tentang Yazha. |
-| *"Core buatan ini bukan anugerah. Ini adalah alat. Alat yang tumpul. Kaulah yang harus mengasahnya."* | Master Misterius, kepada Yazha. |
-
----
-
-## 6. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Yazha BELUM punya Core di Vol 1** | Jangan tulis dia pakai Core di Volume 1. |
-| **Core-nya buatan** | Bukan Core alami kayak Bhas/Yuna. |
-| **Ujian Penetrasi = Adegan Brutal** | Tulis setiap tusukan dengan detail — sakit, darah, dan efek samping. |
-| **Inti Primeval** | Hanya dicapai setelah Harmonisasi Void sempurna + Core buatan stabil (Vol 4-5). **BUKAN di Vol 2-3.** |
-| **Konsistensi** | Yazha tidak pernah bisa "meringankan" rasa sakit. Dia merasakan semuanya. |
-
----
-
-**— END OF FILE —**
+Core alami dapat ditata ulang pada Gerbang Api. Core Bhas cedera setelah kebocoran sabotase turnamen; operasi lanjut mempunyai risiko kehilangan koordinasi yang ia butuhkan untuk pekerjaannya. Yuna menolak menjadikan sisa hidupnya proyek penaklukan gerbang. Mereka memilih hidup yang dapat mereka jalani, bukan ditolak alam karena tak cukup kehilangan.

@@ -1,84 +1,30 @@
-# MASTER INDEX - KECUALIAN KEKOSONGAN (REVISI FINAL)
-**Versi:** 2.0 - 24 Juli 2026 - CANON LOCKED
-**Status:** Semua inkonsistensi sudah diperbaiki, duplikat _1.md dihapus
+# INDEKS SERIES BIBLE V5
 
-## LOKASI CANON FINAL
-**Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia** - Rumah kontrakan kayu, atap seng berkarat, jalan tanah becek, 7km jalan kaki ke sekolah, kaki Pegunungan Halimun.
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](00_CANON_TERKUNCI.md).
 
-## ATURAN PANGGILAN VEYLARA (LOCKED)
-- Yazha manggil: **Veyla**
-- Orang lain: **Veylara**
-- Klan Xa: **Putri Xa**
-- Resmi: **Xa Veylara**
+## Pintu baca
 
-## STRUKTUR FOLDER
+[Ringkasan](00_RINGKASAN_REWRITE_V5.md) → [kontrak](00_CANON_TERKUNCI.md) → [plot](07_PETA_ALUR_PLOT/07_Peta_Alur_Plot.md) → [adegan uji](11_NASKAH_UJI/01_Tujuh_Adegan_Kunci.md). [Changelog](00_CATATAN_PERUBAHAN_V5.md) menyimpan 35 keputusan yang bisa ditinjau satu per satu.
 
-### 00 - Root
-- 00_CANON_TERKUNCI.md - Single source of truth
-- 00_INKONSISTENSI_AUDIT.md - Laporan audit 102 file
+## Bagian
 
-### 01_FONDASI_ATURAN/ (5 file - aturan tidak bisa dilanggar)
-- 01_Zero_Potential_Absolut.md
-- 02_CPS_Protocol.md (aku/kamu)
-- 03_Blacklist_Kata.md
-- 04_Absolute_Secularism.md (Kitab -> Buku Catatan)
-- 05_Struktur_Volume_Pacing.md
+- Fondasi: [Zero Potential](01_FONDASI_ATURAN/01_Zero_Potential_Absolut.md), [CPS](01_FONDASI_ATURAN/02_CPS_Protocol.md), [makna](01_FONDASI_ATURAN/03_Blacklist_Kata.md), [sekuler](01_FONDASI_ATURAN/04_Absolute_Secularism.md), [pacing](01_FONDASI_ATURAN/05_Struktur_Volume_Pacing.md), [emosi](01_FONDASI_ATURAN/06_Mesin_Emosi_Dan_Prosa.md).
+- [Karakter](02_KARAKTER/00_MASTER_KARAKTER.md) dan [Yazha](02_KARAKTER/01_Yazhaxa_Raynawa/00_Master_Index_Yazhaxa_Raynawa.md).
+- [Dunia](03_DUNIA_KOSMOLOGI/00_MASTER_DUNIA.md).
+- [Kultivasi](04_SISTEM_KULTIVASI/00_MASTER_SISTEM.md).
+- [Hukum](05_HUKUM_ALAM_SEMESTA/00_MASTER_HUKUM.md).
+- [Benda](06_ARTEFAK_BARANG/00_MASTER_ARTEFAK.md).
+- Plot: [14 volume](07_PETA_ALUR_PLOT/07_Peta_Alur_Plot.md), [18 setup](07_PETA_ALUR_PLOT/08_Register_Setup_Payoff.md), [ledger](07_PETA_ALUR_PLOT/09_Ledger_Konsekuensi.md), [35 kartu V1](07_PETA_ALUR_PLOT/10_Kartu_Adegan_Volume_1.md).
+- [Cetak biru sekuel](08_CETAK_BIRU_SEKUEL/00_MASTER_SEKUEL.md).
+- [Penglihatan/akhir aktual](09_EPILOG/00_MASTER_EPILOG.md).
+- [Bahasa/nama/glosarium](10_LAMPIRAN/00_MASTER_LAMPIRAN.md).
+- [Tujuh adegan prosa](11_NASKAH_UJI/01_Tujuh_Adegan_Kunci.md).
 
-### 02_KARAKTER/
-- 01_Yazhaxa_Raynawa/ (12 file: identitas, sistem, teknik, hubungan, koleksi, reputasi, Moxi, progresi, voice, arc, filosofi)
-- 02_Aethel_Wiadava.md (mentor, dulu Kayro Renville)
-- 03_Nala_Raynawa.md (adik, dulu Nayra)
-- 04_Keluarga_Raynawa.md (Dhiza & Vaniya)
-- 05_Xa_Veylara.md (Veyla/Veylara/Putri Xa)
-- 06_Tim_Pendukung.md (Bhaskara, Ryuna - dulu Bimo/Risa)
-- 07_Master_Misterius.md
-- 08_Karakter_Mati_Penting.md
-- 09_Sekutu_Semesta_Luar.md
-- 10_Pendukung_Lainnya.md
-- Antagonis/ (5 file: Varek Voth (dulu Drath Volnar), Varin Astralis, Goliath Voth (dulu Toruk Munzu), Ordo Primordium, Arc Kecil)
+## Pemeliharaan
 
-### 03_DUNIA_KOSMOLOGI/ (17 file)
-- 00_MASTER_DUNIA.md
-- 01_Kosmologi_Lesh.md (11 Pure White, Tulang Voth bukan Munzu)
-- 02_Alam_Fana_Bumi_Abadi.md (5 Zona, Lokasi: Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia)
-- 03_Planet_Universitas.md
-- 04_Sekte_Faksi.md
-- 05_Dewan_Tujuh.md (590jt tahun, tahanan Lesh #7)
-- 06_Sistem_Kompetisi.md
-- 07_Hukum_Alam_Perpindahan.md (Pegunungan Halimun bukan Lembang)
-- 08_Alam_Bintang_Kekosongan_Keabadian.md
-- 09_Sistem_Ekonomi.md
-- 10_Alam_Keabadian.md s/d 16_Kehidupan_Sipil.md
+[Data terstruktur](00_DATA_KANON.json), [cara validasi](README.md), [prompt](PROMPT_MASTER_3.0_XU_QING_STYLE.md). Blok otomatis dirender dari data; narasi tetap perlu review editorial.
 
-### 04_SISTEM_KULTIVASI/ (12 file)
-- Timeline LOCKED:
-  - Core buatan: Vol 2 Tengah-Akhir Bab 86-120 (Master Misterius)
-  - Harmonisasi Void: Vol 2 Akhir-Vol 3 Awal
-  - Voidstep: Vol 3 (1.5% energi 7x, tak terbatas)
-  - Inti Primeval: Vol 4-5
+## Arsip, bukan aturan aktif
 
-### 05_HUKUM_ALAM_SEMESTA/ (8 file)
-### 06_ARTEFAK_BARANG/ (5 file: Buku Catatan Wiadava, Tongkat Safir Aethel, Kamus Asal)
-### 07_PETA_ALUR_PLOT/ (1 file)
-### 08_CETAK_BIRU_SEKUEL/ (7 file)
-### 09_EPILOG/ (2 file)
-### 10_LAMPIRAN/ (9 file)
-
-## PERBAIKAN YANG SUDAH DILAKUKAN (FINAL)
-✅ Hapus 10 file duplikat _1.md
-✅ Replace Dhawa->Yazha, Nayra->Nala, Drath Volnar->Varek Voth, Toruk Munzu->Goliath Voth, Kayro Renville->Aethel Wiadava, Munzu->Voth, Renville->Aethel, Bimo->Bhaskara, Risa->Ryuna (61+ occurrences)
-✅ Standardisasi lokasi ke Desa Ciyasa, Kecamatan Batavia, Kota Exter-Nasia
-✅ Kitab -> Buku Catatan Wiadava / Kamus Asal (30+ occurrences)
-✅ Tongkat Zamrud -> Tongkat Safir Aethel, Kamus Batu -> Kamus Asal
-✅ Tulang Munzu -> Tulang Voth
-✅ Gunung Lembang -> Pegunungan Halimun, Cirebon -> Surabaya, Sektor 7 -> dihapus
-✅ Timeline Core/Harmonisasi/Voidstep/Inti Primeval dipatok
-✅ Aturan Veylara locked
-
-## CARA PAKAI
-1. Baca 00_CANON_TERKUNCI.md dulu
-2. Baca 01_FONDASI_ATURAN/ (wajib)
-3. Buka karakter/dunia/sistem sesuai kebutuhan
-4. Ikuti aturan panggilan Veylara dan lokasi canon
-
-**END OF MASTER INDEX**
+[Audit V3](00_AUDIT_CELAH_V3.md), [changelog V4](00_CATATAN_PERUBAHAN_V4.md), [audit awal](00_INKONSISTENSI_AUDIT.md). Versi terdahulu tetap di Gitc 1 de254. Proposal utang/gerbang lama tidak diterapkan lagi.
