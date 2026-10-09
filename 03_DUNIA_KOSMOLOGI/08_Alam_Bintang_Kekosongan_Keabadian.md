@@ -85,7 +85,7 @@
 
 | Nama | Deskripsi |
 |------|-----------|
-| **Aula Takhta Emas** | Istana mengambang di pusat Alam Keabadian. Markas Dewan Sumber. |
+| **Aula Takhta Emas** | Istana mengambang di pusat Alam Keabadian. Markas Sidang Sumber. |
 | **Kuil Nama** | Kuil terbuat dari nama-nama yang dilupakan. Markas Ordo Nama Pertama. |
 | **Lembah Kehampaan** | Dimensi mini yang sepenuhnya kosong. Tempat tinggal Penguasa Hampa. |
 | **Batas Realitas** | Tepian Alam Keabadian—dari sini, bisa melihat ke bawah ke seluruh alam. |
@@ -97,7 +97,7 @@
 | Volume | Peristiwa |
 |--------|-----------|
 | **Volume 9-10** | Gerbang Nameless (12→13). Yazha menjadi "Si Pemuda Tanpa Nama." Masuk Alam Keabadian. |
-| **Volume 10** | Konflik dengan Dewan Sumber. Menghancurkan Aula Takhta Emas. |
+| **Volume 10** | Konflik dengan Sidang Sumber. Menghancurkan Aula Takhta Emas. |
 | **Volume 11** | Konflik dengan Ordo Nama Pertama. Menolak dihapus namanya. |
 | **Volume 12** | Konflik dengan Penguasa Hampa. Mengalahkannya di Lembah Kehampaan. |
 | **Volume 13-14** | Tiga Dinding (16→17). Yazha menjadi Unbegotten. |
@@ -110,7 +110,7 @@
 |-----------|---------|-------|--------|-------------------|
 | **#0** | **The First Exception** | **Unbegotten (Lv 17)** | Di luar The Shell | **SUDAH** — netral, menguji |
 | **#1** | **Penguasa Hampa** | **Primordial Puncak (Lv 16 Puncak)** | Lembah Kehampaan | **BELUM** — terjebak 3 miliar tahun |
-| **#2** | **Dewan Sumber** (7 anggota) | Verity (Lv 15) – Primordial Awal (Lv 16) | Aula Takhta Emas | **BELUM** — monopoli akses |
+| **#2** | **Sidang Sumber** (7 anggota) | Verity (Lv 15) – Primordial Awal (Lv 16) | Aula Takhta Emas | **BELUM** — monopoli akses |
 | **#3** | **Ordo Nama Pertama** (Pemimpin) | Primordial Awal (Lv 16 Awal) | Kuil Nama | **BELUM** — puritan darah |
 | **#4** | **Penjaga Batas** | Solus (Lv 14) | Gerbang Alam Keabadian | **BELUM** — penjaga netral |
 | **#5** | **Penyair Abadi** | Verity (Lv 15) | Perpustakaan Abadi | **BELUM** — pencatat sejarah |
@@ -127,7 +127,7 @@
 | **Visual** | Bintang & nebula | Kehampaan & pulau | Realitas pikiran |
 | **Penghuni** | Klan & sekte | Domain pribadi | Entitas konseptual |
 | **Kekuatan Puncak** | Nebular Puncak (Lv 8) | Truexa Puncak (Lv 12) | Primordial Puncak (Lv 16) |
-| **Musuh Utama** | Varek Voth | Varin Astralis, Ordo | Dewan Sumber, Ordo Nama, Penguasa Hampa |
+| **Musuh Utama** | Varek Voth | Varin Astralis, Ordo | Sidang Sumber, Ordo Nama, Penguasa Hampa |
 | **Volume** | 5-7 | 7-9 | 9-14 |
 
 ---
@@ -162,7 +162,7 @@
 | **Nama Alam** | Alam Bintang, Alam Kekosongan, Alam Keabadian — tetap. |
 | **Level** | Setiap alam memiliki batas level. Jangan biarkan karakter melewati batas tanpa ujian. |
 | **Gerbang Transisi** | Api (4→5), Kesepian (8→9), Nameless (12→13), Tiga Dinding (16→17). |
-| **Entitas Step 4** | Muncul sesuai timeline: Dewan Sumber (Vol 10), Ordo Nama (Vol 11), Penguasa Hampa (Vol 12), Tiga Dinding (Vol 13-14). |
+| **Entitas Step 4** | Muncul sesuai timeline: Sidang Sumber (Vol 10), Ordo Nama (Vol 11), Penguasa Hampa (Vol 12), Tiga Dinding (Vol 13-14). |
 | **Klan Aethel** | Berasal dari Alam Bintang (Aethel Prime). Digantikan oleh Klan Voth. |
 
 ---

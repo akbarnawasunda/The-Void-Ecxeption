@@ -58,7 +58,7 @@ Ia adalah entitas tertua di alam semesta. Ia telah melihat kebangkitan dan kejat
 **Kenapa Tidak Menghalangi Yazha?**
 1. Sudah mencapai tujuan — tidak perlu membuktikan apa pun.
 2. Penasaran — selama triliunan tahun, tidak ada yang pernah mendekati Unbegotten. Yazha adalah yang pertama setelah dirinya.
-3. Filosofi "Exception" — ia melanggar aturan. Ia tidak peduli dengan aturan "hanya satu Unbegotten" karena aturan itu diciptakan oleh makhluk yang lebih rendah (Dewan Sumber).
+3. Filosofi "Exception" — ia melanggar aturan. Ia tidak peduli dengan aturan "hanya satu Unbegotten" karena aturan itu diciptakan oleh makhluk yang lebih rendah (Sidang Sumber).
 4. Ujian, bukan halangan — The First Exception menguji Yazha. Kalau Yazha layak, ia akan membiarkan Yazha lewat. Kalau tidak, Yazha akan mati di ujiannya.
 
 **Kutipan Kunci:**
@@ -102,7 +102,7 @@ Mereka mengaku "penjaga keseimbangan," tapi sebenarnya mereka adalah **perampok 
 Yazha menghancurkan Aula Takhta Emas dan membuka akses Sumber Utama untuk semua. Mereka kalah secara ideologis — takdir tidak boleh dimonopoli.
 
 **Kutipan Kunci:**
-> *"Kau tidak berhak berada di sini. Kau manusia biasa."* — Ketua Dewan Sumber.
+> *"Kau tidak berhak berada di sini. Kau manusia biasa."* — Ketua Sidang Sumber.
 > *"Aku manusia biasa. Dan aku tetap di sini. Sekarang — pindah."* — Yazha.
 
 ---
@@ -183,7 +183,7 @@ Yazha menang. **Kehilangan lebih kuat dari Kehampaan**, karena kehilangan *perna
 | **Volume Muncul** | **Volume 10 (Bab 961-1000)** |
 
 **Sejarah:**
-Penjaga Batas adalah entitas yang ditugaskan untuk **menjaga pintu masuk Alam Keabadian**. Ia tidak peduli dengan politik Dewan Sumber atau Ordo Nama Pertama. Tugasnya: memastikan hanya yang "layak" yang bisa masuk.
+Penjaga Batas adalah entitas yang ditugaskan untuk **menjaga pintu masuk Alam Keabadian**. Ia tidak peduli dengan politik Sidang Sumber atau Ordo Nama Pertama. Tugasnya: memastikan hanya yang "layak" yang bisa masuk.
 
 **Kenapa Takut ke Yazha?**
 Ia takut Yazha akan **membawa kekacauan** ke Alam Keabadian. Selama miliaran tahun, Alam Keabadian damai (karena semua orang terlalu kuat untuk bertarung). Yazha adalah anomali — ia bisa mengganggu keseimbangan.
@@ -254,7 +254,7 @@ Yazha tidak mati. Ia mencapai Unbegotten — dan Pengumpul tidak bisa mengambil 
 | Hubungan | Detail |
 |----------|--------|
 | **TFE & Penguasa Hampa** | Dua sisi dari koin yang sama. TFE berhasil, Penguasa Hampa gagal. Penguasa Hampa benci TFE, tapi TFE tidak peduli. |
-| **Dewan Sumber & Ordo Nama Pertama** | Saling membenci. Dewan Sumber menganggap Ordo Nama Pertama "kultus gila." Ordo Nama Pertama menganggap Dewan Sumber "perampok takdir." Tapi mereka akan bersatu jika Yazha mengancam kepentingan mereka. |
+| **Sidang Sumber & Ordo Nama Pertama** | Saling membenci. Sidang Sumber menganggap Ordo Nama Pertama "kultus gila." Ordo Nama Pertama menganggap Sidang Sumber "perampok takdir." Tapi mereka akan bersatu jika Yazha mengancam kepentingan mereka. |
 | **Penjaga Batas & Semua** | Netral. Tidak peduli pada politik. Hanya menjaga pintu. |
 | **Penyair Abadi & Semua** | Netral. Tapi jika sejarah terancam, ia akan campur tangan. |
 | **Pengumpul & Semua** | Tidak peduli pada politik. Ia hanya menunggu kematian. |
@@ -266,7 +266,7 @@ Yazha tidak mati. Ia mencapai Unbegotten — dan Pengumpul tidak bisa mengambil 
 | No | Entitas | Level | Peran | Sikap ke Yazha | Volume Muncul |
 |----|---------|-------|-------|----------------|---------------|
 | 1 | The First Exception | Unbegotten (Lv17) | Pengamat | Netral — penasaran | 7, 13-14 |
-| 2 | Dewan Sumber | Verity (Lv15) — Primordial Awal (Lv16) | Monopoli Sumber | Bermusuhan | 10 |
+| 2 | Sidang Sumber | Verity (Lv15) — Primordial Awal (Lv16) | Monopoli Sumber | Bermusuhan | 10 |
 | 3 | Ordo Nama Pertama | Solus (Lv14) — Verity (Lv15) | Kultus kemurnian | Bermusuhan | 11 |
 | 4 | Penguasa Hampa | Primordial Puncak (Lv16) | Sisa kegagalan TFE | Bermusuhan (iri) | 12 |
 | 5 | Penjaga Batas | Solus (Lv14) | Penjaga gerbang | Netral — waspada | 10 |
@@ -282,7 +282,7 @@ Yazha tidak mati. Ia mencapai Unbegotten — dan Pengumpul tidak bisa mengambil 
 | **Nama Alam** | Alam Keabadian (Step 4 — The Name) — tetap. |
 | **The First Exception** | Sudah Unbegotten. Netral — hanya menguji. BUKAN musuh. |
 | **Penguasa Hampa** | Adalah sisa kegagalan TFE. Ini PLOT TWIST — jangan bocorkan sebelum Volume 12. |
-| **Dewan Sumber** | Mereka adalah **buronan Lesh #7** — ini juga plot twist. Jangan bocorkan sebelum Volume 10. |
+| **Sidang Sumber** | Mereka adalah **buronan Lesh #7** — ini juga plot twist. Jangan bocorkan sebelum Volume 10. |
 | **Ordo Nama Pertama** | Mereka adalah **keturunan Veyl yang sudah berasimilasi** — bukan "murni." Ini ironi yang harus muncul di Volume 11. |
 | **Penjaga Batas** | Netral. Bukan musuh. Yazha meyakinkannya, bukan mengalahkannya. |
 | **Penyair Abadi** | Netral. Yazha mengubah cara pandangnya, bukan mengalahkannya. |

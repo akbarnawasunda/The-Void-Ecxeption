@@ -82,7 +82,7 @@
 - [ ] Apakah Yazha sudah punya Core di bab ini? (Vol 1 & awal Vol 2 = BELUM).
 
 **Absolute Secularism (Lihat `04_Absolute_Secularism.md`):**
-- [ ] Ada kata "Buku Catatan"? → GANTI dengan "buku", "catatan", "prasasti".
+- [ ] Ada frasa "buku catatan" dalam arti **umum**? → GANTI dengan "catatan", "naskah", "prasasti". **TAPI "Buku Catatan Wiadava" sebagai nama diri WAJIB dipertahankan utuh — jangan diubah.**
 - [ ] Ada kata "Hakikat" di luar konteks teknis? → GANTI dengan "esensi" atau "inti".
 - [ ] Ada kata serapan Arab (selamat, mustahil, akhlak, rizki, dll.)? → GANTI.
 - [ ] Ada nama atau identitas Arab? → GANTI.

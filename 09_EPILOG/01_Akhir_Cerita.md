@@ -1,8 +1,14 @@
 # AKHIR CERITA — YAZHA UNBEGOTTEN
 
 **SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN EPILOG – MEKANISME WAKTU, PARADOKS, & AKHIR CERITA**  
-*(STATUS: REVISI CANON TERKUNCI)*
+**BAGIAN EPILOG – MEKANISME WAKTU, PARADOKS, & AKHIR CERITA**
+
+> **⚠ STATUS V4: FILE INI ADALAH PENGLIHATAN, BUKAN KEJADIAN.**
+> Semua yang tertulis di sini adalah yang **Yazha lihat pada detik ia melompat** dari Dinding 3 —
+> proyeksi dari Aseity Anchor-nya sendiri. **Bukan timeline yang benar-benar terjadi.**
+> Yang benar-benar terjadi ada di `08_CETAK_BIRU_SEKUEL/`.
+> Lihat `00_CANON_TERKUNCI.md` §10.
+> **Jangan ditulis sebagai adegan nyata.**
 
 ---
 

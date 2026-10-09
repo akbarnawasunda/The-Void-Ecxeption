@@ -31,7 +31,7 @@
 | Aspek | Detail |
 |-------|--------|
 | **Status** | Musuh utama sepanjang cerita. |
-| **Pemimpin** | Varin Astralis (Rune-Willed Tengah, Level 9). |
+| **Pemimpin** | Varin Astralis (Realmwarp Tengah, Level 10). Usia 9.600 thn — hampir habis batas hayat Lv 10 (10.000 thn). Ini motifnya mencari Hukum Ruang. |
 | **Markas** | Astralis Prime — planet terbesar di Alam Kekosongan. |
 | **Ideologi** | Penaklukan dan kekuasaan absolut. |
 | **Peran di Cerita** | Menghancurkan Klan Aethel, membunuh Wiadava, menculik Nala, membunuh Veyla. |

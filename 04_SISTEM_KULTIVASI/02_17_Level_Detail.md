@@ -5,6 +5,12 @@
 
 ---
 
+> **⚠ PEMBARUAN V4 (9 OKTOBER 2026) — BACA INI DULU**
+> Tabel `TIMELINE PENCAPAIAN YAZHA` di bagian bawah file ini **sudah diperbaiki**.
+> Tabel v3 butuh **1.801+ bab** padahal total cerita **1.530 bab**, dan punya **range bab yang dobel**
+> (`841-960` dipakai Level 10 dan 11; `961-1080` dipakai Level 12 dan 13).
+> **Kalau ragu soal bab/level, pakai `00_CANON_TERKUNCI.md` §5 (Garis Waktu Master). Itu sumber kebenaran.**
+
 > **CATATAN:**
 > Ini adalah daftar lengkap 17 level kultivasi dalam Jalan Aseity. Setiap level memiliki 3 tingkatan: **Awal**, **Tengah**, dan **Puncak**.
 > Transisi antar level utama (4→5, 8→9, 12→13, 16→17) memiliki ujian khusus — lihat `09_Ujian_Transisi_Step.md`.
@@ -109,7 +115,7 @@
 | **Tengah** | Lubang hitam lebih stabil. Bisa digunakan dalam pertarungan. | Yazha bisa menyerap serangan musuh dengan lubang hitam mini — dan melepaskannya kembali. | *"Serangan api mendekat. Yazha membuka telapak tangannya. Lubang hitam kecil menyerap api itu. Kemudian, ia melepaskannya kembali — ke arah musuhnya."* |
 | **Puncak** | **Batas maksimal Alam Bintang.** Untuk naik ke Alam Kekosongan, harus melewati Gerbang Kesepian (8→9). | Yazha mencapai puncak kekuatan di Alam Bintang. Ia sekarang bisa menantang Varin Astralis. | *"Varin Astralis menatap Yazha. 'Kau sudah mencapai batasmu.' Yazha tersenyum. 'Batasku? Ini baru awal.'"* |
 
-**Waktu Dicapai:** Volume 7 (Bab 601-720) — setelah perang melawan Varin.
+**Waktu Dicapai:** Volume 8 (Bab 721-840) — setelah perang melawan Varin.
 
 **Transisi:** Gerbang Kesepian (8→9) — lihat `09_Ujian_Transisi_Step.md`.
 
@@ -125,7 +131,7 @@
 | **Tengah** | Tulisan rune lebih kuat dan bertahan lebih lama. Bisa mempengaruhi area seluas ruangan. | Yazha bisa "menulis" Hukum Kehilangan ke dalam realitas — membuat musuh kehilangan keinginan bertarung. | *"Yazha menulis di udara. 'Keinginan.' Musuhnya berhenti. Ia tidak tahu kenapa, tapi ia tidak ingin bertarung lagi."* |
 | **Puncak** | Bisa menulis rune yang bertahan berjam-jam. Mulai menguasai "Domain" kecil. | Yazha bisa menciptakan area kecil di mana Hukum Kehilangan adalah aturan utama. Ini adalah awal dari Domain Kehilangan. | *"Di dalam area 5 meter, semua serangan kehilangan kekuatannya. Musuh tidak bisa bergerak. Yazha berdiri di tengah, tenang."* |
 
-**Waktu Dicapai:** Volume 8 (Bab 721-840) — setelah memasuki Alam Kekosongan.
+**Waktu Dicapai:** Volume 9 (Bab 841-960) — setelah Gerbang Kesepian, memasuki Alam Kekosongan.
 
 ---
 
@@ -137,7 +143,7 @@
 | **Tengah** | Domain lebih luas dan lebih stabil. Bisa memanipulasi hukum di dalam domain. | Yazha bisa mengubah aturan di dalam Domain — misalnya, "di sini, waktu berjalan lebih lambat." | *"Di dalam Domain, semuanya bergerak lambat. Musuhnya berusaha berlari, tapi kakinya tidak bergerak. Yazha mendekat dengan tenang."* |
 | **Puncak** | Domain seukuran kota kecil. Bisa mempertahankan domain selama berjam-jam. | Yazha bisa menciptakan "wilayah Kehilangan" yang permanen — tempat di mana ia adalah penguasa absolut. | *"Seluruh medan perang adalah Domain Kehilangan. Musuh tidak bisa bertarung. Mereka tidak ingat kenapa mereka di sini."* |
 
-**Waktu Dicapai:** Volume 8 (Bab 841-960) — setelah menguasai Alam Kekosongan.
+**Waktu Dicapai:** Volume 10 (Bab 961-1080) — setelah menguasai Alam Kekosongan.
 
 ---
 
@@ -149,7 +155,7 @@
 | **Tengah** | Bisa menciptakan makhluk hidup yang lebih kompleks — tapi masih terbatas di domain. | Yazha bisa menciptakan "penjaga" di Domain — makhluk yang melindungi wilayahnya. | *"Tiga makhluk bayangan muncul di belakang Yazha. Mereka bukan manusia — tapi mereka bergerak seperti manusia. 'Jaga pintu,' kata Yazha."* |
 | **Puncak** | Dunia di dalam tubuh stabil. Bisa "menyimpan" orang lain di dalam domain. | Yazha bisa menyelamatkan teman-temannya dengan "memasukkan" mereka ke dalam Domain Kehilangan — melindungi mereka dari bahaya. | *"Bhas dan Yuna menghilang. Musuhnya bingung. 'Ke mana mereka?' Yazha tersenyum. 'Di dalam aku.'"* |
 
-**Waktu Dicapai:** Volume 9 (Bab 841-960) — setelah menguasai Domain Kehilangan.
+**Waktu Dicapai:** Volume 11 (Bab 1081-1200) — setelah menguasai Domain Kehilangan.
 
 ---
 
@@ -161,7 +167,7 @@
 | **Tengah** | Bisa memutuskan hubungan yang lebih kompleks — antara musuh dan ingatan mereka, atau musuh dan tujuan mereka. | Yazha bisa membuat musuh lupa kenapa mereka bertarung. Ini adalah efek dari Hukum Kehilangan yang sempurna. | *"Musuhnya berhenti. 'Apa... apa yang aku lakukan di sini?' Yazha tidak menjawab. Dia hanya berjalan melewati mereka."* |
 | **Puncak** | **Batas maksimal Alam Kekosongan.** Untuk naik ke Alam Keabadian, harus melewati Gerbang Nameless (12→13). | Yazha mencapai puncak kekuatan di Alam Kekosongan. Ia sekarang siap untuk menghadapi Step 4. | *"Yazha berdiri di gerbang Alam Keabadian. 'Aku sudah sampai sejauh ini. Aku tidak akan berhenti.'"* |
 
-**Waktu Dicapai:** Volume 9 (Bab 961-1080) — setelah mengalahkan Ordo Primordium.
+**Waktu Dicapai:** Volume 12 (Bab 1201-1290) — sebelum menghadapi Penguasa Hampa.
 
 **Transisi:** Gerbang Nameless (12→13) — lihat `09_Ujian_Transisi_Step.md`.
 
@@ -177,7 +183,7 @@
 | **Tengah** | Hanya keluarga dan sahabat terdekat yang masih ingat nama lo. Orang lain lupa dalam hitungan menit. | Yazha harus terus mengingatkan orang siapa dia. Ini mengganggu dan menyakitkan. | *"Kau Yazha, kan?" tanya Nala. Yazha mengangguk. Nala menghela napas. "Aku hampir lupa. Lagi."* |
 | **Puncak** | Tidak ada yang ingat nama lo. Lo menjadi "Si Pemuda Tanpa Nama" di mata semua orang. | Yazha kehilangan identitas sosialnya. Ia hanya dikenal dari tindakannya, bukan namanya. | *"Kau yang tanpa nama," kata musuhnya. "Aku tidak tahu siapa kau. Tapi aku tahu kau berbahaya."* |
 
-**Waktu Dicapai:** Volume 10 (Bab 961-1080) — setelah memasuki Alam Keabadian.
+**Waktu Dicapai:** Volume 12-13 (Bab 1291-1340) — setelah GERBANG NAMELESS (12→13).
 
 ---
 
@@ -189,7 +195,7 @@
 | **Tengah** | Lo bisa berada di beberapa tempat sekaligus, tapi hanya dalam radius terbatas. | Yazha bisa "menjadi" 3-4 versi dirinya dalam radius 100 meter. | *"Aku melihatmu," kata musuh. Yazha tertawa — dari tiga arah sekaligus. "Aku juga melihatmu."* |
 | **Puncak** | Lo bisa berada di banyak tempat sekaligus tanpa batas radius — tapi semakin banyak versi, semakin lemah masing-masing. | Yazha bisa "menyebar" dirinya ke seluruh medan perang, tapi setiap versi memiliki kekuatan yang terbagi. | *"Kau ada di mana-mana," kata musuh dengan putus asa. "Tapi mana yang asli?"* |
 
-**Waktu Dicapai:** Volume 10-11 (Bab 1081-1200) — setelah beradaptasi dengan Alam Keabadian.
+**Waktu Dicapai:** Volume 13 (Bab 1341-1370) — setelah beradaptasi dengan Alam Keabadian.
 
 ---
 
@@ -201,7 +207,7 @@
 | **Tengah** | Ucapan lo menjadi "nyata" dalam area yang lebih luas. Sulit dilawan. | Yazha bisa mengatakan "Mereka semua berhenti" dan musuh benar-benar berhenti. | *"Berhenti," kata Yazha. Semua musuh di depannya membeku. Selama 5 detik, mereka tidak bisa bergerak.* |
 | **Puncak** | Ucapan lo menjadi "nyata" hampir di mana saja — tapi hanya jika lo benar-benar meyakininya. | Yazha bisa mengatakan "Kau mati" dan musuh mati — tapi jika ia ragu, ia gagal. | *"Kau mati," kata Yazha. Musuh jatuh. Tapi Yazha gemetar — ia hampir tidak percaya itu berhasil.* |
 
-**Waktu Dicapai:** Volume 11-12 (Bab 1201-1320) — setelah menguasai Verity.
+**Waktu Dicapai:** Volume 13 (Bab 1371-1400) — setelah menguasai Verity.
 
 ---
 
@@ -213,7 +219,7 @@
 | **Tengah** | Tubuh lo stabil sebagai "bahan dasar penciptaan." Lo bisa menciptakan materi sederhana. | Yazha bisa menciptakan batu, air, atau api dari ketiadaan. Tapi tidak bisa menciptakan makhluk hidup. | *"Air," kata Yazha. Dan air muncul di tangannya. Ini bukan sihir — ini penciptaan.* |
 | **Puncak** | Lo bisa menciptakan dan menghancurkan materi — termasuk makhluk hidup sederhana. | Yazha bisa menciptakan bunga, atau membunuh makhluk kecil hanya dengan pikiran. | *"Kau tidak bisa menciptakan kehidupan," kata musuh. Yazha menciptakan burung di tangannya. "Kau yakin?"* |
 
-**Waktu Dicapai:** Volume 12-13 (Bab 1321-1440) — sebelum melawan Penguasa Hampa.
+**Waktu Dicapai:** Volume 13 (Bab 1401-1440) — sebelum DINDING 1 & 2.
 
 **Transisi:** Tiga Dinding (16→17) — lihat `10_Tiga_Dinding_Unbegotten.md`.
 
@@ -229,7 +235,7 @@
 | **Tengah** | Bisa memutar waktu di area kecil. | Yazha bisa "membalik" waktu beberapa detik — cukup untuk menghindari serangan fatal atau menyelamatkan seseorang. | *"Serangan itu seharusnya membunuh Veyla. Tapi Yazha mengangkat tangannya. Waktu berputar mundur. Veyla kembali hidup. 'Apa... apa yang kau lakukan?'"* |
 | **Puncak** | Bisa memutar waktu semesta. Bisa menciptakan realitas baru. | Yazha memutar waktu ke 17 Agustus 2087. Ia menyelamatkan keluarganya dan menciptakan realitas baru. | *"Yazha berdiri di tengah kekacauan. 'Tidak,' katanya. 'Ini bukan akhir.' Ia mengangkat tangannya. Waktu berputar. Semua kembali ke awal. Tapi kali ini, ia siap."* |
 
-**Waktu Dicapai:** Volume 14 (Bab 1441-1530) — akhir cerita.
+**Waktu Dicapai:** Volume 14 (Bab 1441-1530) — DINDING 3, akhir cerita.
 
 ---
 
@@ -295,19 +301,23 @@
 | 11-12 | 1201-1240 | 12 Awal | Truexa Awal |
 | 12 | 1241-1280 | 12 Tengah | Truexa Tengah |
 | 12 | 1281-1320 | 12 Puncak | Truexa Puncak |
-| 12-13 | 1321-1360 | 13 Awal | Nameless Awal (Gerbang Nameless) |
-| 13 | 1361-1400 | 13 Tengah | Nameless Tengah |
-| 13 | 1401-1440 | 13 Puncak | Nameless Puncak |
-| 13-14 | 1441-1480 | 14 Awal | Solus Awal |
-| 14 | 1481-1520 | 14 Tengah | Solus Tengah |
-| 14 | 1521-1560 | 14 Puncak | Solus Puncak |
-| 14 | 1561-1600 | 15 Awal | Verity Awal |
-| 14 | 1601-1640 | 15 Tengah | Verity Tengah |
-| 14 | 1641-1680 | 15 Puncak | Verity Puncak |
-| 14 | 1681-1720 | 16 Awal | Primordial Awal |
-| 14 | 1721-1760 | 16 Tengah | Primordial Tengah |
-| 14 | 1761-1800 | 16 Puncak | Primordial Puncak |
-| 14 | 1801+ | 17 | Unbegotten (Tiga Dinding) |
+| 11 | 1081-1200 | 11 | True-World |
+| 12 | 1201-1300 | 12 | Truexa |
+| 12 | 1301-1320 | 13 Awal | **GERBANG NAMELESS (12→13)** |
+| 13 | 1321-1360 | 13 | Nameless |
+| 13 | 1361-1390 | 14 | Solus |
+| 13 | 1391-1410 | 15 | Verity |
+| 13 | 1411-1420 | 16 Awal-Tengah | Primordial |
+| 13 | 1421-1440 | 16 Puncak | Primordial Puncak — **DINDING 1 (Kausalitas) & DINDING 2 (Konstanta)** |
+| 14 | 1441-1480 | 16 Puncak | **DINDING 3: LOMPATAN ORANG BODOH** |
+| 14 | 1481-1530 | 17 | **UNBEGOTTEN** |
+
+> **⚠ PERBAIKAN V4 — tabel di atas menggantikan tabel lama.**
+> Tabel lama (versi v3) salah dua hal:
+> 1. Butuh **1801+ bab** untuk mencapai Level 17 — padahal total cerita **1.530 bab**. Di bab terakhir, tabel lama bilang Yazha baru Level 14.
+> 2. Range bab dobel: `841-960` dipakai Level 10 **dan** 11; `961-1080` dipakai Level 12 **dan** 13.
+>
+> **Kenapa Vol 13 menaikkan 3 level sekaligus (13→16)?** Karena **Akselerasi Aseity** — lihat `14_Waktu_Dan_Hayat.md` §1 dan `15_Mekanika_Hukum.md` §3. Setelah Utang Niskala Yazha maksimal (Vol 12), ia nggak lagi membayar dengan waktu. Ia membayar dengan **pengikisan diri**. Makin sedikit yang tersisa dari dia, makin cepat ia naik. Vol 13 adalah volume di mana ia mulai menghilang.
 
 ---
 

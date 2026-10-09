@@ -22,7 +22,7 @@
 
 | Tempat | Deskripsi |
 |--------|-----------|
-| **Aula Takhta Emas** | Istana mengambang di pusat Alam Keabadian. Markas Dewan Sumber. |
+| **Aula Takhta Emas** | Istana mengambang di pusat Alam Keabadian. Markas Sidang Sumber. |
 | **Kuil Nama** | Kuil terbuat dari nama-nama yang dilupakan. Markas Ordo Nama Pertama. |
 | **Lembah Kehampaan** | Dimensi mini yang sepenuhnya kosong. Tempat tinggal Penguasa Hampa. |
 | **Batas Realitas** | Tepian Alam Keabadian — dari sini, bisa melihat ke bawah ke seluruh alam. |
@@ -37,7 +37,7 @@
 |-----------|---------|-------|--------|-------------------|
 | **#0** | **The First Exception** | **Unbegotten (Lv 17)** | Di luar The Shell | **SUDAH** — netral, menguji |
 | **#1** | **Penguasa Hampa** | **Primordial Puncak (Lv 16 Puncak)** | Lembah Kehampaan | **BELUM** — terjebak 3 miliar tahun |
-| **#2** | **Dewan Sumber** (7 anggota) | Verity (Lv 15) – Primordial Awal (Lv 16) | Aula Takhta Emas | **BELUM** — monopoli akses |
+| **#2** | **Sidang Sumber** (7 anggota) | Verity (Lv 15) – Primordial Awal (Lv 16) | Aula Takhta Emas | **BELUM** — monopoli akses |
 | **#3** | **Ordo Nama Pertama** (Pemimpin) | Primordial Awal (Lv 16 Awal) | Kuil Nama | **BELUM** — puritan darah |
 | **#4** | **Penjaga Batas** | Solus (Lv 14) | Gerbang Alam Keabadian | **BELUM** — penjaga netral |
 | **#5** | **Penyair Abadi** | Verity (Lv 15) | Perpustakaan Abadi | **BELUM** — pencatat sejarah |
@@ -89,7 +89,7 @@
 | **Alasan Takut ke Yazha** | Jika Yazha (manusia biasa) mencapai Unbegotten, monopoli mereka hancur — siapa pun bisa mencapai Unbegotten. Kebohongan mereka terbongkar — mereka bukan "penjaga," tapi perampok. |
 | **Ironi** | Mereka mengaku "penjaga keseimbangan," tapi sebenarnya mereka adalah **perampok takdir**. |
 | **Hasil** | Yazha menghancurkan Aula Takhta Emas dan membuka akses Sumber Utama untuk semua. Mereka kalah secara ideologis — takdir tidak boleh dimonopoli. |
-| **Kutipan Kunci** | *"Kau tidak berhak berada di sini. Kau manusia biasa."* — Ketua Dewan Sumber. <br> *"Aku manusia biasa. Dan aku tetap di sini. Sekarang — pindah."* — Yazha. |
+| **Kutipan Kunci** | *"Kau tidak berhak berada di sini. Kau manusia biasa."* — Ketua Sidang Sumber. <br> *"Aku manusia biasa. Dan aku tetap di sini. Sekarang — pindah."* — Yazha. |
 
 ---
 
@@ -158,7 +158,7 @@
 | Hubungan | Detail |
 |----------|--------|
 | **TFE & Penguasa Hampa** | Dua sisi dari koin yang sama. TFE berhasil, Penguasa Hampa gagal. Penguasa Hampa benci TFE, tapi TFE tidak peduli. |
-| **Dewan Sumber & Ordo Nama Pertama** | Saling membenci. Dewan Sumber menganggap Ordo Nama Pertama "kultus gila." Ordo Nama Pertama menganggap Dewan Sumber "perampok takdir." Tapi mereka akan bersatu jika Yazha mengancam kepentingan mereka. |
+| **Sidang Sumber & Ordo Nama Pertama** | Saling membenci. Sidang Sumber menganggap Ordo Nama Pertama "kultus gila." Ordo Nama Pertama menganggap Sidang Sumber "perampok takdir." Tapi mereka akan bersatu jika Yazha mengancam kepentingan mereka. |
 | **Penjaga Batas & Semua** | Netral. Tidak peduli pada politik. Hanya menjaga pintu. |
 | **Penyair Abadi & Semua** | Netral. Tapi jika sejarah terancam, ia akan campur tangan. |
 | **Pengumpul & Semua** | Tidak peduli pada politik. Ia hanya menunggu kematian. |
@@ -170,7 +170,7 @@
 | Entitas | Volume Muncul |
 |---------|---------------|
 | The First Exception | **7, 13-14** |
-| Dewan Sumber | **10** |
+| Sidang Sumber | **10** |
 | Ordo Nama Pertama | **11** |
 | Penguasa Hampa | **12** |
 | Penjaga Batas | **10** |
@@ -185,10 +185,10 @@
 |--------|--------|
 | **Nama Alam** | Alam Keabadian (Step 4 — The Name) — tetap. |
 | **Level** | 13 (Nameless) – 16 (Primordial). Level 17 (Unbegotten) di luar Step 4. |
-| **Entitas Step 4** | Muncul sesuai timeline: The First Exception (Vol 7, 13-14), Dewan Sumber (Vol 10), Ordo Nama Pertama (Vol 11), Penguasa Hampa (Vol 12), Penjaga Batas, Penyair Abadi, Pengumpul (Vol 10-12). |
+| **Entitas Step 4** | Muncul sesuai timeline: The First Exception (Vol 7, 13-14), Sidang Sumber (Vol 10), Ordo Nama Pertama (Vol 11), Penguasa Hampa (Vol 12), Penjaga Batas, Penyair Abadi, Pengumpul (Vol 10-12). |
 | **The First Exception** | Sudah Unbegotten. Netral — hanya menguji. BUKAN musuh. |
 | **Penguasa Hampa** | Adalah sisa kegagalan TFE. Ini PLOT TWIST — jangan bocorkan sebelum Volume 12. |
-| **Dewan Sumber** | Mereka adalah **buronan Lesh #7** — ini juga plot twist. Jangan bocorkan sebelum Volume 10. |
+| **Sidang Sumber** | Mereka adalah **buronan Lesh #7** — ini juga plot twist. Jangan bocorkan sebelum Volume 10. |
 | **Ordo Nama Pertama** | Mereka adalah **keturunan Veyl yang sudah berasimilasi** — bukan "murni." Ini ironi yang harus muncul di Volume 11. |
 | **Konsistensi** | Semua entitas ini hanya muncul di Alam Keabadian. Jangan bawa ke alam lain. |
 

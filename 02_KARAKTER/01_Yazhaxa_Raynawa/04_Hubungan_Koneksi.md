@@ -54,7 +54,7 @@
 | Nama | Level |
 |------|-------|
 | **Varek Voth** | Nebular Tengah (Lv 8). Mantan murid Wiadava. Bunuh Dhiza, culik Nala. |
-| **Varin Astralis** | Rune-Willed Tengah (Lv 9). Pemimpin Astralis Zenith. Bunuh Veyla. |
+| **Varin Astralis** | Realmwarp Tengah (Lv 10). Pemimpin Astralis Zenith. Usia 9.600 thn — hampir habis batas hayat. Bunuh Veyla. |
 | **Ordo Primordium** | Tidak diketahui. Sekte misterius. |
 | **Goliath Voth** | Tidak diketahui. Pembantai Klan Aethel. |
 

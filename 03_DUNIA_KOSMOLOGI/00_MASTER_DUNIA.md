@@ -48,7 +48,7 @@
 | 08 | `08_Alam_Bintang_Kekosongan_Keabadian.md` | Step 2, 3, 4 — level, tempat, entitas. |
 | 09 | `09_Sistem_Ekonomi.md` | Koin Kristal, Debu Essen, harga. |
 | 10 | `10_Alam_Keabadian.md` | Step 4 — level 13–16, entitas, tempat. |
-| 11 | `11_Entitas_Step_4.md` | The First Exception, Dewan Sumber, Ordo Nama Pertama, Penguasa Hampa, dll. |
+| 11 | `11_Entitas_Step_4.md` | The First Exception, Sidang Sumber, Ordo Nama Pertama, Penguasa Hampa, dll. |
 | 12 | `12_Hewan_Spiritual.md` | Makhluk energi Level 1–16. |
 | 13 | `13_Artefak_Global.md` | Barang langka yang diperjuangkan banyak orang. |
 | 14 | `14_Formasi_Array.md` | Sistem formasi energi & array. |

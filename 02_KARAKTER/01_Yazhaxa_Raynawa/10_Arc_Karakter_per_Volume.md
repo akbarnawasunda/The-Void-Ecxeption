@@ -145,7 +145,7 @@
 | Aspek | Detail |
 |-------|--------|
 | **Kondisi Mental** | Bijaksana. Mulai fokus pada tujuan akhir. |
-| **Hubungan sama Entitas Step 4** | Berhadapan dengan Dewan Sumber. |
+| **Hubungan sama Entitas Step 4** | Berhadapan dengan Sidang Sumber. |
 | **Hubungan sama Tim** | Kembali akrab. |
 | **Perubahan di Akhir** | Hancurkan Aula Takhta Emas. |
 | **Kata Kunci** | *"Aku tahu apa yang harus aku lakukan."* |

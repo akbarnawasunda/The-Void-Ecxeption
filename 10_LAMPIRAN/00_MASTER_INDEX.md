@@ -96,7 +96,7 @@
 | `06_Rantai_6_Alam_Bintang.md` | Volume 6: Klan Xa, pengkhianatan, Veylara mati. |
 | `07_Rantai_7_Klimaks_Varin.md` | Volume 7: Perang Bintang, bunuh Varin Astralis. |
 | `08_Rantai_8_Kekosongan.md` | Volume 8: Ordo Primordium, plot twist Master Misterius. |
-| `09_Rantai_9_Keabadian.md` | Volume 9-10: Alam Keabadian, Dewan Sumber, Ordo Nama Pertama. |
+| `09_Rantai_9_Keabadian.md` | Volume 9-10: Alam Keabadian, Sidang Sumber, Ordo Nama Pertama. |
 | `10_Rantai_10_Pemutaran_Waktu.md` | Volume 11-14: Penguasa Hampa, Tiga Dinding, Unbegotten. |
 
 ### 08_CETAK_BIRU_SEKUEL/

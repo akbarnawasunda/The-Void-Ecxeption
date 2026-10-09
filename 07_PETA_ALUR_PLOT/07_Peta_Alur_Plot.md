@@ -25,7 +25,7 @@
 | 7 | Vol 7 | Perang Bintang — Dendam Brutal | Yazha bunuh Varin Astralis | **MENANG** (kosong) |
 | 8 | Vol 8 | Alam Kekosongan — Ordo Primordium | Yazha bakar Buku Primordium | **MENANG** |
 | 9 | Vol 9 | Ujian Transisi — Gerbang Kesepian & Nameless | Yazha jadi "Si Pemuda Tanpa Nama" | **MENANG** (dengan harga) |
-| 10 | Vol 10 | Alam Keabadian —Kecamatan Batavia Dewan Sumber | Yazha hancurkan Aula Takhta Emas | **MENANG** |
+| 10 | Vol 10 | Alam Keabadian —Kecamatan Batavia Sidang Sumber | Yazha hancurkan Aula Takhta Emas | **MENANG** |
 | 11 | Vol 11 | Ordo Nama Pertama & Kuil Nama | Yazha tolak dihapus namanya | **MENANG** |
 | 12 | Vol 12 | Penguasa Hampa — Lembah Kehampaan | Yazha kalahkan Penguasa Hampa | **MENANG** |
 | 13 | Vol 13 | Tiga Dinding — Persiapan Unbegotten | Yazha lewati Dinding 1 & 2 | **MENANG** (dengan harga) |
@@ -108,7 +108,7 @@
 | 5.1 | Yazha masuk Alam Bintang | Sudah Nexarch Puncak | Tekanan eksistensial — hampir mati | **Dunia baru yang lebih kejam.** |
 | 5.2 | **Gerbang Api (4→5)** | Harus naik ke Level 5 | Tubuh Yazha terbakar dan diregenerasi selama 40 hari | **Ujian transisi pertama — harga fisik terbesar.** |
 | 5.3 | Yazha lacak Nala | Dapat informasi dari Roran | Nabrak Varek — pertarungan pertama — Varek lolos | **Musuh lama masih hidup.** |
-| 5.4 | Penggal Ken Volnar diserang | Yazha nyari info di wilayah musuh | Yazha hancurin pos musuh — dapet peta stasis Nala | **Kemenangan kecil, tapi musuh makin sadar.** |
+| 5.4 | Penggal Ken Voth diserang | Yazha nyari info di wilayah musuh | Yazha hancurin pos musuh — dapet peta stasis Nala | **Kemenangan kecil, tapi musuh makin sadar.** |
 | 5.5 | Goliath Voth kepung sabuk asteroid | Menangkap Yazha atas perintah Goliath Voth | Yazha hancurin stasiun logistik Voth — Goliath mulai geram | **Musuh baru dari klan pembantai Wiadava.** |
 | 5.6 | Goliath Voth dateng sendiri | Nyari balas dendam krunya | Yazha lawan Goliath — hampir mati — tapi lolos | **Pertarungan di ambang kematian.** |
 | 5.7 | Yazha temuin Nala | Di laboratorium Varek | Nala udah dikendalikan — antagonis bertemu kakaknya | **Pertemuan yang dinanti — tapi hancur.** |
@@ -137,7 +137,7 @@
 
 | Arc | Konflik | Sebab | Akibat | Faktor Greget |
 |-----|---------|-------|--------|---------------|
-| 7.1 | Yazha masuk Alam Kekosongan | Mengejar Varin | Tekanan eksistensial — nyaris mati | **Dunia yang lebih kejam dari sebelumnya.** |
+| 7.1 | Yazha menyeberang ke wilayah terluar Alam Bintang | Mengejar Varin | Tekanan eksistensial — nyaris mati | **Dunia yang lebih kejam dari sebelumnya.** |
 | 7.2 | Ketemu The First Exception | Entitas purba yang tertarik sama Yazha | Dapat petunjuk tentang Lesh #7 — tapi juga peringatan | **Ally misterius — tapi netral.** |
 | 7.3 | Yazha kumpulin 11 Lesh Putih | Butuh kekuatan buat lawan Varin | Berhasil dapet 10 — Lesh #7 di Bumi Abadi | **Perburuan harta dengan konsekuensi besar.** |
 | 7.4 | Varin bunuh sekutunya sendiri | Panik — tahu Yazha terlalu kuat | Varin sendiri di akhir — tapi dia punya rencana cadangan | **Musuh yang putus asa = paling berbahaya.** |
@@ -170,7 +170,7 @@
 | 9.4 | **Gerbang Nameless (12→13)** | Harus naik ke Level 13 | Namanya dihapus dari realitas — menjadi "Si Pemuda Tanpa Nama" | **Harga: Nala lupa namanya selama beberapa hari.** |
 | 9.5 | **KLIMAKS: Yazha memasuki Alam Keabadian** | Lewati gerbang terakhir | Bertemu Penjaga Batas — ujian masuk | **Awal dari babak terakhir.** |
 
-**Koneksi ke Rantai 10:** Yazha memasuki Alam Keabadian — menghadapi Dewan Sumber.
+**Koneksi ke Rantai 10:** Yazha memasuki Alam Keabadian — menghadapi Sidang Sumber.
 
 ---
 
@@ -180,9 +180,9 @@
 |-----|---------|-------|--------|---------------|
 | 10.1 | Penjaga Batas menguji Yazha | Ingin tahu apakah Yazha "layak" | Yazha meyakinkannya — ia tidak datang untuk berperang | *"Aku datang untuk pulang."* |
 | 10.2 | Yazha bertemu Penyair Abadi | Makhluk yang menulis sejarah | Penyair frustrasi — Yazha tidak memiliki takdir | *"Kau bukan apa-apa."* — *"Dan itu membuatku bisa menjadi apa saja."* |
-| 10.3 | Dewan Sumber menyadari kehadiran Yazha | Mereka takut kehilangan monopoli | Kirim utusan untuk "mengusir" Yazha | **Konflik terbuka.** |
-| 10.4 | Yazha melawan utusan Dewan Sumber | Tidak ada pilihan | Utusan kalah — Dewan Sumber panik | **Eskalasi.** |
-| 10.5 | **KLIMAKS: Yazha hancurkan Aula Takhta Emas** | Ingin membuka akses Sumber untuk semua | Dewan Sumber kalah — takdir tidak boleh dimonopoli | **Kemenangan ideologis.** |
+| 10.3 | Sidang Sumber menyadari kehadiran Yazha | Mereka takut kehilangan monopoli | Kirim utusan untuk "mengusir" Yazha | **Konflik terbuka.** |
+| 10.4 | Yazha melawan utusan Sidang Sumber | Tidak ada pilihan | Utusan kalah — Sidang Sumber panik | **Eskalasi.** |
+| 10.5 | **KLIMAKS: Yazha hancurkan Aula Takhta Emas** | Ingin membuka akses Sumber untuk semua | Sidang Sumber kalah — takdir tidak boleh dimonopoli | **Kemenangan ideologis.** |
 
 **Koneksi ke Rantai 11:** Ordo Nama Pertama, yang selama ini diam, mulai bergerak — mereka takut Yazha akan "mencemari" takdir Veyl.
 
@@ -252,7 +252,7 @@
 | 7 | Vol 7 | 601-720 | 5 | MENANG (kosong) | Varin Astralis |
 | 8 | Vol 8 | 721-840 | 4 | MENANG | Ordo Primordium |
 | 9 | Vol 9 | 841-960 | 5 | MENANG (dengan harga) | Ujian Transisi |
-| 10 | Vol 10 | 961-1080 | 5 | MENANG | Dewan Sumber |
+| 10 | Vol 10 | 961-1080 | 5 | MENANG | Sidang Sumber |
 | 11 | Vol 11 | 1081-1200 | 4 | MENANG | Ordo Nama Pertama |
 | 12 | Vol 12 | 1201-1320 | 4 | MENANG | Penguasa Hampa |
 | 13 | Vol 13 | 1321-1440 | 4 | MENANG (dengan harga) | Tiga Dinding (1-2) |
@@ -265,7 +265,7 @@
 
 | Revisi | Lokasi di Rantai |
 |--------|------------------|
-| **Entitas Step 4** | Rantai 10-12 (Dewan Sumber, Ordo Nama Pertama, Penguasa Hampa) |
+| **Entitas Step 4** | Rantai 10-12 (Sidang Sumber, Ordo Nama Pertama, Penguasa Hampa) |
 | **The First Exception (Unbegotten)** | Rantai 7, 13, 14 |
 | **Tiga Dinding** | Rantai 13-14 |
 | **Gerbang Transisi** | Rantai 5 (Gerbang Api), 9 (Gerbang Kesepian & Nameless), 13-14 (Tiga Dinding) |
