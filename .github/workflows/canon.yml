@@ -1,0 +1,26 @@
+name: Canon consistency
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  canon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check generated tables and plot cards
+        run: python3 scripts/render_canon.py --check
+      - name: Check the canon contract and links
+        run: python3 scripts/check_canon.py
+      - name: Check chapter continuity and reader copies
+        run: python3 scripts/render_manuscript.py --check
+      - name: Test the checker with corrupt fixtures
+        run: python3 -m unittest discover -s tests -v
+      - name: Check whitespace
+        run: git diff --check HEAD^ HEAD

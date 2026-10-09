@@ -1,58 +1,19 @@
-# ARTEFAK GLOBAL
+# ARTEFAK GLOBAL — HAK PAKAI, BUKAN PEMILIK PILIHAN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN DUNIA – BARANG LANGKA YANG DIPERJUANGKAN BANYAK ORANG**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Kelas benda
 
-## DAFTAR ARTEFAK GLOBAL
+- **Perkakas:** senjata, pengukur, pendingin; memakai bahan dan dapat rusak.
+- **Relik:** perkakas tua dengan model yang belum lengkap; bukan lebih kuat tanpa batas.
+- **Infrastruktur:** gerbang, reservoir, Lesh Putih; penanggung jawab dan hak sipil tidak bisa diganti oleh siapa paling kuat.
+- **Arsip:** data/catatan; sumber dapat keliru, penyalinan menyelamatkan bukti tanpa memindahkan pribadi.
 
-| Nama | Jenis | Lokasi | Status | Keterangan |
-|------|-------|--------|--------|------------|
-| **Kamus Asal (Asli)** | Buku Catatan | Reruntuhan Halimun, Bumi Fana | Dimiliki Yazha | Satu-satunya yang bisa dibaca tanpa Rejection Burn oleh Yazha. |
-| **Kamus Asal (Salinan)** | Buku Catatan | Beredar di Alam Fana | Banyak salinan | Tidak lengkap — cuma simbol dasar. |
-| **Tombak Naga Emas** | Senjata | Planet Veyra | Hilang | Senjata legendaris Klan Xa — konon bisa menembus ruang. |
-| **Baju Zirah Bintang** | Armor | Alam Bintang | Diperebutkan | Bisa menahan serangan Level 7 ke bawah. |
-| **Cincin Penyimpan Dimensi (Besar)** | Artefak | Alam Bintang | Langka | Bisa menyimpan benda seukuran gunung. |
-| **Jimat Teleportasi** | Artefak | Alam Fana | Mahal | Sekali pakai — teleport ke lokasi acak. |
-| **Pedang Pembunuh Naga** | Senjata | Alam Kekosongan | Legenda | Konon bisa membunuh Dragon Garu — tapi belum terbukti. |
+Rejection Burn berasal overload, kunci fase salah, atau perintah yang memerlukan energi lebih dari tersedia. Kunci tidak membaca niat moral. Pencuri yang belajar manual dapat mengoperasikan alat; ini alasan keamanan membutuhkan orang, prosedur, dan pengawasan.
 
----
+Buku Primordium sebagai istilah populer dapat berarti terminal Lesh #6 atau salinan ledger. Penulis selalu menyatakan mana yang dihancurkan. V8 salinan berkas sebagian terbakar; inti node tidak dipindah atau dibakar. Mandatnya diperoleh V10 setelah bukti diselamatkan.
 
-## PERUBAHAN DARI DRAFT LAMA
+Nama Pertama mengatur alamat, bukan memakan nama semua orang. Benih Terakhir memulihkan konfigurasi jaringan, bukan me-reset sejarah. Hati Astralis memeriksa mandat, bukan mengenali jiwa protagonis. Salah mendeskripsikan nama puitik sebagai kemampuan absolut membocorkan sistem.
 
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Kamus Asal (Asli)** | Kitab Ascendant Kuno (Asli) — Gua Lembang | **Kamus Asal (Asli)** — Reruntuhan Halimun |
-| **Kamus Asal (Salinan)** | Kitab Ascendant Kuno (Salinan) | **Kamus Asal (Salinan)** |
-| **Tombak Naga Emas** | Tetap | Tetap |
-| **Baju Zirah Bintang** | Tetap | Tetap |
-| **Cincin Penyimpan Dimensi** | Tetap | Tetap |
-| **Jimat Teleportasi** | Tetap | Tetap |
-| **Pedang Pembunuh Naga** | Tetap | Tetap |
-
----
-
-## KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Kamus Asal... satu-satunya yang bisa membacanya tanpa terbakar adalah Yazha. Ini bukan kebetulan."* | Master Misterius, tentang Kamus Asal. |
-| *"Tombak Naga Emas... senjata yang bisa menembus ruang. Klanku menyimpannya selama ribuan tahun. Dan sekarang hilang."* | Veyla, tentang Tombak Naga Emas. |
-| *"Pedang Pembunuh Naga... legenda. Tapi legenda tidak selalu bohong."* | Wiadava, tentang Pedang Pembunuh Naga. |
-
----
-
-## ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Kamus Asal** | Artefak utama — dimiliki Yazha. Jangan buat artefak lain lebih penting. |
-| **Tombak Naga Emas** | Bisa muncul sebagai plot point di arc Veyla (Volume 6). |
-| **Pedang Pembunuh Naga** | Hanya legenda — tidak perlu muncul kecuali di arc akhir. |
-| **Artefak Langka** | Jangan terlalu banyak artefak global — 7 sudah cukup. |
-| **Konsistensi** | Nama dan lokasi artefak harus konsisten di seluruh cerita. |
-
----
-
-**— END OF FILE —**
+Setiap benda baru perlu asal, pemasang, harga, kegunaan, batas, cara dirawat, dan kemungkinan kehilangan. Jangan memperkenalkan senjata hanya satu adegan sebelum mengatasi konflik yang sebelumnya tidak punya solusi.

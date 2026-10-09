@@ -1,211 +1,37 @@
-# PENDUKUNG LAINNYA
+# PENDUKUNG — KEAHLIAN DAN HIDUP YANG PUNYA BOBOT
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN KARAKTER – TIM PENDUKUNG (TAMBAHAN)**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Guru dan pekerja
 
-## 1. REKTOR UNIVERSITAS PILAR PUTIH — ARCHON VALIANT
+| Orang | Kondisi saat V3 | Kehendak dan batas | Kontribusi |
+| --- | --- | --- | --- |
+| Archon Valiant | Lv6 asli, keluaran 4; umur 460 | Melindungi lembaga tanpa menutup pelanggarannya | Kesaksian, beasiswa beraturan, audit hadiah |
+| Profesor Eldric | Lv5 asli, keluaran 4; umur 195 | Ingin model dapat dikoreksi murid | Membantu membaca kesalahan takaran/medan |
+| Mira Voss | Lv5 asli, keluaran 4; umur 150 | Mengajar keselamatan, bukan memaksa sakit | Menyusun drill dan menolak percobaan belum aman |
+| Bastian Zuyu | Lv3, umur 46 | Farmasi mesti memberi makan pekerja dan merawat warga | Pekerjaan, bahan terukur, teguran moral; penataan lanjut dilakukan kelak melalui kerja publik |
+| Broki Nori | Lv5 asli, keluaran 4; umur 190 | Alat harus pulang bersama pemakai, menolak desain tidak aman | Sarung tangan dibayar kerja/bahan, perawatan |
+| Elowen | Pengelola Sekte Tulis | Pengetahuan bisa membahayakan tetapi penutupan juga | Salinan manual dengan sumber dan tanggung jawab |
+| Tua Beng | Lv1, umur 56 pertama V3 | Menjaga jalur uang sekaligus keluarga | Perantara Moxi; menyerahkan log, menerima akibat keterlibatan |
+| Pemburu Tua | Lv2, umur 52 pada awal V2 | Hidup secukupnya dan mengajar batas | Perangkap, bahan yang dapat dipanen tanpa membunuh, rujukan Ilyan |
 
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Archon Valiant |
-| **Panggilan** | Rektor Valiant, Yang Mulia |
-| **Jenis Kelamin** | Laki-laki |
-| **Subspesies** | Human-Crystal |
-| **Usia** | 800+ tahun (tampak 50-an) |
-| **Tinggi** | 185 cm |
-| **Level** | Nexarch Puncak (Level 4 Puncak) — batas Alam Fana |
-| **Status** | Hidup |
-| **Asal** | Bumi Abadi, Zona 2 |
+Usia menyatakan biologis lokal, bukan kalender luar. Valiant/Eldric/Mira tidak berusia melampaui batas level 4 lalu diabaikan. Keluaran 4 karena clamp, level asli menyokong hayatnya. Tua Beng tidak manusia Lv0 umur 150 yang hidup tanpa penjelasan; ia menua dan akhirnya meninggal alami dalam masa V8, bukan bantuan abadi.
 
-**Penampilan:**
-Pria tua berjubah putih dengan rambut perak pendek, mata biru tua yang tajam, dan wajah penuh kerutan bijaksana. Selalu membawa tongkat kayu hitam (bukan artefak—hanya tongkat biasa).
+Pemburu Tua **tidak dibunuh Sekte Bayang** di V2 untuk memasok dendam. Ia terluka dan diselamatkan; berkirim catatan, sakit paru, meninggal V8. Ia pernah punya keluarga dan masih memiliki tetangga. Yazha kehilangan kesempatan kunjungan biasa, bukan memperoleh jurus pengganti.
 
-**Kepribadian:**
-Tenang, bijaksana, adil. Ia adalah pemimpin yang tidak banyak bicara, tapi setiap katanya berbobot. Ia tidak memihak siapa pun—tapi ia juga tidak tinggal diam saat ketidakadilan terjadi.
+## Adegan kecil
 
-**Hubungan dengan Yazha:**
-- Awalnya: hanya melihat Yazha sebagai mahasiswa biasa dari Bumi Fana.
-- Setelah Grand Tournament: mulai memperhatikan.
-- Saat Yazha diancam dikeluarkan: ia memberikan kesaksian yang menyelamatkan Yazha.
+Bastian memotong upah untuk bahan yang terbakar tetapi tetap memberi makan. Broki menolak membuat pegangan lebih berat daripada bahu pemakai. Mira marah karena latihan berbahaya, lalu menyampaikan batas tanpa mempermalukan murid. Valiant mengizinkan bukti yang merugikan universitas sendiri. Tak satu pun memuji ketiadaan bakat sebagai hak moral atas dunia.
 
-**Kutipan Kunci:**
-> *"Kau bukan anak berbakat. Kau hanya anak yang tidak pernah menyerah. Itu lebih berharga dari semua bakat di dunia ini."*
+## Nama yang jangan tertukar
 
----
+Kaelan Di mahasiswa. Kaelen Whisperwind tahanan. **Keran Vale** juru catat Ordo. Kurogane klan bengkel; Nori nama keluarga Broki. Elowen bukan pemegang Lesh yang harus memberikan seluruh ilmu pada anak baru ditemui.
 
-## 2. DOSEN/INSTRUKTUR DI UNIVERSITAS
+## Maera Rell — tenaga medis Ciyasa/Halimun
 
-### 2.1 Profesor Eldric — Instruktur Teori Kultivasi
+Perempuan Human-Standard, usia 41 pada epoch 2084, Level 0. Dokter layanan yang dipakai keluarga Dewantara, mendampingi penolong publik setelah penemuan pasien Halimun. Ia terlatih pada perawatan/perangkat, bukan memiliki semua Hukum atau pangkat spiritual tinggi.
 
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Eldric |
-| **Panggilan** | Profesor Eldric |
-| **Jenis Kelamin** | Laki-laki |
-| **Subspesies** | Human-Standard |
-| **Usia** | 200+ tahun (tampak 40-an) |
-| **Level** | Nexarch Awal (Level 4 Awal) |
-| **Status** | Hidup |
-| **Peran** | Mengajar teori kultivasi dasar di Universitas Pilar Putih |
+Ia membedakan bantuan medis yang bisa diukur dari penyangga yang belum dikenal. Tidak memberi anak tugas penjaga pasien atau hak menjanjikan dana/mengambil benda. Ia dapat lelah, belum tahu jawaban, dan meminta bantuan teknis. Tidak menyembuhkan Wiadava secara instan atau memberikan seluruh pengetahuan kosmos.
 
-**Kepribadian:**
-Sabtu, sedikit pelupa, tapi sangat berpengetahuan. Ia adalah tipe guru yang tidak memberikan jawaban—ia memberikan pertanyaan yang membuat muridnya menemukan jawabannya sendiri.
-
-**Hubungan dengan Yazha:**
-Eldric adalah orang pertama yang menyadari bahwa Yazha memiliki "pengetahuan praktis" yang tidak diajarkan di buku. Ia penasaran—tapi tidak pernah menekan Yazha untuk menjelaskan.
-
-**Kutipan Kunci:**
-> *"Kau tahu, Yazha... kebanyakan murid datang ke sini untuk belajar. Tapi kau sudah belajar sebelum datang. Pertanyaannya: dari mana?"*
-
----
-
-### 2.2 Instruktur Mira — Instruktur Pertarungan Praktis
-
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Mira Voss |
-| **Panggilan** | Instruktur Mira |
-| **Jenis Kelamin** | Perempuan |
-| **Subspesies** | Human-Crystal |
-| **Usia** | 150+ tahun (tampak 30-an) |
-| **Level** | Starborn Puncak (Level 3 Puncak) |
-| **Status** | Hidup |
-| **Peran** | Mengajar pertarungan praktis di Universitas Pilar Putih |
-
-**Penampilan:**
-Perempuan berambut pendek pirang, tubuh atletis, selalu mengenakan armor ringan. Ada bekas luka di pipi kanan—kenangan dari misi di Zona 4.
-
-**Kepribadian:**
-Tegas, disiplin, dan tidak mentolerir kelemahan. Tapi ia menghormati mereka yang berusaha keras—bahkan jika mereka tidak berbakat.
-
-**Hubungan dengan Yazha:**
-Awalnya ia menganggap Yazha "terlalu kurus" dan "tidak siap." Tapi setelah melihat Yazha berlatih tanpa henti, ia berubah. Ia menjadi salah satu pendukung terbesar Yazha di universitas.
-
-**Kutipan Kunci:**
-> *"Kau tidak berbakat. Kau tidak kuat. Kau tidak istimewa. Tapi kau tidak menyerah. Itu lebih dari cukup."*
-
----
-
-## 3. PEDAGANG DI KOTA ARUS
-
-### 3.1 Tua Beng — Perantara Moxi
-
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Tua Beng |
-| **Panggilan** | Tua Beng |
-| **Jenis Kelamin** | Laki-laki |
-| **Subspesies** | Human-Standard |
-| **Usia** | 60+ tahun |
-| **Level** | Manusia biasa |
-| **Status** | Hidup |
-| **Peran** | Pemilik kedai kecil di pasar gelap Kota Arus—satu-satunya perantara Moxi |
-
-**Penampilan:**
-Kakek tua dengan rambut putih tipis, kumis tebal, dan mata sipit yang selalu tampak mengantuk. Pakaian lusuh—ia sengaja terlihat tidak penting.
-
-**Kepribadian:**
-Cerdik, pelit, tapi setia pada mereka yang dihormatinya. Ia tidak pernah bertanya—ia hanya menerima pesan dan meneruskannya.
-
-**Hubungan dengan Yazha:**
-Tua Beng adalah satu-satunya orang yang tahu identitas Moxi. Ia tidak pernah mengungkapkannya. Ia hanya berkata: *"Aku tidak peduli siapa kau. Aku peduli kau membayar."*
-
-**Kutipan Kunci:**
-> *"Kau aneh, Bocah. Tapi kau konsisten. Aku suka itu."*
-
----
-
-## 4. PEMIMPIN SEKTE BAYANG (YANG LOLOS)
-
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Voth (Elder Voth) — sudah mati di Zona 5. Pemimpin sebenarnya adalah **Grand Elder Malachar**. |
-| **Nama Lengkap** | Malachar Vex |
-| **Panggilan** | Grand Elder Malachar |
-| **Jenis Kelamin** | Laki-laki |
-| **Subspesies** | Human-Horned |
-| **Usia** | 500+ tahun |
-| **Level** | Starborn Puncak (Level 3 Puncak) |
-| **Status** | Hidup (lolos dari kehancuran Sekte Bayang Pusat) |
-| **Asal** | Bumi Abadi, Zona 3 |
-
-**Sejarah:**
-Malachar adalah pemimpin Sekte Bayang Pusat. Setelah Yazha menghancurkan markas mereka, ia lolos dan bersembunyi di Alam Bintang. Ia berencana untuk kembali—dan membalas dendam pada Yazha.
-
-**Kepribadian:**
-Kejam, licik, dan sabar. Ia tidak marah pada Yazha—ia hanya melihat Yazha sebagai "musuh yang harus dihancurkan."
-
-**Kutipan Kunci:**
-> *"Kau hancurkan hidupku, Bocah. Aku akan menunggumu. Di tempat yang tidak pernah kau duga."*
-
----
-
-## 5. PEMBURU TUA (ZONA 4)
-
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Tidak diketahui—hanya dikenal sebagai "Pemburu Tua" |
-| **Jenis Kelamin** | Laki-laki |
-| **Subspesies** | Human-Standard |
-| **Usia** | 70+ tahun |
-| **Level** | Voidskin Puncak (Level 1 Puncak) |
-| **Status** | Mati (dibunuh Sekte Bayang) |
-| **Asal** | Bumi Abadi, Zona 4 |
-
-**Penampilan:**
-Kakek tua dengan kulit keriput, rambut putih panjang, dan mata yang masih tajam. Pakaian kulit hewan—ia hidup di hutan sepanjang hidupnya.
-
-**Kepribadian:**
-Keras, pendiam, tapi baik hati pada mereka yang mau belajar. Ia mengajari Yazha cara bertahan hidup—bukan cara bertarung.
-
-**Hubungan dengan Yazha:**
-Pemburu Tua adalah mentor sementara Yazha di Zona 4. Ia mengajari Yazha cara berburu, cara melacak, dan cara bertahan hidup tanpa mengandalkan kekuatan.
-
-**Kematian:**
-Ia dibunuh oleh Sekte Bayang karena menyembunyikan Yazha. Kematiannya adalah pemicu kebencian Yazha pada Sekte Bayang.
-
-**Kutipan Kunci:**
-> *"Di hutan ini, kau tidak butuh kekuatan. Kau butuh akal. Dan kau—kau punya akal, Bocah."*
-
----
-
-## 6. KARAKTER MATI YANG PENTING
-
-### 6.1 Lyra Aethel (Adik Wiadava)
-
-| Atribut | Detail |
-|---------|--------|
-| **Nama** | Lyra Aethel |
-| **Jenis Kelamin** | Perempuan |
-| **Usia** | Meninggal saat masih kecil |
-| **Status** | Mati (jatuh ke sumur, 10.000 tahun lalu) |
-| **Peran** | Motif utama Wiadava |
-
-**Kepribadian:**
-Anak kecil yang ceria dan polos. Ia sangat dekat dengan Wiadava—dan kematiannya adalah luka yang tidak pernah sembuh.
-
-**Kutipan Kunci:**
-> *"Kakak... jangan pergi."* — Kata-kata terakhir Lyra kepada Wiadava.
-
-**Efek pada Plot:**
-Wiadava menyimpan pita rambut Lyra di sakunya hingga hari kematiannya. Ini adalah simbol bahwa ia tidak pernah bisa move on.
-
----
-
-## 7. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Tua Beng** | Satu-satunya yang tahu identitas Moxi. Jangan pernah tulis dia mengkhianati Yazha. |
-| **Pemburu Tua** | Mati di Volume 2. Kematiannya adalah pemicu kebencian Yazha pada Sekte Bayang. |
-| **Rektor Valiant** | Muncul di Volume 3-4. Memberi kesaksian yang menyelamatkan Yazha. |
-| **Profesor Eldric** | Muncul di Volume 3. Orang pertama yang sadar Yazha sudah "belajar" sebelum datang. |
-| **Instruktur Mira** | Muncul di Volume 3-4. Awalnya meremehkan Yazha, lalu jadi pendukung. |
-| **Grand Elder Malachar** | Lolos di Volume 3. Bisa muncul kembali di sekuel. |
-| **Lyra Aethel** | Hanya disebut dalam kenangan Wiadava. Tidak muncul secara langsung. |
-
----
-
-**— END OF FILE —**
+Debut dalam draf bab 005. Nama/umur pasien belum diketahui anak pada arc pembuka; identitas penulis tetap Aethel Wiadava. [Catatan draf](../12_NASKAH_UTAMA/02_Catatan_Arc_Pembuka.md) menyimpan rincian N02 dan batas penggunaannya.

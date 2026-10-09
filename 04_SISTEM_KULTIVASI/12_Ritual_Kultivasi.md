@@ -1,103 +1,28 @@
-# RITUAL KULTIVASI — JALAN ASEITY
+# PRAKTIK KULTIVASI — LATIHAN, PERAWATAN, DAN PENGETAHUAN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN SISTEM – PANDUAN ADEGAN KULTIVASI**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+“Ritual” adalah kebiasaan teknik, bukan pemujaan. Sesi memiliki tujuan, takaran, alat ukur, orang yang dapat menghentikan, dan waktu pulih.
 
-## 1. POSISI DASAR
+## Satu sesi yang dapat ditulis
 
-| Elemen | Detail |
-|--------|--------|
-| **Posisi** | Duduk bersila. Punggung tegak. Tangan di atas lutut, telapak menghadap ke atas. |
-| **Mata** | Tertutup. |
-| **Lokasi** | Idealnya tempat sunyi dengan kadar Essen tinggi. Tapi Yazha sering kultivasi di tempat seadanya: kamar sempit, dasar gua, hutan. |
+1. Periksa makanan, suhu tubuh, denyut, dan cedera; tidak cukup hanya duduk bersila.
+2. Tetapkan satu pertanyaan: misalnya kenapa buffer Tahan lebih panas setelah tiga langkah.
+3. Siapkan bahan Essen, pendingin, penanda, dan jalur pemutus.
+4. Ukur keadaan awal. Uji dosis kecil. Catat juga hasil yang tidak berubah.
+5. Ulang setelah istirahat. Ganti satu variabel saja agar tahu yang membantu.
+6. Setelah batas Niskala tercapai, hentikan. Orang yang berhenti mencegah kerusakan sedang belajar.
+7. Rawat luka dan koreksi model sebelum uji berikutnya.
 
----
+## Teknik napas
 
-## 2. SIKLUS NAPAS
+Napas menjaga pengukuran dan pemulihan; bukan cukup bernapas maka energi alam muncul. Nala menirukan kakaknya di V1 sebagai permainan, tidak memperoleh resonansi unik yang memberinya akses alam tinggi. Wiadava mengirim pulsa sangat kecil dari persediaannya; Yazha tidak menarik sumber Bumi yang tidak ada.
 
-**Rasio 7-3-7 (Mengikuti 7 Jalur Void)**
+## Ketika latihan salah
 
-| Fase | Durasi | Apa yang Terjadi |
-|------|--------|------------------|
-| **Tarik** | 7 hitungan | Menarik energi dari lingkungan masuk ke tubuh. |
-| **Tahan** | 3 hitungan | Menahan energi di Pusat (ulu hati), biarkan meresap. |
-| **Hembus** | 7 hitungan | Mengalirkan energi ke seluruh tubuh, buang sisa kotor. |
+Sesudah pingsan, harus ada orang yang menemukan, makanan yang tidak dapat dimakan sendiri, biaya obat, dan waktu yang hilang. Jangan jadikan pingsan tombol skip ke kemenangan. Perubahan metode lebih menarik daripada menaikkan jumlah kegagalan.
 
-Satu siklus penuh = 17 detik. Pengulangan terus-menerus selama sesi.
+## Perjalanan panjang
 
----
-
-## 3. RUTE ENERGI (JALUR UTAMA)
-
-```
-Energi masuk lewat ubun-ubun (Mahkota)
-    ↓
-Turun ke dada (Pusat) — tempat energi disimpan
-    ↓
-Menyebar ke 7 Jalur Void:
-    Pusat → kaki (Akar)
-    Pusat → kepala (Mahkota)
-    Pusat → tangan kanan (Aksi)
-    Pusat → tangan kiri (Tahan)
-    Pusat → punggung (Pilar)
-    Pusat → perut (Pusat)
-    Pusat → semua arah (Seluruh)
-    ↓
-Kembali ke Pusat — siklus selesai
-```
-
-**Catatan:** Sebelum Core buatan (Vol 1-2 Awal), energi tidak bisa "disimpan"—hanya mengalir dan langsung dipakai. Setelah Core buatan, energi bisa disimpan untuk nanti.
-
----
-
-## 4. SENSASI FISIK PER LEVEL
-
-| Level | Sensasi | Efek Samping |
-|-------|---------|--------------|
-| **0** (Manusia Biasa) | Dingin menusuk. Sakit kepala. | Mimisan, pusing, kadang muntah. |
-| **1** (Voidskin) | Dingin berkurang. Kulit merinding. | Mimisan ringan. Sakit kepala. |
-| **2** (Bloodboon) | Hangat mulai terasa. Aliran energi lebih lancar. | Pusing ringan setelah sesi panjang. |
-| **3** (Starborn) | Hangat stabil. Energi terasa seperti air mengalir. | Jarang ada efek samping. |
-| **4** (Nexarch) | Energi terasa seperti listrik halus. Seluruh tubuh bergetar pelan. | Nyeri sendi setelah sesi ekstrem. |
-| **5-8** (Alam Bintang) | Energi menyatu dengan tubuh. Tidak ada sensasi ekstrem. | Hanya lelah mental. |
-| **9+** | Tidak ada sensasi fisik. Hanya kesadaran yang meluas. | Tidak ada efek samping. |
-
----
-
-## 5. DURASI SESI
-
-| Jenis Sesi | Durasi | Tujuan | Risiko |
-|------------|--------|--------|--------|
-| **Ringan** | 30 menit | Pemulihan energi harian. | Hampir tidak ada. |
-| **Normal** | 2-3 jam | Peningkatan bertahap. | Lelah fisik dan mental. |
-| **Ekstrem** | 6-12 jam | Terobosan level atau Jalur baru. | **Sangat berbahaya.** Risiko: mimisan berat, pingsan, kerusakan meridian. |
-
-**Catatan untuk Yazha (Vol 1-2):** Tanpa Core, sesi "normal" bagi Yazha sudah terasa seperti sesi "ekstrem" bagi kultivator biasa.
-
----
-
-## 6. RISIKO GANGGUAN
-
-| Gangguan | Efek |
-|----------|------|
-| **Suara keras tiba-tiba** | Energi berbalik → pusing, mual. |
-| **Digoyang fisik** | Energi berbalik → mimisan, muntah darah. |
-| **Serangan saat kultivasi** | **Sangat berbahaya.** Energi berbalik total → luka dalam, bisa mati. |
-| **Gangguan di Level 5+** | Bisa menahan gangguan, tapi tetap terasa sakit. |
-
----
-
-## 7. CATATAN UNTUK PENULISAN
-
-| Aturan | Detail |
-|--------|--------|
-| **Jangan tulis full sesi** | Cukup tunjukkin awal (Yazha duduk, atur napas) dan akhir (hasilnya). Kecuali sesi penting—terobosan, pertama kali berhasil, dll. |
-| **Variasikan lokasi** | Yazha kultivasi di kamar, gua, hutan, atap rumah. Ini bikin adegan kultivasi tidak repetitif. |
-| **Tunjukkan harga fisik** | Setiap kali Yazha selesai kultivasi, tunjukkin efeknya: darah di hidung, tangan gemetar, keringat dingin. |
-| **Gunakan suara lingkungan** | Suara jangkrik, angin, hujan, atau langkah kaki bisa jadi pengiring adegan kultivasi. |
-
----
-
-**— END OF FILE —**
+Tulis satu percobaan yang penting, bukan daftar ratusan tahun. Satu variabel, satu kegagalan yang berakibat, satu koreksi, satu saksi. Setelah time-skip, perlihatkan perubahan pada hubungan/lokasi dan cek ledger jam.

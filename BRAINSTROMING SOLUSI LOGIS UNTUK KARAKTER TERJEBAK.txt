@@ -1,39 +1,28 @@
-Aku sedang menulis novel Dark Xianxia, "The Void's Exception". Karakterku saat ini terjebak dalam situasi sulit. Bantu aku brainstorming tindakan logis yang bisa dia ambil.
+CANON V5 — TEMPLATE SOLUSI ADEGAN THE VOID’S EXCEPTION
 
-[IDENTITAS KARAKTER]
-- Nama: [isi]
-- Usia: [isi]
-- Level Kultivasi: [isi, tulis "Manusia Biasa" jika belum kultivasi]
-- Hukum Elemental yang Dikuasai: [isi, tulis "Tidak ada" jika belum]
-- Hukum Konseptual yang Dikuasai: [isi, tulis "Tidak ada" jika belum]
-- Teknik Spesial yang Dimiliki: [isi, tulis "Tidak ada" jika belum]
-- Senjata/Artefak yang Dibawa: [isi, tulis "Tidak ada" jika belum]
-- Kepribadian Singkat: [isi, misal: pendiam dan analitis, atau nekat dan impulsif]
+Baca 00_CANON_TERKUNCI.md dan keadaan pada 00_DATA_KANON.json.
 
-[SITUASI SAAT INI]
-[Deskripsikan tempat, kondisi, dan bahaya yang ada. Contoh: "Terjebak di reruntuhan kuil bawah tanah setelah ledakan. Atapnya runtuh, menutup jalan keluar. Udara semakin tipis. Ada mayat musuh di dekatnya."]
+KARAKTER: nama, usia lokal, level asli/efektif, tubuh/proyeksi, POV, keinginan konkret.
+SITUASI: bab, tempat/jam, rute keluar yang diketahui, pihak lain dan kehendaknya.
+KEADAAN: sisa energi dari kapasitas penuh, Niskala, cedera, kemampuan yang tidak dapat dipakai.
+SUMBER: bahan, alat, pemutus, operator, saksi, pengetahuan yang sudah dipelajari.
+BATAS: radius, durasi, cooldown, resistansi, endpoint, izin/persetujuan, waktu sebelum bahaya.
+TUJUAN: hasil terukur yang ingin diperoleh, bukan hanya menang.
 
-[KONDISI FISIK]
-[Deskripsikan luka, kelelahan, atau batasan fisik. Contoh: "Lengan kiri patah. Darah merembes dari perut. Pandangan mulai kabur. Energi tinggal 20%."]
+BERIKAN TIGA OPSI, dari aman ke berisiko. Untuk tiap opsi:
+1. Langkah dan siapa mengerjakan.
+2. Sumber pengetahuan dan bahan.
+3. Biaya energi/Niskala/waktu serta kemungkinan gagal.
+4. Orang yang menanggung harga dan hak menolak.
+5. Akibat fisik, hubungan, hukum, dan pekerjaan sesudahnya.
+6. Mengapa opsi rasional lain belum cukup.
 
-[SUMBER DAYA YANG TERSEDIA]
-[Deskripsikan apa yang ada di sekitar yang bisa dipakai. Contoh: "Pedang Iblis Bintang (terlalu berat untuk diangkat dengan satu tangan). Serpihan batu dari atap yang runtuh. Mayat musuh dengan jubah anti-api. Suara air dari kejauhan."]
+PILIH satu yang cocok dengan kelemahan/perubahan karakter. Jangan gunakan suara penentu,
+barang mendadak, teringat solusi yang belum ditanam, pengalaman sakit sebagai jawaban,
+kemampuan melompati tiga level, atau penghapusan kata abstrak sebagai kemenangan.
+Jangan menyelamatkan semua pihak dengan menghapus harga. Jangan membuat harga acak
+pada keluarga. Kematian tidak memberi level, stasis tidak memberi latihan,
+Lesh Putih tidak dicetak, dan anak penglihatan tidak menjadi fakta aktual.
 
-[TARGET]
-[Deskripsikan tujuan spesifik. Contoh: "Keluar dari kuil dan mencapai permukaan sebelum udara habis."]
-
-[ATURAN WAJIB]
-1. JANGAN berikan solusi magis yang tidak sesuai dengan level karakter saat ini.
-2. JANGAN gunakan "tiba-tiba teringat sesuatu" atau "kebetulan ada sesuatu yang menyelamatkannya."
-3. JANGAN gunakan "suara misterius" atau "bisikan" yang membimbingnya, kecuali karakter memiliki koneksi spesifik dengan entitas tertentu (sebutkan jika ada).
-4. HARUS logis dan mempertimbangkan keterbatasan fisik karakter saat ini.
-5. HARUS memanfaatkan sumber daya yang tersedia, sekecil apa pun.
-6. HARUS mempertimbangkan psikologi karakter sesuai kepribadiannya.
-7. Jika karakter memiliki Hukum Konseptual, solusi BOLEH melibatkan penggunaan Hukum tersebut, tapi harus ada harga fisik yang dibayar.
-
-[TOLONG BERIKAN]
-1. **3 opsi solusi logis**, dari yang paling aman sampai yang paling nekat.
-2. **Untuk setiap opsi**, jelaskan langkah demi langkah.
-3. **Untuk setiap opsi**, jelaskan risiko dan kemungkinan gagalnya.
-4. **Untuk setiap opsi**, jelaskan harga fisik atau psikologis yang harus dibayar.
-5. **Pilih satu opsi terbaik**, dan jelaskan kenapa opsi itu yang paling cocok untuk karakter ini.
+Tulis kartu keadaan sebelum/sesudah. Jika belum ada solusi dalam sumber yang tersedia,
+biarkan karakter menunda, meminta bantuan, kehilangan sasaran tertentu, atau gagal.

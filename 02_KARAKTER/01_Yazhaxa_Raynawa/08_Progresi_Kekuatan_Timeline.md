@@ -1,110 +1,76 @@
-# PROGRESI KEKUATAN & TIMELINE YAZHA (14 VOLUME)
+# PROGRESI YAZHA — BAB, JAM, DAN KEMAMPUAN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN KARAKTER – PROGRESI KEKUATAN & PEROLEHAN TEKNIK**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../../00_CANON_TERKUNCI.md).
 
----
+<!-- BEGIN CANON:volumes -->
+| Vol | Bab | Lokasi Yazha | Level | Tahun lokal | Δ tahun Bumi | Σ tahun Bumi | Usia Yazha |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1–35 | Bumi Fana | 0→0 | 3 | 3 | 3 | 14 |
+| 2 | 36–120 | Bumi Abadi | 0→2 | 6 | 2 | 5 | 20 |
+| 3 | 121–240 | Bumi Abadi | 2→3 | 6 | 2 | 7 | 26 |
+| 4 | 241–360 | Bumi Abadi | 3→4 | 9 | 3 | 10 | 35 |
+| 5 | 361–480 | Alam Bintang | 4→5 | 12 | 1 | 11 | 47 |
+| 6 | 481–600 | Alam Bintang | 5→6 | 24 | 2 | 13 | 71 |
+| 7 | 601–720 | Alam Bintang | 6→7 | 36 | 3 | 16 | 107 |
+| 8 | 721–840 | Alam Bintang → Alam Kekosongan | 7→8 | 132 | 3 | 19 | 239 |
+| 9 | 841–960 | Alam Kekosongan → Bumi Abadi | 8→9 | 119,05 | 2 | 21 | 358,05 |
+| 10 | 961–1080 | Alam Kekosongan | 9→10 | 180 | 3 | 24 | 538,05 |
+| 11 | 1081–1200 | Alam Kekosongan → Bumi Abadi | 10→11 | 239,05 | 4 | 28 | 777,1 |
+| 12 | 1201–1320 | Alam Keabadian | 11→13 | 450 | 1,5 | 29,5 | 1.227,1 |
+| 13 | 1321–1440 | Alam Keabadian → Bumi Abadi → Alam Keabadian | 13→16 | 1.450,5 | 5 | 34,5 | 2.677,6 |
+| 14 | 1441–1530 | Alam Keabadian; Luar Shell hanya bab 1530 | 16→17 | 1.350 | 4,5 | 39 | 4.027,6 |
+<!-- END CANON:volumes -->
 
-> **CATATAN:**  
-> Ini adalah peta jalan kekuatan Yazha dari awal sampai akhir — **14 volume, ~1530 bab**.  
-> **WAJIB** dipakai biar AI nggak kasih Yazha teknik atau senjata yang belum dia punya di volume tertentu.
+## Range level yang persis
 
----
+<!-- BEGIN CANON:levels -->
+| Lv | Nama | Batas hayat lokal | Bab Yazha pada level ini |
+| --- | --- | --- | --- |
+| 0 | Manusia biasa | 80 | 1–90 |
+| 1 | Voidskin | 90 | 91–106 |
+| 2 | Bloodboon | 100 | 107–210 |
+| 3 | Starborn | 110 | 211–330 |
+| 4 | Nexarch | 120 | 331–392 |
+| 5 | Soulsear | 300 | 393–540 |
+| 6 | Planar | 600 | 541–662 |
+| 7 | Astral | 1.200 | 663–818 |
+| 8 | Nebular | 2.500 | 819–864 |
+| 9 | Rune-Willed | 5.000 | 865–1000 |
+| 10 | Realmwarp | 10.000 | 1001–1140 |
+| 11 | True-World | 20.000 | 1141–1250 |
+| 12 | Truexa | 40.000 | 1251–1310 |
+| 13 | Nameless | 80.000 | 1311–1350 |
+| 14 | Solus | 160.000 | 1351–1380 |
+| 15 | Verity | 320.000 | 1381–1410 |
+| 16 | Primordial | 640.000 | 1411–1529 |
+| 17 | Unbegotten | Tidak menua; tetap dapat tewas | 1530–1530 |
+<!-- END CANON:levels -->
 
-## 1. RINGKASAN LEVEL PER VOLUME
+## Milestone yang tidak boleh dipindah diam-diam
 
-| Volume | Bab | Level Yazha | Core | Status Fisik |
-|--------|-----|-------------|------|--------------|
-| **Volume 1** | 1-35 | 0 | ❌ BELUM | Manusia fana, mimisan kronis |
-| **Volume 2 (Awal)** | 36-70 | 0 | ❌ BELUM | Survival tanpa Core, mulai terbiasa |
-| **Volume 2 (Tengah)** | 71-100 | 1 (Voidskin) | ❌ BELUM | Kulit mulai keras |
-| **Volume 2 (Akhir)** | 101-120 | 2 (Bloodboon) | ✅ Core buatan | **HARMONISASI VOID** — 7 Jalur melebur. Hukum Kehilangan lahir. Void Transformation Tahap 1 mulai stabil. Mata merah, retakan void ungu kehitaman di tangan & leher. |
-| **Volume 3** | 121-240 | 2-3 (Starborn) | ✅ Core buatan | Mata merah-ungu mulai stabil. Retakan void menyebar ke lengan atas dan bahu. |
-| **Volume 4** | 241-360 | 3-4 (Nexarch) | ✅ Core buatan | Rambut setengah putih. Void Transformation Tahap 3. |
-| **Volume 5** | 361-480 | 5-6 (Soulsear-Planar) | ✅ Core buatan | Rambut putih total, mata merah-ungu permanen. Void Transformation Tahap 4. |
-| **Volume 6** | 481-600 | 6-7 (Planar-Astral) | ✅ Core buatan | Domain Kehilangan mulai terbentuk. Void Transformation Tahap 5. |
-| **Volume 7** | 601-720 | 7-8 (Astral-Nebular) | ✅ Core buatan | Domain mulai menguat. |
-| **Volume 8** | 721-840 | 9-10 (Rune-Willed-Realmwarp) | ✅ Core buatan | Tanda fisik mulai memudar. Void Transformation Tahap 6. |
-| **Volume 9** | 841-960 | 11-12 (True-World-Truexa) | ✅ Core buatan | Semakin stabil. |
-| **Volume 10** | 961-1080 | 13-14 (Nameless-Solus) | ✅ Core buatan | "Si Pemuda Tanpa Nama" |
-| **Volume 11-12** | 1081-1320 | 15-16 (Verity-Primordial) | ✅ Core buatan | Bisa ubah penampilan. Void Transformation Tahap 7 — **Void Body**. |
-| **Volume 13-14** | 1321-1530 | 17 (Unbegotten) | ✅ Core buatan (melebur) | Melampaui fisik. |
+<!-- BEGIN CANON:milestones -->
+| Peristiwa | Volume | Bab | Arti |
+| --- | --- | --- | --- |
+| core | 2 | 91 | Core buatan dipasang; pertama kali Level 1 |
+| harmonisasi | 2 | 118 | Harmonisasi awal; hipotesis Kehilangan, bukan Domain |
+| voidstep | 2 | 119 | Voidstep pertama, jarak 5 m |
+| primeval | 5 | 389 | Inti Primeval: pemurni, tidak menciptakan Lesh Putih |
+| gerbang_api | 5 | 393 | Transisi 4→5 selesai |
+| gerbang_kesepian | 9 | 865 | Transisi 8→9 selesai |
+| gerbang_nameless | 12 | 1311 | Transisi 12→13 selesai |
+| dinding_1 | 13 | 1426 | Lepas hak menahan orang lain; Jejak Diri mandiri |
+| dinding_2 | 13 | 1440 | Protokol tujuh konstanta teruji; tubuh belum di luar Shell |
+| vision | 14 | 1524 | Penglihatan rumah dan anak-anak; bukan kejadian |
+| shell | 14 | 1530 | Dinding 3, menembus The Shell; Level 17; amnesia |
+<!-- END CANON:milestones -->
 
----
+## Membaca umur
 
-## 2. TIMELINE PEROLEHAN TEKNIK & SENJATA
+“Usia akhir volume” adalah usia setelah seluruh segmen pada volume, termasuk kunjungan. Peristiwa dalam volume terjadi sebelum angka akhir itu. Usia pada satu bab tidak boleh dihitung dengan membagi durasi rata ke semua bab: seclusion satu bab bisa berpuluh tahun, percakapan lima bab bisa satu sore. Rincian waktu bab dicatat saat drafting.
 
-| Volume | Bab (Estimasi) | Perolehan | Sumber |
-|--------|----------------|-----------|--------|
-| **Vol 1 (Awal)** | 1-10 | Tongkat Safir Aethel (dipinjam) | Wiadava |
-| **Vol 1 (Awal)** | 1-10 | Kamus Asal | Reruntuhan Halimun |
-| **Vol 1 (Tengah)** | 11-20 | Belajar simbol Asal pertama | Wiadava (via getaran) |
-| **Vol 2 (Awal Zona 5)** | 36-55 | Buku Catatan Wiadava (warisan) | Wiadava (buku biasa) |
-| **Vol 2 (Awal Zona 5)** | 36-55 | Soul Pressure | Buku Catatan Wiadava |
-| **Vol 2 (Tengah Zona 4)** | 56-85 | Buka Jalur Void 1-3 | Latihan sendiri |
-| **Vol 2 (Akhir)** | 86-120 | **Core buatan** | **Master Misterius** |
-| **Vol 2 (Akhir)** | 86-120 | Buka Jalur Void 4-7 | Latihan sendiri |
-| **Vol 2 (Akhir)** | 101-120 | **HARMONISASI VOID** — 7 Jalur melebur. Hukum Kehilangan lahir. | Core buatan + 7 Jalur Void |
-| **Vol 2 (Akhir) - Vol 3 (Awal)** | 101-180 | **Void Transformation Tahap 1** — mata merah, retakan di tangan & leher. | Harmonisasi Void |
-| **Vol 2 (Akhir) - Vol 3 (Awal)** | 101-180 | **Voidstep** — langkah tak terbatas, biaya 1.5% energi 7x lipat. | Harmonisasi Void + latihan sendiri |
-| **Vol 3 (Universitas)** | 121-180 | Sarung Tangan Baja Kristal | Broki Nori |
-| **Vol 3 (Universitas)** | 181-240 | Tatapan Merah | Dipelajari dari Buku Catatan Wiadava / latihan sendiri |
-| **Vol 4 (Grand Tournament)** | 241-300 | Kapak Perang Raynawa | Pasar loak Zona 3 |
-| **Vol 4 (Grand Tournament)** | 301-360 | Tatapan Ungu | Dipelajari dari latihan sendiri |
-| **Vol 5 (Alam Bintang)** | 361-420 | **Pedang Iblis Bintang** | Rampokan musuh |
-| **Vol 5 (Alam Bintang)** | 421-480 | Tusukan Hampa | Diajarkan Master Misterius |
-| **Vol 5 (Alam Bintang)** | 421-480 | Tatapan Merah-Ungu | Dipelajari dari latihan sendiri |
-| **Vol 6-7 (Perang Bintang)** | 481-720 | **Tali Rambat Alam Racun** | Rampokan musuh |
-| **Vol 6-7 (Perang Bintang)** | 481-720 | Domain Kehilangan | Hasil latihan sendiri |
-| **Vol 8-9 (Kekosongan)** | 721-960 | **Tungku Air Guntur Kosmik** | Diberikan Master Misterius / temuan reruntuhan |
-| **Vol 10-13 (Keabadian)** | 961-1440 | Penyempurnaan 5 Dimensi Kehilangan | Hasil latihan sendiri |
-| **Vol 14 (Final)** | 1441-1530 | Unbegotten | Puncak perjalanan |
+## Perubahan yang tersisa
 
----
+Operasi Core meninggalkan gangguan bahu, bukan hadiah kebas. V3 Moxi menghasilkan kewajiban moral. V5 Nala pulang usia 8 Level 0, bukan penambahan statistik. V6 Veyla mati; kemampuan Ungu sudah dipelajari sebelum itu. V7 perang selesai; warga masih perlu layanan. V10 pertemuan Vaniya menutup pencarian ibu secara aktual. V11 Bhas mati ketika Yazha di atas; V13 Yuna mati dengan Yazha hadir.
 
-## 3. PERUBAHAN FISIK PER VOLUME
-
-| Volume | Bab | Perubahan Fisik | Penyebab |
-|--------|-----|-----------------|----------|
-| **Vol 1** | 1-35 | Normal → mimisan kronis, badan kurus | Memaksa energi mentah |
-| **Vol 2 (Awal)** | 36-70 | Lebih kurus, wajah kusam | Survival tanpa Core |
-| **Vol 2 (Tengah)** | 71-100 | Kulit mulai keras | Level 1 (Voidskin) |
-| **Vol 2 (Akhir) - Vol 3 (Awal)** | 101-180 | **Mata merah, retakan void ungu kehitaman di tangan & leher.** Rambut mulai putih di ujung. | **Harmonisasi Void** — 7 Jalur melebur, Void Transformation Tahap 1. |
-| **Vol 3** | 121-240 | Mata merah-ungu mulai stabil, retakan void menyebar ke lengan atas dan bahu. | Level 2-3, Void Transformation Tahap 2. |
-| **Vol 4** | 241-360 | Rambut setengah putih. | Level 3-4, Void Transformation Tahap 3. |
-| **Vol 5** | 361-480 | Rambut putih total, mata merah-ungu permanen. | Level 5-6, Void Transformation Tahap 4. |
-| **Vol 6-7** | 481-720 | Bekas luka berpendar. | Level 6-8, Void Transformation Tahap 5. |
-| **Vol 8-9** | 721-960 | Tanda fisik mulai memudar. | Level 9-12, Void Transformation Tahap 6. |
-| **Vol 10** | 961-1080 | "Si Pemuda Tanpa Nama" | Level 13 (Nameless) |
-| **Vol 11-12** | 1081-1320 | Bisa ubah penampilan. | Level 15-16, Void Transformation Tahap 7 — **Void Body**. |
-| **Vol 13-14** | 1321-1530 | Melampaui fisik. | Level 17 (Unbegotten) |
-
----
-
-## 4. TOTAL BAB
-
-| Komponen | Jumlah |
-|----------|--------|
-| Volume 1 | 35 bab |
-| Volume 2-14 (13 volume × 110-120 bab) | 1.430 - 1.560 bab |
-| **Total** | **~1.465 - 1.595 bab** |
-| **Rata-rata** | **~1530 bab** |
-
----
-
-## 5. CATATAN PENTING BUAT AI
-
-| Aturan | Penjelasan |
-|--------|------------|
-| **Yazha BELUM punya Core di Vol 1** | Jangan tulis dia pake Core di Volume 1. |
-| **Core-nya buatan** | Bukan Core alami kayak Bhas/Yuna. |
-| **Harmonisasi Void di Vol 2-3, BUKAN Vol 4** | Jangan tulis Harmonisasi Void di Grand Tournament. |
-| **Voidstep dari Harmonisasi Void** | Bukan "Hakikat Jalur" yang berdiri sendiri. |
-| **Voidstep bisa dipakai kapan saja, langkah tak terbatas, biaya 1.5%** | Ini yang bikin Moxi unggul dari pembunuh bayaran lain. |
-| **Tongkat Safir Aethel TETAP dipake** | Jangan tulis "pensiun" — dia pake sampe akhir. |
-| **Pedang Iblis Bintang cuma di Vol 5+** | Jangan kasih dia pedang ini sebelum Alam Bintang. |
-| **Teknik datang dari sumber** | Soul Pressure dari Buku Catatan Wiadava, Tatapan Merah/Ungu dipelajari sendiri. |
-
----
-
-**— END OF FILE —**
+V13–14 beberapa pengalaman sensori hilang. Lv17 baru bab 1530, bukan saat Dinding 1. V14 tidak memuat perjalanan 900 tahun di Semesta Luar; semua latihan sampai 1529 masih memakai jam 300×. Prosa sekuel tidak boleh mengingat Akasa/Kanavi sebagai anak yang pernah lahir.

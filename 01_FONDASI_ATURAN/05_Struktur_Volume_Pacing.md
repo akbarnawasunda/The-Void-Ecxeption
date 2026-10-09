@@ -1,92 +1,53 @@
-# STRUKTUR VOLUME, PACING & SELF-AUDIT
+# STRUKTUR 14 VOLUME — KONFLIK, ISTIRAHAT, DAN PERUBAHAN
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN FONDASI – CETAK BIRU 14 VOLUME**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+## Hitungan yang tidak bergeser
 
-## 1. STRUKTUR VOLUME
+V1 35 bab; V2 85; V3–V13 masing-masing 120; V14 90. Total tepat **1.530**. Tidak lagi memakai rata-rata yang bertentangan dengan range bab. Bab adalah anggaran peristiwa, bukan kewajiban semua adegan mempunyai panjang sama.
 
-- **Prolog kosmik dihapus.** Cerita dimulai dari **Chapter 1: Halimun**.
-- **Volume 1:** 35 Bab.
-  - Fokus: keluarga Raynawa di **Desa Ciyasa**, pertemuan Wiadava di **Pegunungan Halimun**, latihan awal **tanpa Core**.
-  - Tempo cepat untuk bahagia, **lambat dan detail untuk sakit**.
-  - Yazha butuh **berbulan-bulan** untuk satu kata pertama.
-- **Volume 2 - Volume 14:** Masing-masing **110-120 Bab**.
-  - Total: 35 + (13 × 115) = **1.530 bab** (rata-rata 115 bab per volume).
-- **Total Volume:** 14 volume.
+<!-- BEGIN CANON:volumes -->
+| Vol | Bab | Lokasi Yazha | Level | Tahun lokal | Δ tahun Bumi | Σ tahun Bumi | Usia Yazha |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1–35 | Bumi Fana | 0→0 | 3 | 3 | 3 | 14 |
+| 2 | 36–120 | Bumi Abadi | 0→2 | 6 | 2 | 5 | 20 |
+| 3 | 121–240 | Bumi Abadi | 2→3 | 6 | 2 | 7 | 26 |
+| 4 | 241–360 | Bumi Abadi | 3→4 | 9 | 3 | 10 | 35 |
+| 5 | 361–480 | Alam Bintang | 4→5 | 12 | 1 | 11 | 47 |
+| 6 | 481–600 | Alam Bintang | 5→6 | 24 | 2 | 13 | 71 |
+| 7 | 601–720 | Alam Bintang | 6→7 | 36 | 3 | 16 | 107 |
+| 8 | 721–840 | Alam Bintang → Alam Kekosongan | 7→8 | 132 | 3 | 19 | 239 |
+| 9 | 841–960 | Alam Kekosongan → Bumi Abadi | 8→9 | 119,05 | 2 | 21 | 358,05 |
+| 10 | 961–1080 | Alam Kekosongan | 9→10 | 180 | 3 | 24 | 538,05 |
+| 11 | 1081–1200 | Alam Kekosongan → Bumi Abadi | 10→11 | 239,05 | 4 | 28 | 777,1 |
+| 12 | 1201–1320 | Alam Keabadian | 11→13 | 450 | 1,5 | 29,5 | 1.227,1 |
+| 13 | 1321–1440 | Alam Keabadian → Bumi Abadi → Alam Keabadian | 13→16 | 1.450,5 | 5 | 34,5 | 2.677,6 |
+| 14 | 1441–1530 | Alam Keabadian; Luar Shell hanya bab 1530 | 16→17 | 1.350 | 4,5 | 39 | 4.027,6 |
+<!-- END CANON:volumes -->
 
-**CATATAN POV:**
-- Volume 1: 95% POV Yazha. Pengecualian: Bab 2 (guru di permukaan) + satu bab penuh kematian Wiadava.
-- Volume 2-14: 95% POV Yazha. Maks 1-2 bab pengecualian per volume, hanya untuk klimaks besar.
-- Pengecualian ditandai: `ΩΩΩΩΩΩΩΩΩΩΩΩΩΩΩΩ`
+## Empat gerakan seri
 
----
+1. **V1–4: memiliki orang.** Rumah, kerja, teman, dan perbedaan kelas. Pembaca mengenal Yazha sebelum ia bisa menghapus sifat api.
+2. **V5–7: kehilangan hak mengendalikan.** Nala kembali tetapi tidak langsung menjadi adik yang ia ingat. Veyla memilih proyeknya. Dendam selesai tanpa mengembalikan mereka.
+3. **V8–11: kehilangan bisa dibuat institusi.** Dokumen, upah, mesin buangan, dan waktu menjelaskan siapa yang menghilang dari catatan. Yazha harus belajar akuntabilitas, bukan sekadar menyerang kantor.
+4. **V12–14: hidup sesudah alasan pertama.** Lawan terakhir menawarkan kendali dan arsip sempurna. Yazha memastikan ada orang yang mampu bekerja tanpa dirinya, lalu memilih ketidakpastian.
 
-## 2. ATURAN PACING
+## Rasio adegan
 
-| Situasi | Tempo | Contoh |
-|---------|-------|--------|
-| **Peristiwa bahagia / latihan berulang** | Cepat (dikompresi) | *"Tiga bulan berlalu. Yazha masih gagal."* |
-| **Momen penderitaan Yazha** | **Lambat & Detail** | Ditulis adegan demi adegan, sensasi demi sensasi. |
-| **Aksi / pertarungan** | Cepat, kalimat pendek | *"Pukul. Hindar. Darah. Jatuh."* |
-| **Momen reflektif / diam** | Lambat, kalimat panjang | *"Ia duduk di kamarnya. Berjam-jam. Hanya menatap retakan di langit-langit."* |
+Setiap arc: pekerjaan/kehidupan sipil, pertentangan, penentuan pilihan, klimaks, aftermath. Proporsi fleksibel. Latihan tanpa hasil pilihan dikompresi. Kebahagiaan yang mengungkap relasi diberi waktu. Penderitaan berulang yang tidak mengubah apa pun dipotong.
 
----
+Seclusion panjang cukup **2–6 bab aktif** per perubahan besar, diselingi hasil kegagalan, surat, dan perubahan lingkungan. Jangan menulis delapan puluh bab gerakan identik untuk menampung seratus tahun. Tunjukkan satu patokan sebelum dan setelah lompatan: pohon, pemilik kedai, tangan, nama jalan, atau kebiasaan menyapa.
 
-## 3. CATATAN PENTING TENTANG CORE YAZHA (PER VOLUME)
+## Catatan POV
 
-| Volume | Status Core Yazha |
-|--------|-------------------|
-| **Volume 1** | **BELUM** punya Core. Memaksa energi mentah. |
-| **Volume 2 (Awal)** | **BELUM** punya Core. Bertahan hidup tanpa Core. |
-| **Volume 2 (Tengah - Akhir)** | **Master Misterius** membentukkan Core untuknya. Core buatan, bukan anugerah. |
-| **Volume 3+** | Mulai menggunakan Core buatan. Tetap lebih lemah dari Core alami Bhaskara/Ryuna. |
+POV utama Yazha. Bab Wiadava di Pluto memiliki label **Wiadava**; bukan Yazha menyaksikan lokasi yang tidak didatanginya. Satu interlude Nala pada fase kendali memberi pembaca akses atas pilihan kecilnya, tanpa menjadikan trauma anak tontonan. Tidak ada akses ke masa depan yang digunakan untuk membocorkan solusi.
 
----
+## Pemeriksaan bab
 
-## 4. TIMELINE DASAR (CUMA YANG PENTING)
-
-| Tahun | Kejadian |
-|-------|----------|
-| **2084** | Awal cerita — Yazha berusia 11 tahun, Nala berusia 2–3 tahun. |
-| **17 Agustus 2087** | Invasi — Wiadava mati, keluarga hancur, Yazha masuk Bumi Abadi. |
-
-**Sisanya:** Tidak usah ditulis tahun spesifik. Cukup *"ribuan tahun"* atau *"jutaan era"* untuk perjalanan selanjutnya.
-
----
-
-## 5. DAFTAR PERIKSA SELF-AUDIT
-
-> **WAJIB** diperiksa untuk setiap bab sebelum disimpan.
-
-**Zero Potential & Filosofi:**
-- [ ] Yazha disebut "berbakat" atau "istimewa"? → HAPUS.
-- [ ] Ada "takdir" atau "ramalan"? → HAPUS.
-- [ ] Yazha berhasil terlalu cepat? → TAMBAHKAN KEGAGALAN.
-- [ ] Ada "warisan" atau "darah khusus" untuk Yazha? → HAPUS.
-- [ ] Narator menyangkal takdir? → HAPUS. Ganti fisik.
-
-**Gaya & Bahasa:**
-- [ ] Semua dialog/monolog pakai **"aku/kamu"**? (Tidak ada "gue/lo").
-- [ ] Narasi natural dan modern? (Boleh pakai "nggak", "udah", "banget", tapi hindari slang kasar).
-- [ ] Filter words (`Yazha merasa`)? → HAPUS.
-- [ ] AI-isms (`laksana`, `bagai`)? → HAPUS.
-- [ ] Seruan teologis? → HAPUS (lihat `04_Absolute_Secularism.md`).
-- [ ] Ritme kalimat bervariasi?
-- [ ] 3 indera per adegan?
-- [ ] Metafora Desa Ciyasa minimal 2-3?
-
-**Konsekuensi & Core:**
-- [ ] Harga fisik muncul dan bertahan? (Efek mimisan masih terasa bab berikutnya).
-- [ ] Apakah Yazha sudah punya Core di bab ini? (Vol 1 & awal Vol 2 = BELUM).
-
-**Absolute Secularism (Lihat `04_Absolute_Secularism.md`):**
-- [ ] Ada kata "Buku Catatan"? → GANTI dengan "buku", "catatan", "prasasti".
-- [ ] Ada kata "Hakikat" di luar konteks teknis? → GANTI dengan "esensi" atau "inti".
-- [ ] Ada kata serapan Arab (selamat, mustahil, akhlak, rizki, dll.)? → GANTI.
-- [ ] Ada nama atau identitas Arab? → GANTI.
-
----
-
-**— END OF FILE —**
+- Apa yang berubah selain HP/level?
+- Apa yang tokoh coba sembunyikan dari dirinya?
+- Dapatkah dialog dikenali tanpa label nama?
+- Adakah adegan hangat yang tidak berubah menjadi ancaman pada paragraf yang sama?
+- Sudah dicatat energi, beban, luka, waktu, saksi, dan informasi yang diketahui?
+- Akhir bab menjanjikan pertanyaan yang tepat, bukan selalu “musuh lebih kuat datang”.

@@ -1,79 +1,20 @@
-# KEKAISARAN ARUS — PEMERINTAHAN SIPIL BUMI ABADI
+# KEKAISARAN ARUS — LAYANAN SIPIL DI ANTARA KUASA
 
-**SERIES BIBLE – THE VOID'S EXCEPTION**  
-**BAGIAN DUNIA – OTORITAS DI ZONA 3**
+<!-- canon:v5 -->
+**Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](../00_CANON_TERKUNCI.md).
 
----
+Kekaisaran Arus berpusat Kota Arus, membentang daerah sipil Elyra-Thal. Pemerintah mengurus air, jalan, polisi, klinik, catatan kelahiran, dan pajak pasar. Tidak memegang sebelas node sekaligus dan bukan cabang otomatis Dewan Tujuh.
 
-## 1. STRUKTUR PEMERINTAHAN
+## Tiga konflik institusi
 
-| Aspek | Detail |
-|-------|--------|
-| **Nama Resmi** | Kekaisaran Arus |
-| **Wilayah** | Zona 3 (Kota Arus) dan sebagian Zona 2 |
-| **Kepala** | Kaisar Arus (Kaisar ke-7) — manusia biasa, bukan kultivator. |
-| **Tujuan** | Mengurus administrasi, pajak, penegakan hukum, dan kehidupan sipil. |
+- Klinik wajib menerima darurat, distributor menuntut jaminan kontrak. Bastian merawat lebih dahulu dan menghadapi tagihan; kebaikan mempunyai kerja lanjutan.
+- Polisi pasar memerlukan bukti, tetapi unit izin dapat disuap Sekte Bayang. Yazha tidak dapat menyerang semua petugas lalu dianggap benar. Valiant memberi kesaksian, bukan menghapus aturan.
+- Pejabat takut blokade kuota. Beberapa ingin kesepakatan Astralis, yang lain mendukung audit tim GT. Pergeseran politik mempunyai biaya air/obat, bukan hanya simbol bendera.
 
-**Sistem Pemerintahan:**
-- Kaisar adalah kepala negara, tapi tidak memiliki kekuatan kultivasi.
-- Dibantu oleh **Dewan Menteri** — pejabat sipil yang mengurus berbagai departemen.
-- Tidak ada hubungan dengan Dewan Tujuh — mereka adalah entitas terpisah.
+## Setelah perang
 
----
+V7 gelombang pengungsi kembali menuntut tempat. Bhas membangun logistik, Yuna klinik dan jam, Nala kelak layanan pengembalian dokumen. Mereka menolong juga keluarga pihak lawan yang tidak melakukan pembantaian.
 
-## 2. INSTANSI DI BAWAH KEKAISARAN
+V10 data kuota memberi pemerintah alat menawar. V11 serangan atas terminal evakuasi menunjukkan faksi identitas dapat menyerang layanan yang terlihat tidak penting. Bhas mati menjalankan pekerjaan ini, bukan menghalangi satu tinju Lv16 dengan tubuh Lv4.
 
-| Instansi | Fungsi |
-|----------|--------|
-| **Bank Arus** | Mencetak dan mengatur sirkulasi Koin Kristal. |
-| **Kantor Pajak** | Memungut pajak dari pedagang dan warga. |
-| **Penjaga Kota** | Polisi sipil — menangani kejahatan antar warga biasa. |
-| **Pengadilan Sipil** | Menyelesaikan sengketa antar warga (bukan antar kultivator). |
-
----
-
-## 3. HUBUNGAN DENGAN DEWAN TUJUH
-
-| Aspek | Detail |
-|-------|--------|
-| **Dewan Tujuh** | Hanya menjaga Lesh #7. Mereka **tidak peduli** dengan urusan sipil. |
-| **Kekaisaran Arus** | Mengurus semua urusan sipil. |
-| **Pembagian Kekuasaan** | Dewan 7 = urusan kosmik. Kekaisaran Arus = urusan sehari-hari. |
-| **Konflik** | Tidak ada konflik — karena mereka tidak pernah berinteraksi. Dewan 7 tidak pernah turun ke Zona 3. |
-
----
-
-## 4. PERUBAHAN DARI DRAFT LAMA
-
-| Aspek | Draft Lama | Draft Baru |
-|-------|------------|------------|
-| **Nama** | Kekaisaran Arus | Kekaisaran Arus (tetap) |
-| **Wilayah** | Zona 3 | Zona 3 (tetap) |
-| **Kepala** | Kaisar Arus (Kaisar ke-7) | Kaisar Arus (Kaisar ke-7) — tetap |
-| **Hubungan dengan Dewan 7** | Tidak ada | Tidak ada (tetap) |
-
----
-
-## 5. KUTIPAN KUNCI
-
-| Kutipan | Konteks |
-|---------|---------|
-| *"Kekaisaran Arus mengurus pajak, jalan, dan pasar. Dewan Tujuh mengurus... apa pun yang mereka urus. Kami tidak pernah bertanya."* | Pejabat Kekaisaran Arus. |
-| *"Kaisar ke-7 adalah manusia biasa. Tapi ia memerintah lebih lama dari kebanyakan kultivator. Karena ia tidak pernah mencoba menjadi apa yang bukan dirinya."* | Archon Valiant, tentang Kaisar Arus. |
-| *"Dewan Tujuh tidak peduli dengan urusan sipil. Dan kami tidak peduli dengan urusan mereka. Itulah sebabnya semuanya berjalan."* | Kaisar Arus ke-7. |
-
----
-
-## 6. ATURAN PENULISAN WAJIB
-
-| Aturan | Detail |
-|--------|--------|
-| **Nama** | Harus **Kekaisaran Arus** — konsisten. |
-| **Kaisar** | Manusia biasa — bukan kultivator. Ini penting untuk tema Zero Potential. |
-| **Wilayah** | Hanya di Zona 3 dan sebagian Zona 2. Jangan tulis mereka berkuasa di Zona 1, 4, atau 5. |
-| **Hubungan dengan Dewan 7** | **TIDAK ADA.** Mereka adalah dua entitas terpisah yang tidak pernah berinteraksi. |
-| **Konsistensi** | Kekaisaran Arus adalah pemerintah sipil — bukan militer atau kultivasi. |
-
----
-
-**— END OF FILE —**
+Akhir seri: pemerintah ikut perjanjian kendali baru, masih dapat korup/digugat. Yazha tidak menjadi kaisar yang menentukan seluruh kehidupan warga dari luar Shell.
