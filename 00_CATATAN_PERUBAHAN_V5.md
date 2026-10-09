@@ -76,3 +76,7 @@ R01 mengubah usia/keluarga/sekuel. R05/R09/R10 mengubah duel. R13/R14/R24 mengub
 Pecahan jam, coverage bab/arc, minimum level, milestone, sebelas node, tujuh tahanan/stasis, kematian/visi, sekuel, blok terbitan, penanda arsip, dan tautan lokal. **52 regresi**, termasuk data/doc korup, menguji pemeriksa benar-benar menolak beberapa celah. Ini bukan bukti otomatis seluruh prosa sempurna.
 
 Review editorial tetap menilai sumber pengetahuan, alternatif, harga, aftermath, serta kehendak tokoh tanpa Yazha. Angka konsisten belum menjadikan kalimat terasa. [Ringkasan](00_RINGKASAN_REWRITE_V5.md) dan [adegan uji](11_NASKAH_UJI/01_Tujuh_Adegan_Kunci.md) menjadi pintu baca.
+
+## Lanjutan — materialisasi naskah
+
+Permintaan “lanjut” diterapkan sebagai penulisan prosa utama, bukan perluasan outline lagi. Bab001–008 tersedia sebagai draf 1; tidak mengubah angka/gerbang/ending V5. [Catatan N01–N06](12_NASKAH_UTAMA/02_Catatan_Arc_Pembuka.md) merekam rincian baru dan dependensinya; [indeks naskah](12_NASKAH_UTAMA/00_INDEKS_NASKAH.md) menunjukkan batas kemajuan.

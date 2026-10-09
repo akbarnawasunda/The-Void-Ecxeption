@@ -7,6 +7,10 @@
 
 [Ringkasan](00_RINGKASAN_REWRITE_V5.md) → [kontrak](00_CANON_TERKUNCI.md) → [plot](07_PETA_ALUR_PLOT/07_Peta_Alur_Plot.md) → [adegan uji](11_NASKAH_UJI/01_Tujuh_Adegan_Kunci.md). [Changelog](00_CATATAN_PERUBAHAN_V5.md) menyimpan 35 keputusan yang bisa ditinjau satu per satu.
 
+## Naskah aktual
+
+[Volume 1 bab 001–008](12_NASKAH_UTAMA/01_Baca_Volume_01_Bab_001_008.md), [indeks naskah](12_NASKAH_UTAMA/00_INDEKS_NASKAH.md), [catatan editor](12_NASKAH_UTAMA/02_Catatan_Arc_Pembuka.md). Status draf, baru 8 bab; sisanya tetap bible/kartu.
+
 ## Bagian
 
 - Fondasi: [Zero Potential](01_FONDASI_ATURAN/01_Zero_Potential_Absolut.md), [CPS](01_FONDASI_ATURAN/02_CPS_Protocol.md), [makna](01_FONDASI_ATURAN/03_Blacklist_Kata.md), [sekuler](01_FONDASI_ATURAN/04_Absolute_Secularism.md), [pacing](01_FONDASI_ATURAN/05_Struktur_Volume_Pacing.md), [emosi](01_FONDASI_ATURAN/06_Mesin_Emosi_Dan_Prosa.md).

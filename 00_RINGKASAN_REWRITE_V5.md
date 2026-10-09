@@ -3,6 +3,10 @@
 <!-- canon:v5 -->
 **Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](00_CANON_TERKUNCI.md).
 
+## Lanjutan yang sudah ditulis
+
+[Volume 1 bab 001–008](12_NASKAH_UTAMA/01_Baca_Volume_01_Bab_001_008.md) sekarang tersedia sebagai draf prosa utuh, sekitar 11,4 ribu kata. [Indeks naskah](12_NASKAH_UTAMA/00_INDEKS_NASKAH.md) membedakan kemajuan aktual dari kartu yang belum menjadi naskah.
+
 ## Apa yang berubah
 
 Ini rewrite **series bible**: aturan, dunia, tokoh, plot utama, sekuel, dan panduan prosa. Bukan klaim 1.530 bab novel sudah ditulis. Fondasi V4 juga dibongkar ketika ternyata menciptakan keistimewaan rahasia, harga acak, atau kerusakan layanan sipil.

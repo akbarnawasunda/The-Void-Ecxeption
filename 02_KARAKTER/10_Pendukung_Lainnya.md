@@ -27,3 +27,11 @@ Bastian memotong upah untuk bahan yang terbakar tetapi tetap memberi makan. Brok
 ## Nama yang jangan tertukar
 
 Kaelan Di mahasiswa. Kaelen Whisperwind tahanan. **Keran Vale** juru catat Ordo. Kurogane klan bengkel; Nori nama keluarga Broki. Elowen bukan pemegang Lesh yang harus memberikan seluruh ilmu pada anak baru ditemui.
+
+## Maera Rell — tenaga medis Ciyasa/Halimun
+
+Perempuan Human-Standard, usia 41 pada epoch 2084, Level 0. Dokter layanan yang dipakai keluarga Dewantara, mendampingi penolong publik setelah penemuan pasien Halimun. Ia terlatih pada perawatan/perangkat, bukan memiliki semua Hukum atau pangkat spiritual tinggi.
+
+Ia membedakan bantuan medis yang bisa diukur dari penyangga yang belum dikenal. Tidak memberi anak tugas penjaga pasien atau hak menjanjikan dana/mengambil benda. Ia dapat lelah, belum tahu jawaban, dan meminta bantuan teknis. Tidak menyembuhkan Wiadava secara instan atau memberikan seluruh pengetahuan kosmos.
+
+Debut dalam draf bab 005. Nama/umur pasien belum diketahui anak pada arc pembuka; identitas penulis tetap Aethel Wiadava. [Catatan draf](../12_NASKAH_UTAMA/02_Catatan_Arc_Pembuka.md) menyimpan rincian N02 dan batas penggunaannya.

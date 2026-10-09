@@ -3,7 +3,13 @@
 <!-- canon:v5 -->
 **Kanon aktif: V5.0 — 9 Oktober 2026.** [Kontrak utama](00_CANON_TERKUNCI.md).
 
-Rewrite aktif V5: dunia dark cultivation dengan sebab-akibat yang dapat diperiksa dan tokoh yang mempunyai pilihan di luar ambisi protagonis. Semua pengembangan seri utama mengikuti 14 volume/1.530 slot bab. **Repository ini bible dan cetak biru, bukan naskah penuh 1.530 bab.**
+Rewrite aktif V5: dunia dark cultivation dengan sebab-akibat yang dapat diperiksa dan tokoh yang mempunyai pilihan di luar ambisi protagonis. Semua pengembangan seri utama mengikuti 14 volume/1.530 slot bab. **Repository memuat bible serta draf sebagian naskah, bukan naskah penuh 1.530 bab.**
+
+## Naskah yang sudah dapat dibaca
+
+**[Volume 1 bab 001–008 — satu berkas baca](12_NASKAH_UTAMA/01_Baca_Volume_01_Bab_001_008.md)**. Ini prosa draf bab utuh, bukan outline. [Indeks/source](12_NASKAH_UTAMA/00_INDEKS_NASKAH.md) dan [catatan editor](12_NASKAH_UTAMA/02_Catatan_Arc_Pembuka.md) terpisah dari cerita.
+
+Kemajuan: 8/35 bab Volume 1, 8/1.530 bab utama. Kelanjutan bab 009 masuk 2085 sesuai kartu; tidak ada klaim seluruh novel telah selesai. Sumber bab dapat diedit, berkas baca dibuat ulang lewat `python3 scripts/render_manuscript.py` dan dicek memakai `--check`.
 
 ## Jalur baca
 
@@ -34,11 +40,12 @@ Jam:39 tahun Bumi 2084→2123;4.016,6 tahun lokal Yazha; usia akhir 4.027,6. Dat
 python3 scripts/render_canon.py
 python3 scripts/render_canon.py --check
 python3 scripts/check_canon.py
+python3 scripts/render_manuscript.py --check
 python3 -m unittest discover -s tests -v
 git diff --check
 ```
 
-Pemeriksa mempunyai **52 regresi**, termasuk data/doc korup: salah jam, arc bertabrakan, node kedua belas, VT sebelum level, stasis tanpa hitungan, anak penglihatan dianggap aktual, tautan rusak, dan kondisi kematian. Workflow GitHub menjalankan pemeriksaan yang sama; belum berarti quality sastra telah “lulus mesin”.
+Pemeriksa kanon mempunyai **52 regresi**, ditambah **29 regresi naskah** (**81 total**). Fixture menguji deklarasi tanggal/usia/level, berkas prosa dan salinan, selain data/doc korup: salah jam, arc bertabrakan, node kedua belas, VT sebelum level, stasis tanpa hitungan, anak penglihatan dianggap aktual, tautan rusak, dan kondisi kematian. Workflow GitHub menjalankan pemeriksaan yang sama; belum berarti kualitas sastra telah “lulus mesin”.
 
 **Batas pemeriksa:** struktur/angka/status dan konsistensi salinan. Ia tidak memahami seluruh semantik prosa atau menjamin setiap adegan menyentuh. Gunakan checklist pilihan, sumber pengetahuan, alternatif, harga, dan aftermath untuk review editorial.
 
